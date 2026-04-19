@@ -4,7 +4,7 @@ Archive repository for character-oriented prompt skills gathered from local agen
 
 ## Overview
 
-- Current archive size: `58` character skills
+- Current archive size: `68` character skills
 - Grouping rule: one top-level directory per work slug
 - Copy policy: whole skill directories are preserved, including bundled `references/` and `scripts/`
 - Registry status: this repository is an archive layout, not yet an auto-discovered skill registry
@@ -40,6 +40,7 @@ fate-stay-night/rin-tohsaka-perspective/
 | Slug | Work | Skill Count |
 | --- | --- | ---: |
 | `amairo-islenauts` | `《天色＊アイルノーツ》` | 4 |
+| `ave-mujica` | `《BanG Dream! Ave Mujica》` | 5 |
 | `charlotte` | `《Charlotte》` | 1 |
 | `dracu-riot` | `《DRACU-RIOT!》` | 4 |
 | `fate` | `《Fate》` | 1 |
@@ -47,6 +48,7 @@ fate-stay-night/rin-tohsaka-perspective/
 | `fate-stay-night` | `《Fate/stay night》` | 5 |
 | `konosuba` | `《为美好的世界献上祝福！》` | 1 |
 | `majono-yoru-en` | `《魔女的夜宴》` | 4 |
+| `mygo` | `《BanG Dream! It's MyGO!!!!!》` | 5 |
 | `noble-works` | `《のーぶる☆わーくす》` | 5 |
 | `overlord` | `《Overlord》` | 13 |
 | `riddle-joker` | `《RIDDLE JOKER》` | 5 |
