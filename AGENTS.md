@@ -120,7 +120,35 @@ luluka-perspective/         # 露露卡
 | 日期 | 操作 |
 |------|------|
 | 2026-04-22 | 创建 AGENTS.md，迁移 skills/ 到按作品分类结构 |
-| 2026-04-22 | 添加 madoka-perspective |
+| 2026-04-22 | 添加 luluka-perspective |
+| 2026-04-22 | 迁移所有角色到新结构（21个作品，~80个角色） |
+
+## 作品目录映射
+
+| 目录名 | 作品 |
+|--------|------|
+| amairo-islenauts | 青色魔法少女 |
+| ave-mujica | 偶像梦幻乐团 |
+| charlotte | Charlotte |
+| dracu-riot | 德古拉之怒 |
+| fate | FATE |
+| fate-grand-order | FGO |
+| fate-stay-night | FS/N |
+| konosuba | 为美好的世界献上祝福 |
+| madoka | 魔法少女小圆 |
+| majono-yoru-en | 无职转生 |
+| my-go | MyGO!!!!! |
+| noble-works | NOBLE WORKS |
+| overlord | Overlord |
+| riddle-joker | 谜之屋 |
+| sanoba-witch | 圣痕炼金术师 |
+| senren-banka | 宿命回响 |
+| seraph-of-the-end | 终结的炽天使 |
+| star-detective-precure | 名侦探光之美少女 |
+| steins-gate | 命运石之门 |
+| touhou-project | 东方Project |
+| tsuki-ni-yorisou | 月依 |
+| vocaloid | 初音未来 |
 
 ---
 
