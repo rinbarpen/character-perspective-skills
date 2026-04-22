@@ -4,8 +4,8 @@ Archive repository for character-oriented prompt skills gathered from local agen
 
 ## Overview
 
-- Current archive size: `68` character skills
-- Grouping rule: one top-level directory per work slug
+- Current archive size: `69` character skills
+- Grouping rule: one top-level directory per work slug under `skills/`
 - Copy policy: whole skill directories are preserved, including bundled `references/` and `scripts/`
 - Registry status: this repository is an archive layout, not yet an auto-discovered skill registry
 
@@ -24,15 +24,15 @@ When the same skill existed in multiple sources, the higher-priority source won.
 Each skill lives at:
 
 ```text
-<work-slug>/<skill-name>/
+skills/<work-slug>/<skill-name>/
 ```
 
 Example:
 
 ```text
-overlord/ainz-ooal-gown-perspective/
-touhou-project/flandre-scarlet-perspective/
-fate-stay-night/rin-tohsaka-perspective/
+skills/overlord/ainz-ooal-gown-perspective/
+skills/touhou-project/flandre-scarlet-perspective/
+skills/fate-stay-night/rin-tohsaka-perspective/
 ```
 
 ## Works
@@ -58,8 +58,19 @@ fate-stay-night/rin-tohsaka-perspective/
 | `steins-gate` | `《命运石之门》` | 1 |
 | `touhou-project` | `《东方Project》` | 4 |
 | `tsuki-ni-yorisou-otome-no-sahou` | `《近月少女的礼仪》` | 1 |
+| `vocaloid` | `《Vocaloid》` | 1 |
+
+## Ave Mujica Index
+
+Current archived skills under `skills/ave-mujica/`:
+
+- `skills/ave-mujica/togawa-sakiko-perspective/`
+- `skills/ave-mujica/wakaba-mutsumi-perspective/`
+- `skills/ave-mujica/misumi-uika-perspective/`
+- `skills/ave-mujica/yahata-umiri-perspective/`
+- `skills/ave-mujica/yutenji-nyamu-perspective/`
 
 ## Notes
 
-- Original source directories were intentionally left unchanged.
+- Original source directories outside this archive repository were intentionally left unchanged.
 - This repository currently focuses on preservation and organization, not runtime integration.
