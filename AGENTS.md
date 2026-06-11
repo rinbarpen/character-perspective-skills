@@ -8,17 +8,20 @@
 
 ```
 roles/
-├── [作品英文名]/
-│   └── [角色名]-perspective/
-│       ├── SKILL.md
-│       └── references/
-│           └── research/
-│               ├── 01-writings.md      # 官方设定
-│               ├── 02-conversations.md  # 台词对话
-│               ├── 03-expression-dna.md  # 说话风格
-│               ├── 04-external-views.md  # 他者评价
-│               ├── 05-decisions.md  # 关键行为
-│               └── 06-timeline.md  # 时间线
+├── assets/
+│   └── portraits/
+├── characters/
+│   └── [作品英文名]/
+│       └── [角色名]-perspective/
+│           ├── SKILL.md
+│           └── references/
+│               └── research/
+│                   ├── 01-writings.md      # 官方设定
+│                   ├── 02-conversations.md  # 台词对话
+│                   ├── 03-expression-dna.md  # 说话风格
+│                   ├── 04-external-views.md  # 他者评价
+│                   ├── 05-decisions.md  # 关键行为
+│                   └── 06-timeline.md  # 时间线
 ```
 
 ---
@@ -33,9 +36,10 @@ roles/
 |------|--------|
 | 名侦探光之美少女 | star-detective-precure |
 | 偶像梦幻乐团 | ave-mujica |
-| MyGO!!!!! | my-go |
+| MyGO!!!!! | mygo |
 | 宿命回响 | senren-banka |
 | 东方Project | touhou-project |
+| 转生史莱姆 / 关于我转生变成史莱姆这档事 | tensei-shitara-slime-datta-ken |
 | 无职转生 | majono-yoru-en |
 | ... | ... |
 
@@ -60,7 +64,7 @@ luluka-perspective/         # 露露卡
 
 2. **创建目录结构**
    ```bash
-   mkdir -p roles/[作品名]/[角色名]-perspective/references/research
+   mkdir -p characters/[作品名]/[角色名]-perspective/references/research
    ```
 
 3. **运行6个并行Agent调研**
@@ -122,13 +126,16 @@ luluka-perspective/         # 露露卡
 | 2026-04-22 | 创建 AGENTS.md，迁移 skills/ 到按作品分类结构 |
 | 2026-04-22 | 添加 luluka-perspective |
 | 2026-04-22 | 迁移所有角色到新结构（21个作品，~80个角色） |
+| 2026-06-11 | 全量整理：创建 characters/ 目录，所有角色数据移入 characters/；assets/ 保留根目录；清理嵌套 roles/ 遗留目录；更新 AGENTS.md 映射表 |
 
 ## 作品目录映射
 
 | 目录名 | 作品 |
 |--------|------|
 | amairo-islenauts | 青色魔法少女 |
+| angel-beats | Angel Beats! |
 | ave-mujica | 偶像梦幻乐团 |
+| bocchi-the-rock | 孤独摇滚！ |
 | charlotte | Charlotte |
 | dracu-riot | 德古拉之怒 |
 | fate | FATE |
@@ -136,18 +143,26 @@ luluka-perspective/         # 露露卡
 | fate-stay-night | FS/N |
 | konosuba | 为美好的世界献上祝福 |
 | madoka | 魔法少女小圆 |
+| majo-no-tabitabi | 魔女之旅 |
 | majono-yoru-en | 无职转生 |
-| my-go | MyGO!!!!! |
+| mygo | MyGO!!!!! |
+| neon-genesis-evangelion | 新世纪福音战士 / EVA |
 | noble-works | NOBLE WORKS |
+| otonari-no-tenshi-sama | 关于邻家的天使大人不知不觉把我惯成了废人这档子事 |
 | overlord | Overlord |
+| otome-riron | 乙女理論とその周辺 / 月に寄りそう乙女の作法 |
 | riddle-joker | 谜之屋 |
+| sakura-no-toki | 樱之刻 |
+| sakura-no-uta | 樱之诗 |
 | sanoba-witch | 圣痕炼金术师 |
 | senren-banka | 宿命回响 |
 | seraph-of-the-end | 终结的炽天使 |
+| sword-art-online | Sword Art Online / 刀剑神域 |
 | star-detective-precure | 名侦探光之美少女 |
 | steins-gate | 命运石之门 |
+| tensei-shitara-slime-datta-ken | 转生史莱姆 / 关于我转生变成史莱姆这档事 |
 | touhou-project | 东方Project |
-| tsuki-ni-yorisou | 月依 |
+| tsuki-ni-yorisou-otome-no-sahou | 月依 |
 | vocaloid | 初音未来 |
 
 ---
