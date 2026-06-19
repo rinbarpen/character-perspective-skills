@@ -22,6 +22,9 @@ roles/
 │                   ├── 04-external-views.md  # 他者评价
 │                   ├── 05-decisions.md  # 关键行为
 │                   └── 06-timeline.md  # 时间线
+├── skills/
+│   └── [工具名]/
+│       └── SKILL.md                        # 工具型 Skill
 ```
 
 ---
