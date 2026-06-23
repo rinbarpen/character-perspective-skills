@@ -1,4 +1,6 @@
 {
+  "idolmaster": ["akagi-miria-perspective", "ichihara-nina-perspective", "koga-koharu-perspective", "matoba-risa-perspective", "ryuzaki-kaoru-perspective", "sakurai-momoka-perspective", "sasaki-chie-perspective", "tachibana-arisu-perspective", "yuki-haru-perspective", "yusa-kozue-perspective"],
+  "kyokou-suiri": ["iwanaga-kotoko-perspective"],
   "angel-beats": ["tachibana-kanade-perspective"],
   "ave-mujica": ["misumi-uika", "togawa-sakiko", "wakaba-mutsumi", "yahata-umiri", "yutenji-nyamu"],
   "bocchi-the-rock": ["hitori-gotoh", "ikuyo-kita", "kikuri-hiroi", "nijika-ijichi", "pa-san", "ryo-yamada", "seika-ijichi"],
@@ -23,5 +25,11 @@
   "tensei-shitara-slime-datta-ken": ["rimuru-tempest-perspective"],
   "touhou-project": ["flandre-scarlet", "hakurei-reimu", "izayoi-sakuya", "yakumo-yukari"],
   "tsuki-ni-yorisou-otome-no-sahou": ["sakurakouji-runa-perspective"],
-  "vocaloid": ["hatsune-miku-perspective"]
+  "toaru-project": ["accelerator-perspective", "acqua-of-the-back-perspective", "awaki-musujime-perspective", "fiamma-of-the-right-perspective", "frenda-perspective", "hamazura-shiage-perspective", "heaven-canceller-perspective", "index-perspective", "itsuwa-perspective", "kakine-teitoku-perspective", "kamijou-touma-perspective", "kanzaki-kaori-perspective", "kinuhata-saiai-perspective", "komoe-tsukuyomi-perspective", "last-order-perspective", "lessar-perspective", "misaka-mikoto-perspective", "misaka-worst-perspective", "mugino-shizuri-perspective", "oriana-thomson-perspective", "saten-ruiko-perspective", "shirai-kuroko-perspective", "shokuhou-misaki-perspective", "stiyl-magnus-perspective", "takitsubo-rikou-perspective", "terra-of-the-left-perspective", "tsuchimikado-motoharu-perspective", "uiharu-kazari-perspective", "vento-of-the-front-perspective"],
+  "mushoku-tensei": ["eris-boreas-greyrat-perspective", "roxy-migurdia-perspective", "sylphiette-perspective"],
+  "toradora": ["aisaka-taiga-perspective"],
+  "kage-no-jitsuryokusha": ["alpha-perspective", "beta-perspective", "gamma-perspective", "delta-perspective", "epsilon-perspective", "zeta-perspective", "eta-perspective", "alexia-midgar-perspective", "claire-kagenou-perspective", "rose-oriana-perspective", "nu-perspective", "annerose-notoire-perspective", "mary-perspective"],
+  "vocaloid": ["hatsune-miku-perspective"],
+  "rokudenashi-majutsu-koushi": ["sistine-fibel-perspective", "rumia-tingel-perspective", "riel-rayford-perspective", "celica-arfonia-perspective", "eve-ignite-perspective"],
+  "zero-no-tsukaima": ["louise"]
 }

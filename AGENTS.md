@@ -130,6 +130,25 @@ luluka-perspective/         # 露露卡
 | 2026-04-22 | 添加 luluka-perspective |
 | 2026-04-22 | 迁移所有角色到新结构（21个作品，~80个角色） |
 | 2026-06-11 | 全量整理：创建 characters/ 目录，所有角色数据移入 characters/；assets/ 保留根目录；清理嵌套 roles/ 遗留目录；更新 AGENTS.md 映射表 |
+| 2026-06-19 | 新增 toaru-project（魔法禁书目录系列）：14个角色，含6路Agent调研+SKILL.md |
+| 2026-06-20 | 新增 engage-kiss（契约之吻）：4个角色（木更/绪方修/夕桐绫乃/莎朗），含24路Agent调研+4份SKILL.md |
+| 2026-06-20 | 新增 toaru-project（魔法禁书目录系列）：追加15个角色（Item团队+暗部+神之右席+其他），累计29角色 |
+| 2026-06-20 | 新增 idolmaster（偶像大师系列）：765Pro 13角色（春香/千早/美希/律子/梓/伊织/真/亚美/真美/响/贵音/小鸟/制作人）+ CG本家3角色（卯月/凛/未央），含96路Agent调研+16份SKILL.md |
+| 2026-06-20 | 新增 idolmaster（偶像大师系列）：追加18角色——ML 7人（未来/静香/翼/星梨花/紬/歌織/琴葉）、SC 5人（巡/恋鐘/円香/果穂/千雪）、CG 3人（文香/加蓮/楓）、DS 3人（涼/絵理/愛），含108路Agent调研+18份SKILL.md，累计34角色 |
+| 2026-06-20 | 新增 idolmaster（偶像大师系列）：追加16角色——ML 7人（杏奈/可奈/志保/百合子/育/恵美/エミリー）、SC 4人（甘奈/甜花/小糸/凛世）、CG 5人（蘭子/美波/菜々/きらり/幸子），含96路Agent调研+16份SKILL.md，累计50角色 |
+| 2026-06-21 | 新增 idolmaster（偶像大师系列）：追加40角色——ML 24人（エレナ/美奈子/まつり/茜/紗代子/亜利沙/海美/朋花/歩/ひなた/奈緒/千鶴/このみ/環/風花/美也/のり子/瑞希/可憐/莉緒/昴/麗花/桃子/ジュリア）、SC 14人（咲耶/智代子/樹里/霧子/透/にちか/あさひ/冬優子/愛依/結華/ほたる/美琴/はづき/篠澤広）、CG 2人（志希/佐藤心），含240路Agent调研+40份SKILL.md，累计90角色 |
+| 2026-06-21 | 新增 touhou-project（东方Project）：24角色。第一批8个（红美铃/小恶魔/古明地觉/火焰猫燐/灵乌路空/洩矢诹访子/因幡帝/姬海棠果），第二批6个（圣白莲/村纱水蜜/寅丸星/云居一轮/娜兹玲/幽谷响子），第三批10个（丰聪耳神子/物部布都/苏我屠自古/霍青娥/宫古芳香/鬼人正邪/少名针妙丸/宇佐见堇子/哆来咪·苏伊特/摩多罗隐岐奈），含144路Agent调研+24份SKILL.md，累计45角色 |
+| 2026-06-20 | 新增 mushoku-tensei（无职转生 / Mushoku Tensei）：3角色——洛琪希/艾莉丝/希露菲，含18路Agent调研+3份SKILL.md，累计177角色 |
+| 2026-06-20 | 新增 toradora（龙与虎 / Toradora!）：1角色——逢坂大河，含6路Agent调研+1份SKILL.md，累计178角色 |
+| 2026-06-20 | 新增 kage-no-jitsuryokusha（我想成为影之实力者！/ The Eminence in Shadow）：13角色——阿尔法/贝塔/伽玛/德尔塔/艾普西隆/洁塔/希妲/阿蕾克希亚/克莱尔/罗兹/纽/安妮萝洁/玛丽，含78路Agent调研+13份SKILL.md，累计191角色 |
+| 2026-06-20 | 新增 rokudenashi-majutsu-koushi（不正经的魔术讲师与禁忌教典 / Akashic Records of Bastard Magic Instructor）：5角色——希丝缇娜·菲伊贝尔/露米娅·汀洁尔/莉艾尔·雷福德/塞莉卡·阿尔佛诺亚/伊芙·伊格尼特，含30路Agent调研+5份SKILL.md，累计196角色 |
+| 2026-06-21 | 新增 sanoba-witch（魔女的夜宴 / サノバウィッチ）：追加4角色——因幡めぐる/椎葉紬/戸隠憧子/仮屋和奏，含24路Agent调研+4份SKILL.md |
+| 2026-06-21 | 新增 dracu-riot（德古拉之怒）：追加1角色——ニコラ・ケフェウス，含6路Agent调研+1份SKILL.md |
+| 2026-06-21 | 新增 amairo-islenauts（青色魔法少女 / 天色＊アイルノーツ）：追加2角色——ティア・ホーエンヴェルフェン/火宮木乃香，含12路Agent调研+2份SKILL.md |
+| 2026-06-21 | 新增 cafe-stella（星光咖啡馆与死神之蝶 / 喫茶ステラと死神の蝶）：5角色——明月栞那/四季ナツメ/墨染希/火打谷愛衣/汐山涼音，含30路Agent调研+5份SKILL.md |
+| 2026-06-21 | 新增 parquet（PARQUET / パルフェ）：2角色——茨木リノ/城門ツバサ，含12路Agent调研+2份SKILL.md |
+| 2026-06-21 | 新增 tenshi-souzou-re-boot（天使☆騒々 RE-BOOT! / 天使☆嚣嚣 RE-BOOT!）：6角色——白雪乃愛/谷風天音/小雲雀来海/星河かぐ耶/高楯オリエ/百里風実花，含36路Agent调研+6份SKILL.md |
+| 2026-06-23 | 新增 touhou-project（东方Project）：追加16角色——犬走椛/八云蓝/橙/河城荷取/键山雏/永江衣玖/茨木华扇/四季映姬/小野塚小町/秋静叶/秋穰子/稀神探女/纯狐/赫卡提亚/克劳恩皮丝/本居小铃，含96路Agent调研+16份SKILL.md，累计61角色 |
 
 ## 作品目录映射
 
@@ -137,35 +156,46 @@ luluka-perspective/         # 露露卡
 |--------|------|
 | amairo-islenauts | 青色魔法少女 |
 | angel-beats | Angel Beats! |
+| cafe-stella | 星光咖啡馆与死神之蝶 / 喫茶ステラと死神の蝶 / Café Stella and the Reaper's Butterflies |
 | ave-mujica | 偶像梦幻乐团 |
 | bocchi-the-rock | 孤独摇滚！ |
 | charlotte | Charlotte |
 | dracu-riot | 德古拉之怒 |
+| engage-kiss | 契约之吻 / Engage Kiss |
 | fate | FATE |
 | fate-grand-order | FGO |
 | fate-stay-night | FS/N |
+| idolmaster | 偶像大师（含765Pro、灰姑娘女孩/U149、Million Live!、Shiny Colors、Dearly Stars、学園アイドルマスター） |
+| kage-no-jitsuryokusha | 我想成为影之实力者！ / The Eminence in Shadow / 陰の実力者になりたくて！ |
+| kyokou-suiri | 虚构推理 / In/Spectre |
 | konosuba | 为美好的世界献上祝福 |
 | madoka | 魔法少女小圆 |
 | majo-no-tabitabi | 魔女之旅 |
-| majono-yoru-en | 无职转生 |
+| majono-yoru-en | 魔女的夜宴 / サノバウィッチ (Sanoba Witch) |
+| mushoku-tensei | 无职转生 / Mushoku Tensei |
 | mygo | MyGO!!!!! |
 | neon-genesis-evangelion | 新世纪福音战士 / EVA |
 | noble-works | NOBLE WORKS |
 | otonari-no-tenshi-sama | 关于邻家的天使大人不知不觉把我惯成了废人这档子事 |
 | overlord | Overlord |
 | otome-riron | 乙女理論とその周辺 / 月に寄りそう乙女の作法 |
+| parquet | PARQUET / パルフェ |
 | riddle-joker | 谜之屋 |
+| rokudenashi-majutsu-koushi | 不正经的魔术讲师与禁忌教典 / ロクでなし魔術講師と禁忌教典 / Akashic Records of Bastard Magic Instructor |
 | sakura-no-toki | 樱之刻 |
 | sakura-no-uta | 樱之诗 |
-| sanoba-witch | 圣痕炼金术师 |
+| sanoba-witch | 魔女的夜宴 / サノバウィッチ (Sanoba Witch) |
 | senren-banka | 宿命回响 |
 | seraph-of-the-end | 终结的炽天使 |
 | sword-art-online | Sword Art Online / 刀剑神域 |
 | star-detective-precure | 名侦探光之美少女 |
+| tenshi-souzou-re-boot | 天使☆騒々 RE-BOOT! / 天使☆嚣嚣 RE-BOOT!（天使骚骚/天使纷扰） |
 | steins-gate | 命运石之门 |
+| toradora | 龙与虎 / Toradora! |
 | tensei-shitara-slime-datta-ken | 转生史莱姆 / 关于我转生变成史莱姆这档事 |
 | touhou-project | 东方Project |
 | tsuki-ni-yorisou-otome-no-sahou | 月依 |
+| toaru-project | 魔法禁书目录（含超电磁炮、科学一方通行） |
 | vocaloid | 初音未来 |
 
 ---
