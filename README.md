@@ -4,8 +4,8 @@ Archive repository for character-oriented prompt skills gathered from local agen
 
 ## Overview
 
-- **197** character skills
-- **39** works
+- **198** character skills
+- **40** works
 - Portraits: `assets/portraits/<work>/<character>.webp`
 
 ## Characters
@@ -29,6 +29,10 @@ Archive repository for character-oriented prompt skills gathered from local agen
 ### Charlotte  (`charlotte`)
 
 <a href="characters/charlotte/tomori-nao-perspective/"><img src="assets/portraits/charlotte/tomori-nao-perspective.webp" width="80" alt="Tomori Nao" title="Tomori Nao"></a>
+
+### 弹丸论破  (`danganronpa`)
+
+<a href="characters/danganronpa/kyoko-kirigiri-perspective/"><img src="assets/portraits/danganronpa/kyoko-kirigiri-perspective.webp" width="80" alt="Kyoko Kirigiri" title="Kyoko Kirigiri"></a>
 
 ### 德古拉之怒  (`dracu-riot`)
 
@@ -202,4 +206,3 @@ Archive repository for character-oriented prompt skills gathered from local agen
 ### 零之使魔 / Zero no Tsukaima  (`zero-no-tsukaima`)
 
 <a href="characters/zero-no-tsukaima/louise-perspective/"><img src="assets/portraits/zero-no-tsukaima/louise-perspective.webp" width="80" alt="Louise" title="Louise"> Louise / 露易丝</a>
-
