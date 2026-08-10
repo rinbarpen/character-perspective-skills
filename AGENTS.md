@@ -152,6 +152,8 @@ luluka-perspective/         # 露露卡
 | 2026-06-23 | 新增 touhou-project（东方Project）：追加28角色——TH15清兰/铃瑚，TH16爱塔妮缇拉尔瓦/坂田合欢/高丽野阿吽/矢田寺成美/丁礼田舞/尔子田里乃，TH17戎瓔花/牛崎潤美/庭渡久侘歌/吉弔八千慧/杖刀偶磨弓/埴安神袿姫/黒駒早鬼，TH18玉造魅须丸/驹草山如/饭纲丸龙/菅牧典/天弓千亦/姫虫百々弥，TH19孙美天/天火人ちや/三头慧ノ子/豫母都日狭美/日白残无，其他稗田阿求/森近霖之助，含168路Agent调研+28份SKILL.md，累计89角色 |
 | 2026-07-22 | 新增 danganronpa（弹丸论破 / Danganronpa）：1角色——雾切响子，含6路Agent调研+1份SKILL.md |
 
+| 2026-08-10 | 新增 wuthering-waves（鸣潮）：41个女性可玩 Resonator，含完整 SKILL.md 与 6 维 research 文件 |
+
 ## 作品目录映射
 
 | 目录名 | 作品 |
@@ -200,6 +202,7 @@ luluka-perspective/         # 露露卡
 | tsuki-ni-yorisou-otome-no-sahou | 月依 |
 | toaru-project | 魔法禁书目录（含超电磁炮、科学一方通行） |
 | vocaloid | 初音未来 |
+| wuthering-waves | 鸣潮 / Wuthering Waves |
 
 ---
 
