@@ -4,8 +4,8 @@ Archive repository for character-oriented prompt skills gathered from local agen
 
 ## Overview
 
-- **441** character skills
-- **46** works
+- **444** character skills
+- **47** works
 - Portraits: `assets/portraits/<work>/<character>.webp`
 
 ## Characters
@@ -226,3 +226,7 @@ Archive repository for character-oriented prompt skills gathered from local agen
 <a href="characters/wuthering-waves/galbrena-perspective/"><img src="assets/portraits/wuthering-waves/galbrena-perspective.webp" width="80" alt="加尔贝娜" title="加尔贝娜"></a> <a href="characters/wuthering-waves/lupa-perspective/"><img src="assets/portraits/wuthering-waves/lupa-perspective.webp" width="80" alt="露帕" title="露帕"></a> <a href="characters/wuthering-waves/chisa-perspective/"><img src="assets/portraits/wuthering-waves/chisa-perspective.webp" width="80" alt="琪莎" title="琪莎"></a> <a href="characters/wuthering-waves/aemeath-perspective/"><img src="assets/portraits/wuthering-waves/aemeath-perspective.webp" width="80" alt="艾梅丝" title="艾梅丝"></a> <a href="characters/wuthering-waves/denia-perspective/"><img src="assets/portraits/wuthering-waves/denia-perspective.webp" width="80" alt="德妮娅" title="德妮娅"></a>
 
 <a href="characters/wuthering-waves/mornye-perspective/"><img src="assets/portraits/wuthering-waves/mornye-perspective.webp" width="80" alt="莫宁" title="莫宁"></a>
+
+### 不/存在的你，和我 (`the-noexistencen-of-you-and-me`)
+
+- [莉莉丝 / Lilith](characters/the-noexistencen-of-you-and-me/lilith-perspective/SKILL.md) — 原作角色 Skill，含 6 维 research

@@ -153,6 +153,7 @@ luluka-perspective/         # 露露卡
 | 2026-07-22 | 新增 danganronpa（弹丸论破 / Danganronpa）：1角色——雾切响子，含6路Agent调研+1份SKILL.md |
 
 | 2026-08-10 | 新增 wuthering-waves（鸣潮）：41个女性可玩 Resonator，含完整 SKILL.md 与 6 维 research 文件 |
+| 2026-09-07 | 新增 the-noexistencen-of-you-and-me（不/存在的你，和我）：莉莉丝，含 6 维 research 与角色 Skill，仅收录原作 |
 
 ## 作品目录映射
 
@@ -202,6 +203,7 @@ luluka-perspective/         # 露露卡
 | tsuki-ni-yorisou-otome-no-sahou | 月依 |
 | toaru-project | 魔法禁书目录（含超电磁炮、科学一方通行） |
 | vocaloid | 初音未来 |
+| the-noexistencen-of-you-and-me | 不/存在的你，和我 / The NOexistenceN of you AND me |
 | wuthering-waves | 鸣潮 / Wuthering Waves |
 
 ---
