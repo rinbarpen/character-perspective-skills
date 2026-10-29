@@ -1,0 +1,26 @@
+{
+  "readme": {
+    "content": [
+      {
+        "type": "text",
+        "text": "Script ran on page and returned:\n```json\n{\"index\":\"README.md\",\"total\":444,\"loaded\":444,\"broken\":[],\"tables\":47}\n```"
+      }
+    ]
+  },
+  "inventory": {
+    "content": [
+      {
+        "type": "text",
+        "text": "Script ran on page and returned:\n```json\n{\"index\":\"角色清单.md\",\"total\":444,\"loaded\":444,\"broken\":[],\"tables\":47}\n```"
+      }
+    ]
+  },
+  "role_link_validation": {
+    "content": [
+      {
+        "type": "text",
+        "text": "Script ran on page and returned:\n```json\n{\"links\":444,\"failed_links\":[],\"wrong_pairs\":0}\n```"
+      }
+    ]
+  }
+}

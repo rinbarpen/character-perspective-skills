@@ -1,0 +1,12 @@
+ROSTER ERROR (41380, 'Cinderella Girls') Anime identity mismatch: 41380: '100-man no Inochi no Ue ni Ore wa Tatteiru', expected 'Cinderella Girls'
+REFINED idolmaster/asakura-toru-perspective Asakura, Tooru
+REFINED idolmaster/nikaido-chizuru-perspective Nikaidou, Chizuru
+REFINED idolmaster/ookami-tamaki-perspective Oogami, Tamaki
+REFINED idolmaster/ryuzaki-kaoru-perspective Ryuuzaki, Kaoru
+REFINED idolmaster/sagisawa-fumika-perspective Sagisawa, Fumika
+IDOL PORTRAIT PENDING idolmaster/shinozaki-hiro-perspective ['hiro shinosawa', 'shinozaki hiro'] 0
+IDOL PORTRAIT PENDING idolmaster/shiragiku-hotaru-perspective ['shiragiku hotaru', 'shiragiku hotaru'] 0
+REFINED idolmaster/tenkubashi-tomoka-perspective Tenkuubashi, Tomoka
+REFINED idolmaster/toyokawa-fuka-perspective Toyokawa, Fuuka
+IDOL PORTRAIT PENDING idolmaster/yusa-kozue-perspective ['yusa kozue', 'yusa kozue'] 0
+HIRO IMAGE CANDIDATES [{'decoding': 'async', 'alt': '', 'src': '../../assets/img/idol/hiro/bg.jpg'}, {'decoding': 'async', 'alt': '', 'src': '../../assets/img/idol/hiro/default.png'}, {'src': 'https://gakuen.idolmaster-official.jp/assets/img/idol/hiro/thumb.png', 'alt': ''}]

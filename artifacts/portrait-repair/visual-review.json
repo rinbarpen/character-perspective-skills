@@ -1,0 +1,874 @@
+{
+  "pages": [
+    {
+      "work": "amairo-islenauts",
+      "path": "artifacts/portrait-repair/review/amairo-islenauts-1.jpg",
+      "keys": [
+        "amairo-islenauts/airi-perspective",
+        "amairo-islenauts/hinomiya-konoka-perspective",
+        "amairo-islenauts/masaki-perspective",
+        "amairo-islenauts/shirley-perspective",
+        "amairo-islenauts/tia-hohenwerfen-perspective",
+        "amairo-islenauts/yune-perspective"
+      ],
+      "sheet_sha256": "b079aa21dbe2398898e185c2d450f750b884a33172de77fc704e59c3e1f44083",
+      "reviewed": true
+    },
+    {
+      "work": "angel-beats",
+      "path": "artifacts/portrait-repair/review/angel-beats-1.jpg",
+      "keys": [
+        "angel-beats/tachibana-kanade-perspective"
+      ],
+      "sheet_sha256": "cc05518832a1f2d93fa96d10d2e74b164f6f63cad771441205acaca2ba1dfe19",
+      "reviewed": true
+    },
+    {
+      "work": "ave-mujica",
+      "path": "artifacts/portrait-repair/review/ave-mujica-1.jpg",
+      "keys": [
+        "ave-mujica/misumi-uika-perspective",
+        "ave-mujica/togawa-sakiko-perspective",
+        "ave-mujica/wakaba-mutsumi-perspective",
+        "ave-mujica/yahata-umiri-perspective",
+        "ave-mujica/yutenji-nyamu-perspective"
+      ],
+      "sheet_sha256": "68fce50f909def99e41fff38de285d2e3df0484744da6cd7990985fada050f0b",
+      "reviewed": true
+    },
+    {
+      "work": "bocchi-the-rock",
+      "path": "artifacts/portrait-repair/review/bocchi-the-rock-1.jpg",
+      "keys": [
+        "bocchi-the-rock/hitori-gotoh-perspective",
+        "bocchi-the-rock/ikuyo-kita-perspective",
+        "bocchi-the-rock/kikuri-hiroi-perspective",
+        "bocchi-the-rock/nijika-ijichi-perspective",
+        "bocchi-the-rock/pa-san-perspective",
+        "bocchi-the-rock/ryo-yamada-perspective",
+        "bocchi-the-rock/seika-ijichi-perspective"
+      ],
+      "sheet_sha256": "8e37fee63fdf40877e55187b3d5c1b29af26b73b25619d2147d162bdd7b10ab8",
+      "reviewed": true
+    },
+    {
+      "work": "cafe-stella",
+      "path": "artifacts/portrait-repair/review/cafe-stella-1.jpg",
+      "keys": [
+        "cafe-stella/akatsuki-kanna-perspective",
+        "cafe-stella/hiuchidani-ai-perspective",
+        "cafe-stella/shiki-natsume-perspective",
+        "cafe-stella/shioyama-suzune-perspective",
+        "cafe-stella/sumizome-nozomi-perspective"
+      ],
+      "sheet_sha256": "0d468819c29a89f3ae271859c16448ac00527f16a3164483f5e69ea5435f0373",
+      "reviewed": true
+    },
+    {
+      "work": "charlotte",
+      "path": "artifacts/portrait-repair/review/charlotte-1.jpg",
+      "keys": [
+        "charlotte/tomori-nao-perspective"
+      ],
+      "sheet_sha256": "29273aa7e4cfdb59b90d196f9d64b44ab7cbc46f4a8a25260a68136c36246a5c",
+      "reviewed": true
+    },
+    {
+      "work": "danganronpa",
+      "path": "artifacts/portrait-repair/review/danganronpa-1.jpg",
+      "keys": [
+        "danganronpa/kyoko-kirigiri-perspective"
+      ],
+      "sheet_sha256": "bda48a7e2146bca962b0fedf64fbcd6979efe69a456f4c11437f417a50e38c13",
+      "reviewed": true
+    },
+    {
+      "work": "dracu-riot",
+      "path": "artifacts/portrait-repair/review/dracu-riot-1.jpg",
+      "keys": [
+        "dracu-riot/azusa-perspective",
+        "dracu-riot/elina-perspective",
+        "dracu-riot/miu-perspective",
+        "dracu-riot/nicola-cepheus-perspective",
+        "dracu-riot/rio-perspective"
+      ],
+      "sheet_sha256": "6ff38ca9277f51f070be0868001917f258b34c00dcb21794a59328636052d9a1",
+      "reviewed": true
+    },
+    {
+      "work": "engage-kiss",
+      "path": "artifacts/portrait-repair/review/engage-kiss-1.jpg",
+      "keys": [
+        "engage-kiss/kisaragi-perspective",
+        "engage-kiss/ogata-shu-perspective",
+        "engage-kiss/sharon-holygrail-perspective",
+        "engage-kiss/yugiri-ayano-perspective"
+      ],
+      "sheet_sha256": "27bad2e5bcb22ef30ab74fb79b91eed7b71f572b0988fa02eaca45437f1c8150",
+      "reviewed": true
+    },
+    {
+      "work": "fate",
+      "path": "artifacts/portrait-repair/review/fate-1.jpg",
+      "keys": [
+        "fate/artoria-pendragon-perspective"
+      ],
+      "sheet_sha256": "9ccb047383fe7498e1dfefb91ae6c9cb68fd66cbf71e38df91aeb9959584077d",
+      "reviewed": true
+    },
+    {
+      "work": "fate-grand-order",
+      "path": "artifacts/portrait-repair/review/fate-grand-order-1.jpg",
+      "keys": [
+        "fate-grand-order/mash-kyrielight-perspective"
+      ],
+      "sheet_sha256": "c0207c90ce5c8db86f60a494289a274ae2c3749f88512308d5944b020c21df6e",
+      "reviewed": true
+    },
+    {
+      "work": "fate-stay-night",
+      "path": "artifacts/portrait-repair/review/fate-stay-night-1.jpg",
+      "keys": [
+        "fate-stay-night/emiya-shirou-perspective",
+        "fate-stay-night/illyasviel-von-einzbern-perspective",
+        "fate-stay-night/kotomine-kirei-perspective",
+        "fate-stay-night/rin-tohsaka-perspective",
+        "fate-stay-night/sakura-matou-perspective"
+      ],
+      "sheet_sha256": "0673875ceb074f4b2bbc76bfc0c4248677b2a277211a32dbec0f5cc479400561",
+      "reviewed": true
+    },
+    {
+      "work": "idolmaster",
+      "path": "artifacts/portrait-repair/review/idolmaster-1.jpg",
+      "keys": [
+        "idolmaster/abe-nana-perspective",
+        "idolmaster/akagi-miria-perspective",
+        "idolmaster/aketa-mikoto-perspective",
+        "idolmaster/akizuki-ritsuko-perspective",
+        "idolmaster/akizuki-ryo-perspective",
+        "idolmaster/amami-haruka-perspective",
+        "idolmaster/arima-rinse-perspective",
+        "idolmaster/asakura-toru-perspective",
+        "idolmaster/baba-konomi-perspective",
+        "idolmaster/emily-stewart-perspective",
+        "idolmaster/fukuda-noriko-perspective",
+        "idolmaster/fukumaru-koito-perspective",
+        "idolmaster/futami-ami-perspective",
+        "idolmaster/futami-mami-perspective",
+        "idolmaster/ganaha-hibiki-perspective",
+        "idolmaster/hakozaki-serika-perspective",
+        "idolmaster/hidaka-ai-perspective",
+        "idolmaster/higuchi-enoka-perspective",
+        "idolmaster/hojo-karen-perspective",
+        "idolmaster/honda-mio-perspective",
+        "idolmaster/hoshii-miki-perspective",
+        "idolmaster/ibuki-tsubasa-perspective",
+        "idolmaster/ichihara-nina-perspective",
+        "idolmaster/ichinose-shiki-perspective",
+        "idolmaster/izumi-mei-perspective",
+        "idolmaster/julia-perspective",
+        "idolmaster/kanzaki-ranko-perspective",
+        "idolmaster/kasuga-mirai-perspective",
+        "idolmaster/kikuchi-makoto-perspective",
+        "idolmaster/kinoshita-hinata-perspective"
+      ],
+      "sheet_sha256": "21135baa886762da4b37f16069c288d298ccd604f4b881c03efd6bd06708c7b6",
+      "reviewed": true
+    },
+    {
+      "work": "idolmaster",
+      "path": "artifacts/portrait-repair/review/idolmaster-2.jpg",
+      "keys": [
+        "idolmaster/kisaragi-chihaya-perspective",
+        "idolmaster/kitakami-reika-perspective",
+        "idolmaster/kitazawa-shiho-perspective",
+        "idolmaster/koga-koharu-perspective",
+        "idolmaster/komiya-kaho-perspective",
+        "idolmaster/koshimizu-sachiko-perspective",
+        "idolmaster/kousaka-umi-perspective",
+        "idolmaster/kuwayama-chiyuki-perspective",
+        "idolmaster/maihama-ayumu-perspective",
+        "idolmaster/makabe-mizuki-perspective",
+        "idolmaster/matoba-risa-perspective",
+        "idolmaster/matsuda-arisa-perspective",
+        "idolmaster/mayuzumi-fuyuko-perspective",
+        "idolmaster/minase-iori-perspective",
+        "idolmaster/mitsumine-yuika-perspective",
+        "idolmaster/miura-azusa-perspective",
+        "idolmaster/miyao-miya-perspective",
+        "idolmaster/mizutani-eri-perspective",
+        "idolmaster/mochizuki-anna-perspective",
+        "idolmaster/mogami-shizuka-perspective",
+        "idolmaster/momose-rio-perspective",
+        "idolmaster/moroboshi-kirari-perspective",
+        "idolmaster/nagayoshi-subaru-perspective",
+        "idolmaster/nakatani-iku-perspective",
+        "idolmaster/nanakusa-hazuki-perspective",
+        "idolmaster/nanakusa-nichika-perspective",
+        "idolmaster/nanao-yuriko-perspective",
+        "idolmaster/nikaido-chizuru-perspective",
+        "idolmaster/nitta-minami-perspective",
+        "idolmaster/nonohara-akane-perspective"
+      ],
+      "sheet_sha256": "681ca86c09633cf36b760e1fd1c81dadcc187854c07f3fea8f29c2d495bfd3fc",
+      "reviewed": true
+    },
+    {
+      "work": "idolmaster",
+      "path": "artifacts/portrait-repair/review/idolmaster-3.jpg",
+      "keys": [
+        "idolmaster/ookami-tamaki-perspective",
+        "idolmaster/osaki-anna-perspective",
+        "idolmaster/osaki-tenka-perspective",
+        "idolmaster/otonashi-kotori-perspective",
+        "idolmaster/ryuzaki-kaoru-perspective",
+        "idolmaster/sagisawa-fumika-perspective",
+        "idolmaster/saijo-juri-perspective",
+        "idolmaster/sakamori-kaori-perspective",
+        "idolmaster/sakurai-momoka-perspective",
+        "idolmaster/sasaki-chie-perspective",
+        "idolmaster/satake-minako-perspective",
+        "idolmaster/satou-shizuku-perspective",
+        "idolmaster/serizawa-asahi-perspective",
+        "idolmaster/shibuya-rin-perspective",
+        "idolmaster/shijou-takane-perspective",
+        "idolmaster/shimabara-elena-perspective",
+        "idolmaster/shimamura-uzuki-perspective",
+        "idolmaster/shinomiya-karen-perspective",
+        "idolmaster/shinozaki-hiro-perspective",
+        "idolmaster/shiragiku-hotaru-perspective",
+        "idolmaster/shiraishi-tsumugi-perspective",
+        "idolmaster/shirose-sakuya-perspective",
+        "idolmaster/sonoda-chiyoko-perspective",
+        "idolmaster/suo-momoko-perspective",
+        "idolmaster/tachibana-arisu-perspective",
+        "idolmaster/takagaki-kaede-perspective",
+        "idolmaster/takagi-producer-perspective",
+        "idolmaster/takayama-sayoko-perspective",
+        "idolmaster/tanaka-kotoha-perspective",
+        "idolmaster/tenkubashi-tomoka-perspective"
+      ],
+      "sheet_sha256": "b15077dc3ac1342678532ff0bb311bb6a926f38839756dc602989bf671688fe5",
+      "reviewed": true
+    },
+    {
+      "work": "idolmaster",
+      "path": "artifacts/portrait-repair/review/idolmaster-4.jpg",
+      "keys": [
+        "idolmaster/tokoro-emi-perspective",
+        "idolmaster/tokugawa-matsuri-perspective",
+        "idolmaster/toyokawa-fuka-perspective",
+        "idolmaster/tsukioka-kanade-perspective",
+        "idolmaster/yabuki-kana-perspective",
+        "idolmaster/yatsumiya-meguru-perspective",
+        "idolmaster/yokoyama-nao-perspective",
+        "idolmaster/yuki-haru-perspective",
+        "idolmaster/yukoku-kiriko-perspective",
+        "idolmaster/yusa-kozue-perspective"
+      ],
+      "sheet_sha256": "8c3fbede04622616cbdccafd78397ad6309208d093410451a6f7e572b31f98cd",
+      "reviewed": true
+    },
+    {
+      "work": "kage-no-jitsuryokusha",
+      "path": "artifacts/portrait-repair/review/kage-no-jitsuryokusha-1.jpg",
+      "keys": [
+        "kage-no-jitsuryokusha/alexia-midgar-perspective",
+        "kage-no-jitsuryokusha/alpha-perspective",
+        "kage-no-jitsuryokusha/annerose-notoire-perspective",
+        "kage-no-jitsuryokusha/beta-perspective",
+        "kage-no-jitsuryokusha/claire-kagenou-perspective",
+        "kage-no-jitsuryokusha/delta-perspective",
+        "kage-no-jitsuryokusha/epsilon-perspective",
+        "kage-no-jitsuryokusha/eta-perspective",
+        "kage-no-jitsuryokusha/gamma-perspective",
+        "kage-no-jitsuryokusha/mary-perspective",
+        "kage-no-jitsuryokusha/nu-perspective",
+        "kage-no-jitsuryokusha/rose-oriana-perspective",
+        "kage-no-jitsuryokusha/zeta-perspective"
+      ],
+      "sheet_sha256": "10edf7277c0b6230ca30b932adced64d57d300ea8b0d25831b96139b209bfeab",
+      "reviewed": true
+    },
+    {
+      "work": "konosuba",
+      "path": "artifacts/portrait-repair/review/konosuba-1.jpg",
+      "keys": [
+        "konosuba/megumin-perspective"
+      ],
+      "sheet_sha256": "29b68312bc2c6632370670bcf57827f5234ba03b918e6aa3bc58d4e6899a0569",
+      "reviewed": true
+    },
+    {
+      "work": "kyokou-suiri",
+      "path": "artifacts/portrait-repair/review/kyokou-suiri-1.jpg",
+      "keys": [
+        "kyokou-suiri/iwanaga-kotoko-perspective"
+      ],
+      "sheet_sha256": "6b54bac999cc65c5e6f1fc49225e81df124ce9c0d83bffbad90a59ad621e9082",
+      "reviewed": true
+    },
+    {
+      "work": "madoka",
+      "path": "artifacts/portrait-repair/review/madoka-1.jpg",
+      "keys": [
+        "madoka/homura-akemi-perspective",
+        "madoka/kyoko-sakura-perspective",
+        "madoka/kyubey-perspective",
+        "madoka/madoka-kaname-perspective",
+        "madoka/mami-perspective",
+        "madoka/sayaka-miki-perspective"
+      ],
+      "sheet_sha256": "8c4183b8ccb6e6821807b9f10c3d2ef82149efb9a83d617e3e9f91141e1ac327",
+      "reviewed": true
+    },
+    {
+      "work": "majo-no-tabitabi",
+      "path": "artifacts/portrait-repair/review/majo-no-tabitabi-1.jpg",
+      "keys": [
+        "majo-no-tabitabi/elaina-perspective"
+      ],
+      "sheet_sha256": "120c6fc8fae30e66957e6d0db1c02042c83d3dd580cb534dcba364e4ec52decd",
+      "reviewed": true
+    },
+    {
+      "work": "majono-yoru-en",
+      "path": "artifacts/portrait-repair/review/majono-yoru-en-1.jpg",
+      "keys": [
+        "majono-yoru-en/meguru-perspective",
+        "majono-yoru-en/touko-perspective",
+        "majono-yoru-en/tsumugi-perspective",
+        "majono-yoru-en/wakana-perspective"
+      ],
+      "sheet_sha256": "d5005618e8faba6c6a7d1dc14831fa603b0505d4534527505b43bcb3bb8eb7eb",
+      "reviewed": true
+    },
+    {
+      "work": "mushoku-tensei",
+      "path": "artifacts/portrait-repair/review/mushoku-tensei-1.jpg",
+      "keys": [
+        "mushoku-tensei/eris-boreas-greyrat-perspective",
+        "mushoku-tensei/roxy-migurdia-perspective",
+        "mushoku-tensei/sylphiette-perspective"
+      ],
+      "sheet_sha256": "22c2805a269314dc96bd47584fff8613c207e7f2dd8b820d8881f09464fd51e1",
+      "reviewed": true
+    },
+    {
+      "work": "mygo",
+      "path": "artifacts/portrait-repair/review/mygo-1.jpg",
+      "keys": [
+        "mygo/chihaya-anon-perspective",
+        "mygo/kaname-rana-perspective",
+        "mygo/nagasaki-soyo-perspective",
+        "mygo/shiina-taki-perspective",
+        "mygo/takamatsu-tomori-perspective"
+      ],
+      "sheet_sha256": "ea5a99aa8a07e42195b57efd408612b4e522c17af9ba29992e3b8980923f9844",
+      "reviewed": true
+    },
+    {
+      "work": "neon-genesis-evangelion",
+      "path": "artifacts/portrait-repair/review/neon-genesis-evangelion-1.jpg",
+      "keys": [
+        "neon-genesis-evangelion/asuka-langley-soryu-perspective",
+        "neon-genesis-evangelion/gendo-ikari-perspective",
+        "neon-genesis-evangelion/kaworu-nagisa-perspective",
+        "neon-genesis-evangelion/misato-katsuragi-perspective",
+        "neon-genesis-evangelion/rei-ayanami-perspective",
+        "neon-genesis-evangelion/shinji-ikari-perspective"
+      ],
+      "sheet_sha256": "90a40c2b25777f3670b6c91e39af93ead155eaa4b0b1c1572587662b9a5e58bc",
+      "reviewed": true
+    },
+    {
+      "work": "noble-works",
+      "path": "artifacts/portrait-repair/review/noble-works-1.jpg",
+      "keys": [
+        "noble-works/akari-perspective",
+        "noble-works/hinata-perspective",
+        "noble-works/maya-perspective",
+        "noble-works/sena-perspective",
+        "noble-works/shizuru-perspective"
+      ],
+      "sheet_sha256": "5b2e225a677700613190042c8aaba5dfaeedb0d8d8ea9d66b37569f80cad1da8",
+      "reviewed": true
+    },
+    {
+      "work": "otome-riron",
+      "path": "artifacts/portrait-repair/review/otome-riron-1.jpg",
+      "keys": [
+        "otome-riron/kokura-asahi-perspective",
+        "otome-riron/ookura-aeon-perspective",
+        "otome-riron/ookura-resona-perspective",
+        "otome-riron/ookura-yusei-perspective"
+      ],
+      "sheet_sha256": "579c1290f01d3e47543c3b05c7f501ef7995d8b4512395ea6c81ae8664ef2df8",
+      "reviewed": true
+    },
+    {
+      "work": "otonari-no-tenshi-sama",
+      "path": "artifacts/portrait-repair/review/otonari-no-tenshi-sama-1.jpg",
+      "keys": [
+        "otonari-no-tenshi-sama/shiina-mahiru-perspective"
+      ],
+      "sheet_sha256": "e20b24d4be247aa86cc44c5c68626fdc7fc542ce789c2379893e4eac45eeaa6d",
+      "reviewed": true
+    },
+    {
+      "work": "overlord",
+      "path": "artifacts/portrait-repair/review/overlord-1.jpg",
+      "keys": [
+        "overlord/ainz-ooal-gown-perspective",
+        "overlord/albedo-perspective",
+        "overlord/aura-bella-fiora-perspective",
+        "overlord/demiurge-perspective",
+        "overlord/evileye-perspective",
+        "overlord/lupusregina-beta-perspective",
+        "overlord/mare-bello-fiore-perspective",
+        "overlord/narberal-gamma-perspective",
+        "overlord/pandoras-actor-perspective",
+        "overlord/renner-theiere-chardelon-ryle-vaiself-perspective",
+        "overlord/shalltear-bloodfallen-perspective",
+        "overlord/solution-epsilon-perspective",
+        "overlord/zesshi-zetsumei-perspective"
+      ],
+      "sheet_sha256": "e585823842d3966ceddc097ab93ae7d5602e46ee16210e14322293f116a870b2",
+      "reviewed": true
+    },
+    {
+      "work": "parquet",
+      "path": "artifacts/portrait-repair/review/parquet-1.jpg",
+      "keys": [
+        "parquet/ibaraki-rino-perspective",
+        "parquet/jomon-tsubasa-perspective"
+      ],
+      "sheet_sha256": "ae37c0bdc5c141faac36eff7855e1969978f6ad02e094c8ffd3eadde11fec2c9",
+      "reviewed": true
+    },
+    {
+      "work": "riddle-joker",
+      "path": "artifacts/portrait-repair/review/riddle-joker-1.jpg",
+      "keys": [
+        "riddle-joker/ayase-perspective",
+        "riddle-joker/chisaki-perspective",
+        "riddle-joker/hazuki-perspective",
+        "riddle-joker/mayu-perspective",
+        "riddle-joker/nanami-perspective"
+      ],
+      "sheet_sha256": "753893d704da379820a724b5fbd65faca85687d1400a7aabac635d181ecd7bb1",
+      "reviewed": true
+    },
+    {
+      "work": "rokudenashi-majutsu-koushi",
+      "path": "artifacts/portrait-repair/review/rokudenashi-majutsu-koushi-1.jpg",
+      "keys": [
+        "rokudenashi-majutsu-koushi/celica-arfonia-perspective",
+        "rokudenashi-majutsu-koushi/eve-ignite-perspective",
+        "rokudenashi-majutsu-koushi/riel-rayford-perspective",
+        "rokudenashi-majutsu-koushi/rumia-tingel-perspective",
+        "rokudenashi-majutsu-koushi/sistine-fibel-perspective"
+      ],
+      "sheet_sha256": "6a74cf5c78e18bb447132b8ade23c4124ddb045ea5db7bb7ac7434236222b476",
+      "reviewed": true
+    },
+    {
+      "work": "sakura-no-toki",
+      "path": "artifacts/portrait-repair/review/sakura-no-toki-1.jpg",
+      "keys": [
+        "sakura-no-toki/hikawa-ruriwo-perspective",
+        "sakura-no-toki/honma-misuzu-perspective",
+        "sakura-no-toki/kawachino-suzuna-perspective",
+        "sakura-no-toki/kuriyama-natsuko-perspective",
+        "sakura-no-toki/nakamura-reika-perspective",
+        "sakura-no-toki/sakizaki-sakurako-perspective",
+        "sakura-no-toki/toritani-saki-perspective",
+        "sakura-no-toki/toritani-shizuru-perspective"
+      ],
+      "sheet_sha256": "c25f4c5f4f484f3c1beae9ccb4c6b75df73179f24e0048831a7dad6dc96f6979",
+      "reviewed": true
+    },
+    {
+      "work": "sakura-no-uta",
+      "path": "artifacts/portrait-repair/review/sakura-no-uta-1.jpg",
+      "keys": [
+        "sakura-no-uta/hikawa-rina-perspective",
+        "sakura-no-uta/kawachino-yuumi-perspective",
+        "sakura-no-uta/kusanagi-naoya-perspective",
+        "sakura-no-uta/misakura-rin-perspective",
+        "sakura-no-uta/natsume-ai-perspective",
+        "sakura-no-uta/natsume-kei-perspective",
+        "sakura-no-uta/natsume-shizuku-perspective",
+        "sakura-no-uta/toritani-makoto-perspective"
+      ],
+      "sheet_sha256": "ce0b713d09ef897adcec18778d431ec6187b8eacc413cf55457d6b4b13152fec",
+      "reviewed": true
+    },
+    {
+      "work": "sanoba-witch",
+      "path": "artifacts/portrait-repair/review/sanoba-witch-1.jpg",
+      "keys": [
+        "sanoba-witch/inaba-meguru-perspective",
+        "sanoba-witch/kariya-wakana-perspective",
+        "sanoba-witch/sakurai-nene-perspective",
+        "sanoba-witch/shiiba-tsumugi-perspective",
+        "sanoba-witch/togakushi-touko-perspective"
+      ],
+      "sheet_sha256": "ac65552d80981180ac23b85bd3e8699069fc6715016f3e5f8af3dd5c2689e0eb",
+      "reviewed": true
+    },
+    {
+      "work": "senren-banka",
+      "path": "artifacts/portrait-repair/review/senren-banka-1.jpg",
+      "keys": [
+        "senren-banka/koharu-perspective",
+        "senren-banka/lena-perspective",
+        "senren-banka/mako-perspective",
+        "senren-banka/murasame-perspective",
+        "senren-banka/roka-perspective",
+        "senren-banka/yoshino-perspective"
+      ],
+      "sheet_sha256": "ce4faf6c5b7f673d91b28b398b66fc60eec2ab30863335138569cf0d0e0e93f6",
+      "reviewed": true
+    },
+    {
+      "work": "seraph-of-the-end",
+      "path": "artifacts/portrait-repair/review/seraph-of-the-end-1.jpg",
+      "keys": [
+        "seraph-of-the-end/krul-tepes-perspective"
+      ],
+      "sheet_sha256": "8ffd083fe29c59c1317a8d2b81e46b4292fd400f8af9ee149746e34bac55e597",
+      "reviewed": true
+    },
+    {
+      "work": "star-detective-precure",
+      "path": "artifacts/portrait-repair/review/star-detective-precure-1.jpg",
+      "keys": [
+        "star-detective-precure/luluka-perspective"
+      ],
+      "sheet_sha256": "e3084709d7ce126322f2fcb6e45ae4c20411a5e901b0ea0559c865b0f7a3c0a7",
+      "reviewed": true
+    },
+    {
+      "work": "steins-gate",
+      "path": "artifacts/portrait-repair/review/steins-gate-1.jpg",
+      "keys": [
+        "steins-gate/makise-kurisu-perspective"
+      ],
+      "sheet_sha256": "7eae965bcc68b12a12c59bf3fe791ae425500859a07ab4cf0ba3b9c654417318",
+      "reviewed": true
+    },
+    {
+      "work": "sword-art-online",
+      "path": "artifacts/portrait-repair/review/sword-art-online-1.jpg",
+      "keys": [
+        "sword-art-online/alice-synthesis-thirty-perspective",
+        "sword-art-online/andrew-gilbert-mills-perspective",
+        "sword-art-online/argo-perspective",
+        "sword-art-online/asada-shino-perspective",
+        "sword-art-online/asuna-yuuki-perspective",
+        "sword-art-online/bercouli-synthesis-one-perspective",
+        "sword-art-online/cardinal-perspective",
+        "sword-art-online/eiji-nogata-perspective",
+        "sword-art-online/eugeo-perspective",
+        "sword-art-online/gabriel-miller-perspective",
+        "sword-art-online/kayaba-akihiko-perspective",
+        "sword-art-online/kirigaya-kazuto-perspective",
+        "sword-art-online/kirigaya-suguha-perspective",
+        "sword-art-online/lizbeth-rika-shinozaki-perspective",
+        "sword-art-online/quinella-perspective",
+        "sword-art-online/renly-synthesis-twenty-seven-perspective",
+        "sword-art-online/rosalia-perspective",
+        "sword-art-online/sachi-perspective",
+        "sword-art-online/selka-zuberg-perspective",
+        "sword-art-online/sheyta-synthesis-twelve-perspective",
+        "sword-art-online/silica-keiko-ayano-perspective",
+        "sword-art-online/tsuboi-ryoutarou-perspective",
+        "sword-art-online/vassago-casals-perspective",
+        "sword-art-online/yui-perspective",
+        "sword-art-online/yuna-perspective",
+        "sword-art-online/yuuki-perspective"
+      ],
+      "sheet_sha256": "7f86efda8127541764068104a824029340017f30e9e627a8cf6138f63079af13",
+      "reviewed": true
+    },
+    {
+      "work": "tensei-shitara-slime-datta-ken",
+      "path": "artifacts/portrait-repair/review/tensei-shitara-slime-datta-ken-1.jpg",
+      "keys": [
+        "tensei-shitara-slime-datta-ken/rimuru-tempest-perspective"
+      ],
+      "sheet_sha256": "9fb99c123fbde176ec25c4247b4165210e9b7f55849a455fb75e575190677ad9",
+      "reviewed": true
+    },
+    {
+      "work": "tenshi-souzou-re-boot",
+      "path": "artifacts/portrait-repair/review/tenshi-souzou-re-boot-1.jpg",
+      "keys": [
+        "tenshi-souzou-re-boot/hoshikawa-kaguya-perspective",
+        "tenshi-souzou-re-boot/kohibari-kurumi-perspective",
+        "tenshi-souzou-re-boot/ozato-fumika-perspective",
+        "tenshi-souzou-re-boot/shirayuki-noa-perspective",
+        "tenshi-souzou-re-boot/takatate-orie-perspective",
+        "tenshi-souzou-re-boot/tanikaze-amane-perspective"
+      ],
+      "sheet_sha256": "4ded9d50015ccf3972dae7328d68f28eca696f86c05a1f8f75f63fb8687b6a2a",
+      "reviewed": true
+    },
+    {
+      "work": "the-noexistencen-of-you-and-me",
+      "path": "artifacts/portrait-repair/review/the-noexistencen-of-you-and-me-1.jpg",
+      "keys": [
+        "the-noexistencen-of-you-and-me/lilith-perspective"
+      ],
+      "sheet_sha256": "f57572b771dcb1722ad35bd3c48c35788cd0d11a4eced5d7c5b9b1f4e0805a77",
+      "reviewed": true
+    },
+    {
+      "work": "toaru-project",
+      "path": "artifacts/portrait-repair/review/toaru-project-1.jpg",
+      "keys": [
+        "toaru-project/accelerator-perspective",
+        "toaru-project/acqua-of-the-back-perspective",
+        "toaru-project/awaki-musujime-perspective",
+        "toaru-project/fiamma-of-the-right-perspective",
+        "toaru-project/frenda-perspective",
+        "toaru-project/hamazura-shiage-perspective",
+        "toaru-project/heaven-canceller-perspective",
+        "toaru-project/index-perspective",
+        "toaru-project/itsuwa-perspective",
+        "toaru-project/kakine-teitoku-perspective",
+        "toaru-project/kamijou-touma-perspective",
+        "toaru-project/kanzaki-kaori-perspective",
+        "toaru-project/kinuhata-saiai-perspective",
+        "toaru-project/komoe-tsukuyomi-perspective",
+        "toaru-project/last-order-perspective",
+        "toaru-project/lessar-perspective",
+        "toaru-project/misaka-mikoto-perspective",
+        "toaru-project/misaka-worst-perspective",
+        "toaru-project/mugino-shizuri-perspective",
+        "toaru-project/oriana-thomson-perspective",
+        "toaru-project/saten-ruiko-perspective",
+        "toaru-project/shirai-kuroko-perspective",
+        "toaru-project/shokuhou-misaki-perspective",
+        "toaru-project/stiyl-magnus-perspective",
+        "toaru-project/takitsubo-rikou-perspective",
+        "toaru-project/terra-of-the-left-perspective",
+        "toaru-project/tsuchimikado-motoharu-perspective",
+        "toaru-project/uiharu-kazari-perspective",
+        "toaru-project/vento-of-the-front-perspective"
+      ],
+      "sheet_sha256": "fc3e3812be614a60c83a95fa5953f8974be7c5d780d222f45b3e4cedb5beba81",
+      "reviewed": true
+    },
+    {
+      "work": "toradora",
+      "path": "artifacts/portrait-repair/review/toradora-1.jpg",
+      "keys": [
+        "toradora/aisaka-taiga-perspective"
+      ],
+      "sheet_sha256": "90df74cc54569a261b36bc4a4fb98234a7b583cd1af412c5f51e4ff273bae452",
+      "reviewed": true
+    },
+    {
+      "work": "touhou-project",
+      "path": "artifacts/portrait-repair/review/touhou-project-1.jpg",
+      "keys": [
+        "touhou-project/aki-minoriko-perspective",
+        "touhou-project/aki-shizuha-perspective",
+        "touhou-project/alice-margatroid-perspective",
+        "touhou-project/aunn-komano-perspective",
+        "touhou-project/aya-shameimaru-perspective",
+        "touhou-project/byakuren-hijiri-perspective",
+        "touhou-project/chen-perspective",
+        "touhou-project/cirno-perspective",
+        "touhou-project/clownpiece-perspective",
+        "touhou-project/doremy-sweet-perspective",
+        "touhou-project/ebisu-eika-perspective",
+        "touhou-project/eternity-larva-perspective",
+        "touhou-project/flandre-scarlet-perspective",
+        "touhou-project/fujiwara-no-mokou-perspective",
+        "touhou-project/hakurei-reimu-perspective",
+        "touhou-project/haniyasushin-keiki-perspective",
+        "touhou-project/hecatia-lapislazuli-perspective",
+        "touhou-project/hieda-no-akyuu-perspective",
+        "touhou-project/himekaidou-hatate-perspective",
+        "touhou-project/himemushi-momoyo-perspective",
+        "touhou-project/hinanawi-tenshi-perspective",
+        "touhou-project/hong-meiling-perspective",
+        "touhou-project/houraisan-kaguya-perspective",
+        "touhou-project/ibaraki-kasen-perspective",
+        "touhou-project/iizunamaru-megumu-perspective",
+        "touhou-project/inaba-tewi-perspective",
+        "touhou-project/inubashiri-momiji-perspective",
+        "touhou-project/izayoi-sakuya-perspective",
+        "touhou-project/joutouguu-mayumi-perspective",
+        "touhou-project/junko-perspective"
+      ],
+      "sheet_sha256": "6e8cb99f054cc6fcd5f27614da23c3d48844f078a228e0a82bc7f09ecb4ce2e8",
+      "reviewed": true
+    },
+    {
+      "work": "touhou-project",
+      "path": "artifacts/portrait-repair/review/touhou-project-2.jpg",
+      "keys": [
+        "touhou-project/kaenbyou-rin-perspective",
+        "touhou-project/kagiyama-hina-perspective",
+        "touhou-project/kaku-seiga-perspective",
+        "touhou-project/kasodani-kyouko-perspective",
+        "touhou-project/kawashiro-nitori-perspective",
+        "touhou-project/kicchou-yachie-perspective",
+        "touhou-project/kijin-seija-perspective",
+        "touhou-project/kirisame-marisa-perspective",
+        "touhou-project/kishin-sagume-perspective",
+        "touhou-project/koakuma-perspective",
+        "touhou-project/kochiya-sanae-perspective",
+        "touhou-project/komakusa-sannyo-perspective",
+        "touhou-project/komeiji-koishi-perspective",
+        "touhou-project/komeiji-satori-perspective",
+        "touhou-project/konpaku-youmu-perspective",
+        "touhou-project/kudamaki-tsukasa-perspective",
+        "touhou-project/kumoi-ichirin-perspective",
+        "touhou-project/kurokoma-saki-perspective",
+        "touhou-project/matara-okina-perspective",
+        "touhou-project/minamitsu-murasa-perspective",
+        "touhou-project/mitsugashira-enoko-perspective",
+        "touhou-project/miyako-yoshika-perspective",
+        "touhou-project/mononobe-no-futo-perspective",
+        "touhou-project/morichika-rinnosuke-perspective",
+        "touhou-project/moriya-suwako-perspective",
+        "touhou-project/motoori-kosuzu-perspective",
+        "touhou-project/nagae-iku-perspective",
+        "touhou-project/nazrin-perspective",
+        "touhou-project/nippaku-zanmu-perspective",
+        "touhou-project/nishida-satono-perspective"
+      ],
+      "sheet_sha256": "f22e33e56d09c754c2135e05b138569b5b2a91711750d9ddf809a2cd9f2d8e4f",
+      "reviewed": true
+    },
+    {
+      "work": "touhou-project",
+      "path": "artifacts/portrait-repair/review/touhou-project-3.jpg",
+      "keys": [
+        "touhou-project/niwatari-kutaka-perspective",
+        "touhou-project/onozuka-komachi-perspective",
+        "touhou-project/patchouli-knowledge-perspective",
+        "touhou-project/reisen-udongein-inaba-perspective",
+        "touhou-project/reiuji-utsuho-perspective",
+        "touhou-project/remilia-scarlet-perspective",
+        "touhou-project/ringoo-perspective",
+        "touhou-project/saigyouji-yuyuko-perspective",
+        "touhou-project/sakata-nemuno-perspective",
+        "touhou-project/seiran-perspective",
+        "touhou-project/shikieiki-yamaxanadu-perspective",
+        "touhou-project/soga-no-tojiko-perspective",
+        "touhou-project/son-biten-perspective",
+        "touhou-project/suika-ibuki-perspective",
+        "touhou-project/sukuna-shinmyoumaru-perspective",
+        "touhou-project/tamatsukuri-misumaru-perspective",
+        "touhou-project/teireida-mai-perspective",
+        "touhou-project/tenkajin-chiyari-perspective",
+        "touhou-project/tenkyuu-chimata-perspective",
+        "touhou-project/toramaru-shou-perspective",
+        "touhou-project/toyosatomimi-no-miko-perspective",
+        "touhou-project/usami-sumireko-perspective",
+        "touhou-project/ushizaki-urumi-perspective",
+        "touhou-project/yagokoro-eirin-perspective",
+        "touhou-project/yakumo-ran-perspective",
+        "touhou-project/yakumo-yukari-perspective",
+        "touhou-project/yasaka-kanako-perspective",
+        "touhou-project/yatadera-narumi-perspective",
+        "touhou-project/yomotsu-hisami-perspective"
+      ],
+      "sheet_sha256": "bb9b087e6edb752a21a48242e30ba48aa304427a807c7b6b9c20301926120f61",
+      "reviewed": true
+    },
+    {
+      "work": "tsuki-ni-yorisou-otome-no-sahou",
+      "path": "artifacts/portrait-repair/review/tsuki-ni-yorisou-otome-no-sahou-1.jpg",
+      "keys": [
+        "tsuki-ni-yorisou-otome-no-sahou/sakurakouji-runa-perspective"
+      ],
+      "sheet_sha256": "e2f1d8ba6ba4884dca9f0a53fdfddd2c9cab6e5d8a722d4287b4109378a42cbb",
+      "reviewed": true
+    },
+    {
+      "work": "vocaloid",
+      "path": "artifacts/portrait-repair/review/vocaloid-1.jpg",
+      "keys": [
+        "vocaloid/hatsune-miku-perspective"
+      ],
+      "sheet_sha256": "e3d07023c0fadc95340e610a3910891afd7fe7412c008f73a1983783012dcdf4",
+      "reviewed": true
+    },
+    {
+      "work": "wuthering-waves",
+      "path": "artifacts/portrait-repair/review/wuthering-waves-1.jpg",
+      "keys": [
+        "wuthering-waves/aemeath-perspective",
+        "wuthering-waves/augusta-perspective",
+        "wuthering-waves/baizhi-perspective",
+        "wuthering-waves/buling-perspective",
+        "wuthering-waves/camellya-perspective",
+        "wuthering-waves/cantarella-perspective",
+        "wuthering-waves/carlotta-perspective",
+        "wuthering-waves/cartethyia-perspective",
+        "wuthering-waves/changli-perspective",
+        "wuthering-waves/chisa-perspective",
+        "wuthering-waves/chixia-perspective",
+        "wuthering-waves/ciaccona-perspective",
+        "wuthering-waves/danjin-perspective",
+        "wuthering-waves/denia-perspective",
+        "wuthering-waves/encore-perspective",
+        "wuthering-waves/galbrena-perspective",
+        "wuthering-waves/hiyuki-perspective",
+        "wuthering-waves/iuno-perspective",
+        "wuthering-waves/jianxin-perspective",
+        "wuthering-waves/jinshi-perspective",
+        "wuthering-waves/lucilla-perspective",
+        "wuthering-waves/lucy-perspective",
+        "wuthering-waves/lumi-perspective",
+        "wuthering-waves/lupa-perspective",
+        "wuthering-waves/lynae-perspective",
+        "wuthering-waves/mornye-perspective",
+        "wuthering-waves/phoebe-perspective",
+        "wuthering-waves/phrolova-perspective",
+        "wuthering-waves/rebecca-perspective",
+        "wuthering-waves/roccia-perspective"
+      ],
+      "sheet_sha256": "e73b3193d9aadf162d020c9c962659fdfd7d7a0f78dc0c90c4c6615b492de775",
+      "reviewed": true
+    },
+    {
+      "work": "wuthering-waves",
+      "path": "artifacts/portrait-repair/review/wuthering-waves-2.jpg",
+      "keys": [
+        "wuthering-waves/sanhua-perspective",
+        "wuthering-waves/shorekeeper-perspective",
+        "wuthering-waves/sigrika-perspective",
+        "wuthering-waves/suisui-perspective",
+        "wuthering-waves/taoqi-perspective",
+        "wuthering-waves/verina-perspective",
+        "wuthering-waves/yangyang-perspective",
+        "wuthering-waves/yinlin-perspective",
+        "wuthering-waves/youhu-perspective",
+        "wuthering-waves/zani-perspective",
+        "wuthering-waves/zhezhi-perspective"
+      ],
+      "sheet_sha256": "bbc043c653e72e12180917abfc1f2e4ccc225e23ab1ceb76aff9788c5b0a65bb",
+      "reviewed": true
+    },
+    {
+      "work": "zero-no-tsukaima",
+      "path": "artifacts/portrait-repair/review/zero-no-tsukaima-1.jpg",
+      "keys": [
+        "zero-no-tsukaima/louise-perspective"
+      ],
+      "sheet_sha256": "3a47dfc546e5cf764f710f0d0520f89d0d12929c23f62892c25b0de411c29b4f",
+      "reviewed": true
+    }
+  ],
+  "characters_reviewed": 444,
+  "notes": "All 53 work-grouped contact sheets inspected; replacements re-opened before approval; only listed same-identity duplicates retained."
+}

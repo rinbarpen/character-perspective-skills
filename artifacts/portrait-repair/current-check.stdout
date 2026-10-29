@@ -1,0 +1,51 @@
+{
+  "roles": 444,
+  "works": 47,
+  "identity_verified": 444,
+  "visual_reviewed": 444,
+  "images": 444,
+  "duplicates": [
+    {
+      "sha256": "b146d33f8a23180900f525692bbb1c4e3025666526696ba50961bd01792875d1",
+      "keys": [
+        "majono-yoru-en/meguru-perspective",
+        "sanoba-witch/inaba-meguru-perspective"
+      ],
+      "reason": "因幡めぐる的同一原作人物保留在两个历史作品目录，VNDB身份同为c26598；本次按约定保留目录。"
+    },
+    {
+      "sha256": "be5b63810c73acd454c8621fae87bcbf116fe830494096b009510b2cdf729f2c",
+      "keys": [
+        "majono-yoru-en/touko-perspective",
+        "sanoba-witch/togakushi-touko-perspective"
+      ],
+      "reason": "戸隠憧子的同一原作人物保留在两个历史作品目录，VNDB身份同为c26600；本次按约定保留目录。"
+    },
+    {
+      "sha256": "015acdb9917a871e3ae153be1e77cfbe4b25aa958589e1c0ee53841207dd4ac2",
+      "keys": [
+        "majono-yoru-en/tsumugi-perspective",
+        "sanoba-witch/shiiba-tsumugi-perspective"
+      ],
+      "reason": "椎葉紬的同一原作人物保留在两个历史作品目录，VNDB身份同为c26599；本次按约定保留目录。"
+    },
+    {
+      "sha256": "c85c64344bad6a34ee47d58e9d3e209b77a311257d437b4fda4b2b84abd9ff7a",
+      "keys": [
+        "majono-yoru-en/wakana-perspective",
+        "sanoba-witch/kariya-wakana-perspective"
+      ],
+      "reason": "仮屋和奏的同一原作人物保留在两个历史作品目录，VNDB身份同为c26601；本次按约定保留目录。"
+    },
+    {
+      "sha256": "742588feaff116a265691decb5e77bed89cd04ab25adb84f69d8facbd83902a5",
+      "keys": [
+        "otome-riron/kokura-asahi-perspective",
+        "otome-riron/ookura-yusei-perspective"
+      ],
+      "reason": "小倉朝日是大蔵遊星的化名，来源统一为VNDB c9481；原作双造型图同时展示其两种身份，并非两个不同人物误配。"
+    }
+  ],
+  "errors": [],
+  "passed": true
+}

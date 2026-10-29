@@ -1,0 +1,375 @@
+EXIT 0 /home/rczx/miniconda3/bin/python -m unittest discover -s tests -v
+EXIT 0 /home/rczx/miniconda3/bin/python scripts/portraits.py check --report /home/rczx/workspace/rinbarpen/projects/character-skills/artifacts/portrait-repair/current-check.json
+EXIT 0 /home/rczx/miniconda3/bin/python scripts/portraits.py render
+EXIT 0 git diff --binary HEAD -- README.md 角色清单.md assets
+EXIT 0 git ls-files --others --exclude-standard
+EXIT 1 git diff --no-index --binary -- /dev/null .gitignore
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portrait_sources.json
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/README.md
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/amairo-islenauts/hinomiya-konoka-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/amairo-islenauts/tia-hohenwerfen-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/cafe-stella/akatsuki-kanna-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/cafe-stella/hiuchidani-ai-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/cafe-stella/shiki-natsume-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/cafe-stella/shioyama-suzune-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/cafe-stella/sumizome-nozomi-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/danganronpa/kyoko-kirigiri-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/dracu-riot/nicola-cepheus-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/engage-kiss/kisaragi-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/engage-kiss/ogata-shu-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/engage-kiss/sharon-holygrail-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/engage-kiss/yugiri-ayano-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/abe-nana-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/aketa-mikoto-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/akizuki-ritsuko-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/akizuki-ryo-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/amami-haruka-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/arima-rinse-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/asakura-toru-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/baba-konomi-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/emily-stewart-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/fukuda-noriko-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/fukumaru-koito-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/futami-ami-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/futami-mami-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/ganaha-hibiki-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/hakozaki-serika-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/hidaka-ai-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/higuchi-enoka-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/hojo-karen-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/honda-mio-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/hoshii-miki-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/ibuki-tsubasa-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/ichinose-shiki-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/izumi-mei-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/julia-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/kanzaki-ranko-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/kasuga-mirai-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/kikuchi-makoto-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/kinoshita-hinata-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/kisaragi-chihaya-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/kitakami-reika-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/kitazawa-shiho-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/komiya-kaho-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/koshimizu-sachiko-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/kousaka-umi-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/kuwayama-chiyuki-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/maihama-ayumu-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/makabe-mizuki-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/matsuda-arisa-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/mayuzumi-fuyuko-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/minase-iori-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/mitsumine-yuika-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/miura-azusa-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/miyao-miya-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/mizutani-eri-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/mochizuki-anna-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/mogami-shizuka-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/momose-rio-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/moroboshi-kirari-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/nagayoshi-subaru-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/nakatani-iku-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/nanakusa-hazuki-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/nanakusa-nichika-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/nanao-yuriko-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/nikaido-chizuru-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/nitta-minami-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/nonohara-akane-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/ookami-tamaki-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/osaki-anna-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/osaki-tenka-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/otonashi-kotori-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/sagisawa-fumika-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/saijo-juri-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/sakamori-kaori-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/satake-minako-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/satou-shizuku-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/serizawa-asahi-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/shibuya-rin-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/shijou-takane-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/shimabara-elena-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/shimamura-uzuki-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/shinomiya-karen-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/shinozaki-hiro-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/shiragiku-hotaru-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/shiraishi-tsumugi-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/shirose-sakuya-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/sonoda-chiyoko-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/suo-momoko-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/takagaki-kaede-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/takagi-producer-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/takayama-sayoko-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/tanaka-kotoha-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/tenkubashi-tomoka-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/tokoro-emi-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/tokugawa-matsuri-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/toyokawa-fuka-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/tsukioka-kanade-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/yabuki-kana-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/yatsumiya-meguru-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/yokoyama-nao-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/idolmaster/yukoku-kiriko-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/kage-no-jitsuryokusha/alexia-midgar-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/kage-no-jitsuryokusha/alpha-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/kage-no-jitsuryokusha/annerose-notoire-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/kage-no-jitsuryokusha/beta-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/kage-no-jitsuryokusha/claire-kagenou-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/kage-no-jitsuryokusha/delta-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/kage-no-jitsuryokusha/epsilon-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/kage-no-jitsuryokusha/eta-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/kage-no-jitsuryokusha/gamma-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/kage-no-jitsuryokusha/mary-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/kage-no-jitsuryokusha/nu-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/kage-no-jitsuryokusha/rose-oriana-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/kage-no-jitsuryokusha/zeta-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/madoka/kyoko-sakura-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/madoka/kyubey-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/mushoku-tensei/eris-boreas-greyrat-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/mushoku-tensei/roxy-migurdia-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/mushoku-tensei/sylphiette-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/parquet/ibaraki-rino-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/parquet/jomon-tsubasa-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/sanoba-witch/inaba-meguru-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/sanoba-witch/kariya-wakana-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/sanoba-witch/shiiba-tsumugi-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/sanoba-witch/togakushi-touko-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/tenshi-souzou-re-boot/hoshikawa-kaguya-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/tenshi-souzou-re-boot/kohibari-kurumi-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/tenshi-souzou-re-boot/ozato-fumika-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/tenshi-souzou-re-boot/shirayuki-noa-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/tenshi-souzou-re-boot/takatate-orie-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/tenshi-souzou-re-boot/tanikaze-amane-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/the-noexistencen-of-you-and-me/lilith-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/toaru-project/accelerator-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/toaru-project/acqua-of-the-back-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/toaru-project/awaki-musujime-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/toaru-project/fiamma-of-the-right-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/toaru-project/frenda-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/toaru-project/hamazura-shiage-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/toaru-project/heaven-canceller-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/toaru-project/index-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/toaru-project/itsuwa-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/toaru-project/kakine-teitoku-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/toaru-project/kamijou-touma-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/toaru-project/kanzaki-kaori-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/toaru-project/kinuhata-saiai-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/toaru-project/komoe-tsukuyomi-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/toaru-project/last-order-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/toaru-project/lessar-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/toaru-project/misaka-mikoto-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/toaru-project/misaka-worst-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/toaru-project/mugino-shizuri-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/toaru-project/oriana-thomson-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/toaru-project/saten-ruiko-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/toaru-project/shirai-kuroko-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/toaru-project/shokuhou-misaki-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/toaru-project/stiyl-magnus-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/toaru-project/takitsubo-rikou-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/toaru-project/terra-of-the-left-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/toaru-project/tsuchimikado-motoharu-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/toaru-project/uiharu-kazari-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/toaru-project/vento-of-the-front-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/toradora/aisaka-taiga-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/aki-minoriko-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/aki-shizuha-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/alice-margatroid-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/aunn-komano-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/aya-shameimaru-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/byakuren-hijiri-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/chen-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/cirno-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/clownpiece-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/doremy-sweet-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/ebisu-eika-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/eternity-larva-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/fujiwara-no-mokou-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/haniyasushin-keiki-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/hecatia-lapislazuli-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/hieda-no-akyuu-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/himekaidou-hatate-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/himemushi-momoyo-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/hinanawi-tenshi-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/hong-meiling-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/houraisan-kaguya-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/ibaraki-kasen-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/iizunamaru-megumu-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/inaba-tewi-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/inubashiri-momiji-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/joutouguu-mayumi-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/junko-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/kaenbyou-rin-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/kagiyama-hina-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/kaku-seiga-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/kasodani-kyouko-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/kawashiro-nitori-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/kicchou-yachie-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/kijin-seija-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/kirisame-marisa-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/kishin-sagume-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/koakuma-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/kochiya-sanae-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/komakusa-sannyo-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/komeiji-koishi-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/komeiji-satori-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/konpaku-youmu-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/kudamaki-tsukasa-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/kumoi-ichirin-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/kurokoma-saki-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/matara-okina-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/minamitsu-murasa-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/mitsugashira-enoko-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/miyako-yoshika-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/mononobe-no-futo-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/morichika-rinnosuke-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/moriya-suwako-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/motoori-kosuzu-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/nagae-iku-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/nazrin-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/nippaku-zanmu-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/nishida-satono-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/niwatari-kutaka-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/onozuka-komachi-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/patchouli-knowledge-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/reisen-udongein-inaba-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/reiuji-utsuho-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/remilia-scarlet-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/ringoo-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/saigyouji-yuyuko-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/sakata-nemuno-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/seiran-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/shikieiki-yamaxanadu-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/soga-no-tojiko-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/son-biten-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/suika-ibuki-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/sukuna-shinmyoumaru-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/tamatsukuri-misumaru-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/teireida-mai-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/tenkajin-chiyari-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/tenkyuu-chimata-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/toramaru-shou-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/toyosatomimi-no-miko-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/usami-sumireko-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/ushizaki-urumi-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/yagokoro-eirin-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/yakumo-ran-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/yasaka-kanako-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/yatadera-narumi-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null assets/portraits/touhou-project/yomotsu-hisami-perspective.webp
+EXIT 1 git diff --no-index --binary -- /dev/null scripts/portraits.py
+EXIT 1 git diff --no-index --binary -- /dev/null scripts/requirements-portraits.txt
+EXIT 1 git diff --no-index --binary -- /dev/null scripts/research_portraits.py
+EXIT 1 git diff --no-index --binary -- /dev/null scripts/rollback_portraits.py
+EXIT 1 git diff --no-index --binary -- /dev/null scripts/verify_portraits.py
+EXIT 1 git diff --no-index --binary -- /dev/null tests/test_portraits.py
+EXIT 1 /home/rczx/miniconda3/bin/python /home/rczx/workspace/rinbarpen/projects/character-skills/scripts/portraits.py check --root /tmp/portrait-verify-0czxjax6 --report /home/rczx/workspace/rinbarpen/projects/character-skills/artifacts/portrait-repair/original-check.json
+EXIT 0 git apply --check /home/rczx/workspace/rinbarpen/projects/character-skills/artifacts/portrait-repair/repair.patch
+EXIT 0 git apply /home/rczx/workspace/rinbarpen/projects/character-skills/artifacts/portrait-repair/repair.patch
+EXIT 0 /home/rczx/miniconda3/bin/python /tmp/portrait-verify-0czxjax6/scripts/portraits.py check --root /tmp/portrait-verify-0czxjax6
+EXIT 0 /home/rczx/miniconda3/bin/python /tmp/portrait-verify-0czxjax6/scripts/rollback_portraits.py --root /tmp/portrait-verify-0czxjax6
+{
+  "passed": true,
+  "roles": 444,
+  "works": 47,
+  "original_images": 195,
+  "modified_images": 444,
+  "identity_verified": 444,
+  "visual_reviewed": 444,
+  "original_check_exit": 1,
+  "modified_check_exit": 0,
+  "changed_portrait_index_paths": 450,
+  "duplicate_exceptions": [
+    {
+      "sha256": "b146d33f8a23180900f525692bbb1c4e3025666526696ba50961bd01792875d1",
+      "keys": [
+        "majono-yoru-en/meguru-perspective",
+        "sanoba-witch/inaba-meguru-perspective"
+      ],
+      "reason": "因幡めぐる的同一原作人物保留在两个历史作品目录，VNDB身份同为c26598；本次按约定保留目录。"
+    },
+    {
+      "sha256": "be5b63810c73acd454c8621fae87bcbf116fe830494096b009510b2cdf729f2c",
+      "keys": [
+        "majono-yoru-en/touko-perspective",
+        "sanoba-witch/togakushi-touko-perspective"
+      ],
+      "reason": "戸隠憧子的同一原作人物保留在两个历史作品目录，VNDB身份同为c26600；本次按约定保留目录。"
+    },
+    {
+      "sha256": "015acdb9917a871e3ae153be1e77cfbe4b25aa958589e1c0ee53841207dd4ac2",
+      "keys": [
+        "majono-yoru-en/tsumugi-perspective",
+        "sanoba-witch/shiiba-tsumugi-perspective"
+      ],
+      "reason": "椎葉紬的同一原作人物保留在两个历史作品目录，VNDB身份同为c26599；本次按约定保留目录。"
+    },
+    {
+      "sha256": "c85c64344bad6a34ee47d58e9d3e209b77a311257d437b4fda4b2b84abd9ff7a",
+      "keys": [
+        "majono-yoru-en/wakana-perspective",
+        "sanoba-witch/kariya-wakana-perspective"
+      ],
+      "reason": "仮屋和奏的同一原作人物保留在两个历史作品目录，VNDB身份同为c26601；本次按约定保留目录。"
+    },
+    {
+      "sha256": "742588feaff116a265691decb5e77bed89cd04ab25adb84f69d8facbd83902a5",
+      "keys": [
+        "otome-riron/kokura-asahi-perspective",
+        "otome-riron/ookura-yusei-perspective"
+      ],
+      "reason": "小倉朝日是大蔵遊星的化名，来源统一为VNDB c9481；原作双造型图同时展示其两种身份，并非两个不同人物误配。"
+    }
+  ],
+  "known_mismatch_regressions": [
+    {
+      "keys": [
+        "mygo/kaname-rana-perspective",
+        "madoka/madoka-kaname-perspective"
+      ],
+      "original_same_image": true,
+      "modified_same_image": false
+    },
+    {
+      "keys": [
+        "sword-art-online/kirigaya-kazuto-perspective",
+        "sword-art-online/kirigaya-suguha-perspective"
+      ],
+      "original_same_image": true,
+      "modified_same_image": false
+    },
+    {
+      "keys": [
+        "sword-art-online/asuna-yuuki-perspective",
+        "sword-art-online/yuuki-perspective"
+      ],
+      "original_same_image": true,
+      "modified_same_image": false
+    },
+    {
+      "keys": [
+        "sakura-no-toki/toritani-saki-perspective",
+        "sakura-no-toki/toritani-shizuru-perspective"
+      ],
+      "original_same_image": true,
+      "modified_same_image": false
+    }
+  ],
+  "character_documents_unchanged": true,
+  "render_deterministic": true,
+  "patch_applied_and_checked": true,
+  "rollback_executed_and_checked": true,
+  "unrelated_files_preserved": true,
+  "browser_images_loaded_per_index": 444,
+  "browser_broken_images": 0,
+  "contact_sheets_reviewed": 53,
+  "inputs": {
+    "original_archive_sha256": "3f9c9c132a707efa173a75b748fdb57f05db1a80c47452aa8dd50a6da5581288",
+    "original_hashes_sha256": "2238685fbbf35d04cf7226b3b3d9546b6fc6c9cdc3ad29d285da90427e596c7e",
+    "expected_source_manifest_sha256": "04a158ed4c42e4c6ec48f3c87a9c2a6ad6290acc141a9602ed564e4d0628187b",
+    "browser_record_sha256": "c2b30d1dfdfb0141d24edd903fcde8f1368a5d2189733230ca987166524141c0",
+    "visual_review_record_sha256": "beb20f408d9e50f03b6b3303112f53b0579a4c3e71112b224b2ca62f80cfc28a",
+    "patch_sha256": "8d06e56e9f4246a19f67acce129e2aa4a94270198747939569ec0cd10773691c"
+  },
+  "command_record": "artifacts/portrait-repair/commands.json",
+  "current_check": "artifacts/portrait-repair/current-check.json",
+  "original_check": "artifacts/portrait-repair/original-check.json"
+}

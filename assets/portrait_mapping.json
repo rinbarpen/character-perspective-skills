@@ -1,126 +1,313 @@
 {
-  "idolmaster": [
-    "akagi-miria-perspective",
-    "ichihara-nina-perspective",
-    "koga-koharu-perspective",
-    "matoba-risa-perspective",
-    "ryuzaki-kaoru-perspective",
-    "sakurai-momoka-perspective",
-    "sasaki-chie-perspective",
-    "tachibana-arisu-perspective",
-    "yuki-haru-perspective",
-    "yusa-kozue-perspective"
-  ],
-  "kyokou-suiri": [
-    "iwanaga-kotoko-perspective"
+  "amairo-islenauts": [
+    "airi-perspective",
+    "hinomiya-konoka-perspective",
+    "masaki-perspective",
+    "shirley-perspective",
+    "tia-hohenwerfen-perspective",
+    "yune-perspective"
   ],
   "angel-beats": [
     "tachibana-kanade-perspective"
   ],
   "ave-mujica": [
-    "misumi-uika",
-    "togawa-sakiko",
-    "wakaba-mutsumi",
-    "yahata-umiri",
-    "yutenji-nyamu"
+    "misumi-uika-perspective",
+    "togawa-sakiko-perspective",
+    "wakaba-mutsumi-perspective",
+    "yahata-umiri-perspective",
+    "yutenji-nyamu-perspective"
   ],
   "bocchi-the-rock": [
-    "hitori-gotoh",
-    "ikuyo-kita",
-    "kikuri-hiroi",
-    "nijika-ijichi",
-    "pa-san",
-    "ryo-yamada",
-    "seika-ijichi"
+    "hitori-gotoh-perspective",
+    "ikuyo-kita-perspective",
+    "kikuri-hiroi-perspective",
+    "nijika-ijichi-perspective",
+    "pa-san-perspective",
+    "ryo-yamada-perspective",
+    "seika-ijichi-perspective"
+  ],
+  "cafe-stella": [
+    "akatsuki-kanna-perspective",
+    "hiuchidani-ai-perspective",
+    "shiki-natsume-perspective",
+    "shioyama-suzune-perspective",
+    "sumizome-nozomi-perspective"
+  ],
+  "charlotte": [
+    "tomori-nao-perspective"
   ],
   "danganronpa": [
     "kyoko-kirigiri-perspective"
   ],
-  "fate": [
-    "artoria-pendragon-perspective"
+  "dracu-riot": [
+    "azusa-perspective",
+    "elina-perspective",
+    "miu-perspective",
+    "nicola-cepheus-perspective",
+    "rio-perspective"
+  ],
+  "engage-kiss": [
+    "kisaragi-perspective",
+    "ogata-shu-perspective",
+    "sharon-holygrail-perspective",
+    "yugiri-ayano-perspective"
   ],
   "fate-grand-order": [
     "mash-kyrielight-perspective"
   ],
+  "fate-stay-night": [
+    "emiya-shirou-perspective",
+    "illyasviel-von-einzbern-perspective",
+    "kotomine-kirei-perspective",
+    "rin-tohsaka-perspective",
+    "sakura-matou-perspective"
+  ],
+  "fate": [
+    "artoria-pendragon-perspective"
+  ],
+  "idolmaster": [
+    "abe-nana-perspective",
+    "akagi-miria-perspective",
+    "aketa-mikoto-perspective",
+    "akizuki-ritsuko-perspective",
+    "akizuki-ryo-perspective",
+    "amami-haruka-perspective",
+    "arima-rinse-perspective",
+    "asakura-toru-perspective",
+    "baba-konomi-perspective",
+    "emily-stewart-perspective",
+    "fukuda-noriko-perspective",
+    "fukumaru-koito-perspective",
+    "futami-ami-perspective",
+    "futami-mami-perspective",
+    "ganaha-hibiki-perspective",
+    "hakozaki-serika-perspective",
+    "hidaka-ai-perspective",
+    "higuchi-enoka-perspective",
+    "hojo-karen-perspective",
+    "honda-mio-perspective",
+    "hoshii-miki-perspective",
+    "ibuki-tsubasa-perspective",
+    "ichihara-nina-perspective",
+    "ichinose-shiki-perspective",
+    "izumi-mei-perspective",
+    "julia-perspective",
+    "kanzaki-ranko-perspective",
+    "kasuga-mirai-perspective",
+    "kikuchi-makoto-perspective",
+    "kinoshita-hinata-perspective",
+    "kisaragi-chihaya-perspective",
+    "kitakami-reika-perspective",
+    "kitazawa-shiho-perspective",
+    "koga-koharu-perspective",
+    "komiya-kaho-perspective",
+    "koshimizu-sachiko-perspective",
+    "kousaka-umi-perspective",
+    "kuwayama-chiyuki-perspective",
+    "maihama-ayumu-perspective",
+    "makabe-mizuki-perspective",
+    "matoba-risa-perspective",
+    "matsuda-arisa-perspective",
+    "mayuzumi-fuyuko-perspective",
+    "minase-iori-perspective",
+    "mitsumine-yuika-perspective",
+    "miura-azusa-perspective",
+    "miyao-miya-perspective",
+    "mizutani-eri-perspective",
+    "mochizuki-anna-perspective",
+    "mogami-shizuka-perspective",
+    "momose-rio-perspective",
+    "moroboshi-kirari-perspective",
+    "nagayoshi-subaru-perspective",
+    "nakatani-iku-perspective",
+    "nanakusa-hazuki-perspective",
+    "nanakusa-nichika-perspective",
+    "nanao-yuriko-perspective",
+    "nikaido-chizuru-perspective",
+    "nitta-minami-perspective",
+    "nonohara-akane-perspective",
+    "ookami-tamaki-perspective",
+    "osaki-anna-perspective",
+    "osaki-tenka-perspective",
+    "otonashi-kotori-perspective",
+    "ryuzaki-kaoru-perspective",
+    "sagisawa-fumika-perspective",
+    "saijo-juri-perspective",
+    "sakamori-kaori-perspective",
+    "sakurai-momoka-perspective",
+    "sasaki-chie-perspective",
+    "satake-minako-perspective",
+    "satou-shizuku-perspective",
+    "serizawa-asahi-perspective",
+    "shibuya-rin-perspective",
+    "shijou-takane-perspective",
+    "shimabara-elena-perspective",
+    "shimamura-uzuki-perspective",
+    "shinomiya-karen-perspective",
+    "shinozaki-hiro-perspective",
+    "shiragiku-hotaru-perspective",
+    "shiraishi-tsumugi-perspective",
+    "shirose-sakuya-perspective",
+    "sonoda-chiyoko-perspective",
+    "suo-momoko-perspective",
+    "tachibana-arisu-perspective",
+    "takagaki-kaede-perspective",
+    "takagi-producer-perspective",
+    "takayama-sayoko-perspective",
+    "tanaka-kotoha-perspective",
+    "tenkubashi-tomoka-perspective",
+    "tokoro-emi-perspective",
+    "tokugawa-matsuri-perspective",
+    "toyokawa-fuka-perspective",
+    "tsukioka-kanade-perspective",
+    "yabuki-kana-perspective",
+    "yatsumiya-meguru-perspective",
+    "yokoyama-nao-perspective",
+    "yuki-haru-perspective",
+    "yukoku-kiriko-perspective",
+    "yusa-kozue-perspective"
+  ],
+  "kage-no-jitsuryokusha": [
+    "alexia-midgar-perspective",
+    "alpha-perspective",
+    "annerose-notoire-perspective",
+    "beta-perspective",
+    "claire-kagenou-perspective",
+    "delta-perspective",
+    "epsilon-perspective",
+    "eta-perspective",
+    "gamma-perspective",
+    "mary-perspective",
+    "nu-perspective",
+    "rose-oriana-perspective",
+    "zeta-perspective"
+  ],
   "konosuba": [
     "megumin-perspective"
+  ],
+  "kyokou-suiri": [
+    "iwanaga-kotoko-perspective"
+  ],
+  "madoka": [
+    "homura-akemi-perspective",
+    "kyoko-sakura-perspective",
+    "kyubey-perspective",
+    "madoka-kaname-perspective",
+    "mami-perspective",
+    "sayaka-miki-perspective"
   ],
   "majo-no-tabitabi": [
     "elaina-perspective"
   ],
+  "majono-yoru-en": [
+    "meguru-perspective",
+    "touko-perspective",
+    "tsumugi-perspective",
+    "wakana-perspective"
+  ],
+  "mushoku-tensei": [
+    "eris-boreas-greyrat-perspective",
+    "roxy-migurdia-perspective",
+    "sylphiette-perspective"
+  ],
   "mygo": [
-    "chihaya-anon",
-    "kaname-rana",
-    "nagasaki-soyo",
-    "shiina-taki",
-    "takamatsu-tomori"
+    "chihaya-anon-perspective",
+    "kaname-rana-perspective",
+    "nagasaki-soyo-perspective",
+    "shiina-taki-perspective",
+    "takamatsu-tomori-perspective"
   ],
   "neon-genesis-evangelion": [
-    "asuka-langley-soryu",
-    "gendo-ikari",
-    "kaworu-nagisa",
-    "misato-katsuragi",
-    "rei-ayanami",
-    "shinji-ikari"
+    "asuka-langley-soryu-perspective",
+    "gendo-ikari-perspective",
+    "kaworu-nagisa-perspective",
+    "misato-katsuragi-perspective",
+    "rei-ayanami-perspective",
+    "shinji-ikari-perspective"
   ],
   "noble-works": [
-    "akari",
-    "hinata",
-    "maya",
-    "sena",
-    "shizuru"
+    "akari-perspective",
+    "hinata-perspective",
+    "maya-perspective",
+    "sena-perspective",
+    "shizuru-perspective"
   ],
   "otome-riron": [
-    "kokura-asahi",
-    "ookura-aeon",
-    "ookura-resona",
-    "ookura-yusei"
+    "kokura-asahi-perspective",
+    "ookura-aeon-perspective",
+    "ookura-resona-perspective",
+    "ookura-yusei-perspective"
   ],
   "otonari-no-tenshi-sama": [
     "shiina-mahiru-perspective"
   ],
   "overlord": [
-    "ainz-ooal-gown",
-    "albedo",
-    "aura-bella-fiora",
-    "demiurge",
-    "evileye",
-    "lupusregina-beta",
-    "mare-bello-fiore",
-    "narberal-gamma",
-    "pandoras-actor",
-    "renner-theiere-chardelon-ryle-vaiself",
-    "shalltear-bloodfallen",
-    "solution-epsilon",
-    "zesshi-zetsumei"
+    "ainz-ooal-gown-perspective",
+    "albedo-perspective",
+    "aura-bella-fiora-perspective",
+    "demiurge-perspective",
+    "evileye-perspective",
+    "lupusregina-beta-perspective",
+    "mare-bello-fiore-perspective",
+    "narberal-gamma-perspective",
+    "pandoras-actor-perspective",
+    "renner-theiere-chardelon-ryle-vaiself-perspective",
+    "shalltear-bloodfallen-perspective",
+    "solution-epsilon-perspective",
+    "zesshi-zetsumei-perspective"
+  ],
+  "parquet": [
+    "ibaraki-rino-perspective",
+    "jomon-tsubasa-perspective"
   ],
   "riddle-joker": [
-    "ayase",
-    "chisaki",
-    "hazuki",
-    "mayu",
-    "nanami"
+    "ayase-perspective",
+    "chisaki-perspective",
+    "hazuki-perspective",
+    "mayu-perspective",
+    "nanami-perspective"
+  ],
+  "rokudenashi-majutsu-koushi": [
+    "celica-arfonia-perspective",
+    "eve-ignite-perspective",
+    "riel-rayford-perspective",
+    "rumia-tingel-perspective",
+    "sistine-fibel-perspective"
+  ],
+  "sakura-no-toki": [
+    "hikawa-ruriwo-perspective",
+    "honma-misuzu-perspective",
+    "kawachino-suzuna-perspective",
+    "kuriyama-natsuko-perspective",
+    "nakamura-reika-perspective",
+    "sakizaki-sakurako-perspective",
+    "toritani-saki-perspective",
+    "toritani-shizuru-perspective"
   ],
   "sakura-no-uta": [
-    "hikawa-rina",
-    "kawachino-yuumi",
-    "kusanagi-naoya",
-    "misakura-rin",
-    "natsume-ai",
-    "natsume-kei",
-    "natsume-shizuku",
-    "toritani-makoto"
+    "hikawa-rina-perspective",
+    "kawachino-yuumi-perspective",
+    "kusanagi-naoya-perspective",
+    "misakura-rin-perspective",
+    "natsume-ai-perspective",
+    "natsume-kei-perspective",
+    "natsume-shizuku-perspective",
+    "toritani-makoto-perspective"
   ],
   "sanoba-witch": [
-    "sakurai-nene-perspective"
+    "inaba-meguru-perspective",
+    "kariya-wakana-perspective",
+    "sakurai-nene-perspective",
+    "shiiba-tsumugi-perspective",
+    "togakushi-touko-perspective"
   ],
   "senren-banka": [
-    "koharu",
-    "lena",
-    "mako",
-    "murasame",
-    "roka",
-    "yoshino"
+    "koharu-perspective",
+    "lena-perspective",
+    "mako-perspective",
+    "murasame-perspective",
+    "roka-perspective",
+    "yoshino-perspective"
   ],
   "seraph-of-the-end": [
     "krul-tepes-perspective"
@@ -132,47 +319,46 @@
     "makise-kurisu-perspective"
   ],
   "sword-art-online": [
-    "alice-synthesis-thirty",
-    "andrew-gilbert-mills",
-    "argo",
-    "asada-shino",
-    "asuna-yuuki",
-    "bercouli",
-    "cardinal",
-    "dee-eye-ell",
-    "eiji-nochizawa",
-    "eugeo",
-    "fanatio",
-    "gabriel-miller",
-    "kayaba-akihiko",
-    "kirigaya-kazuto",
-    "kirigaya-suguha",
-    "lipia-zancale",
-    "lizbeth-rika-shinozaki",
-    "quinella",
-    "renly",
-    "rinko-koujiro",
-    "rosalia",
-    "sachi",
-    "selka-zuberg",
-    "silica-keiko-ayano",
-    "tsuboi-ryoutarou",
-    "vassago-casals",
-    "yui",
-    "yuna",
-    "yuuki"
+    "alice-synthesis-thirty-perspective",
+    "andrew-gilbert-mills-perspective",
+    "argo-perspective",
+    "asada-shino-perspective",
+    "asuna-yuuki-perspective",
+    "bercouli-synthesis-one-perspective",
+    "cardinal-perspective",
+    "eiji-nogata-perspective",
+    "eugeo-perspective",
+    "gabriel-miller-perspective",
+    "kayaba-akihiko-perspective",
+    "kirigaya-kazuto-perspective",
+    "kirigaya-suguha-perspective",
+    "lizbeth-rika-shinozaki-perspective",
+    "quinella-perspective",
+    "renly-synthesis-twenty-seven-perspective",
+    "rosalia-perspective",
+    "sachi-perspective",
+    "selka-zuberg-perspective",
+    "sheyta-synthesis-twelve-perspective",
+    "silica-keiko-ayano-perspective",
+    "tsuboi-ryoutarou-perspective",
+    "vassago-casals-perspective",
+    "yui-perspective",
+    "yuna-perspective",
+    "yuuki-perspective"
   ],
   "tensei-shitara-slime-datta-ken": [
     "rimuru-tempest-perspective"
   ],
-  "touhou-project": [
-    "flandre-scarlet",
-    "hakurei-reimu",
-    "izayoi-sakuya",
-    "yakumo-yukari"
+  "tenshi-souzou-re-boot": [
+    "hoshikawa-kaguya-perspective",
+    "kohibari-kurumi-perspective",
+    "ozato-fumika-perspective",
+    "shirayuki-noa-perspective",
+    "takatate-orie-perspective",
+    "tanikaze-amane-perspective"
   ],
-  "tsuki-ni-yorisou-otome-no-sahou": [
-    "sakurakouji-runa-perspective"
+  "the-noexistencen-of-you-and-me": [
+    "lilith-perspective"
   ],
   "toaru-project": [
     "accelerator-perspective",
@@ -205,41 +391,105 @@
     "uiharu-kazari-perspective",
     "vento-of-the-front-perspective"
   ],
-  "mushoku-tensei": [
-    "eris-boreas-greyrat-perspective",
-    "roxy-migurdia-perspective",
-    "sylphiette-perspective"
-  ],
   "toradora": [
     "aisaka-taiga-perspective"
   ],
-  "kage-no-jitsuryokusha": [
-    "alpha-perspective",
-    "beta-perspective",
-    "gamma-perspective",
-    "delta-perspective",
-    "epsilon-perspective",
-    "zeta-perspective",
-    "eta-perspective",
-    "alexia-midgar-perspective",
-    "claire-kagenou-perspective",
-    "rose-oriana-perspective",
-    "nu-perspective",
-    "annerose-notoire-perspective",
-    "mary-perspective"
+  "touhou-project": [
+    "aki-minoriko-perspective",
+    "aki-shizuha-perspective",
+    "alice-margatroid-perspective",
+    "aunn-komano-perspective",
+    "aya-shameimaru-perspective",
+    "byakuren-hijiri-perspective",
+    "chen-perspective",
+    "cirno-perspective",
+    "clownpiece-perspective",
+    "doremy-sweet-perspective",
+    "ebisu-eika-perspective",
+    "eternity-larva-perspective",
+    "flandre-scarlet-perspective",
+    "fujiwara-no-mokou-perspective",
+    "hakurei-reimu-perspective",
+    "haniyasushin-keiki-perspective",
+    "hecatia-lapislazuli-perspective",
+    "hieda-no-akyuu-perspective",
+    "himekaidou-hatate-perspective",
+    "himemushi-momoyo-perspective",
+    "hinanawi-tenshi-perspective",
+    "hong-meiling-perspective",
+    "houraisan-kaguya-perspective",
+    "ibaraki-kasen-perspective",
+    "iizunamaru-megumu-perspective",
+    "inaba-tewi-perspective",
+    "inubashiri-momiji-perspective",
+    "izayoi-sakuya-perspective",
+    "joutouguu-mayumi-perspective",
+    "junko-perspective",
+    "kaenbyou-rin-perspective",
+    "kagiyama-hina-perspective",
+    "kaku-seiga-perspective",
+    "kasodani-kyouko-perspective",
+    "kawashiro-nitori-perspective",
+    "kicchou-yachie-perspective",
+    "kijin-seija-perspective",
+    "kirisame-marisa-perspective",
+    "kishin-sagume-perspective",
+    "koakuma-perspective",
+    "kochiya-sanae-perspective",
+    "komakusa-sannyo-perspective",
+    "komeiji-koishi-perspective",
+    "komeiji-satori-perspective",
+    "konpaku-youmu-perspective",
+    "kudamaki-tsukasa-perspective",
+    "kumoi-ichirin-perspective",
+    "kurokoma-saki-perspective",
+    "matara-okina-perspective",
+    "minamitsu-murasa-perspective",
+    "mitsugashira-enoko-perspective",
+    "miyako-yoshika-perspective",
+    "mononobe-no-futo-perspective",
+    "morichika-rinnosuke-perspective",
+    "moriya-suwako-perspective",
+    "motoori-kosuzu-perspective",
+    "nagae-iku-perspective",
+    "nazrin-perspective",
+    "nippaku-zanmu-perspective",
+    "nishida-satono-perspective",
+    "niwatari-kutaka-perspective",
+    "onozuka-komachi-perspective",
+    "patchouli-knowledge-perspective",
+    "reisen-udongein-inaba-perspective",
+    "reiuji-utsuho-perspective",
+    "remilia-scarlet-perspective",
+    "ringoo-perspective",
+    "saigyouji-yuyuko-perspective",
+    "sakata-nemuno-perspective",
+    "seiran-perspective",
+    "shikieiki-yamaxanadu-perspective",
+    "soga-no-tojiko-perspective",
+    "son-biten-perspective",
+    "suika-ibuki-perspective",
+    "sukuna-shinmyoumaru-perspective",
+    "tamatsukuri-misumaru-perspective",
+    "teireida-mai-perspective",
+    "tenkajin-chiyari-perspective",
+    "tenkyuu-chimata-perspective",
+    "toramaru-shou-perspective",
+    "toyosatomimi-no-miko-perspective",
+    "usami-sumireko-perspective",
+    "ushizaki-urumi-perspective",
+    "yagokoro-eirin-perspective",
+    "yakumo-ran-perspective",
+    "yakumo-yukari-perspective",
+    "yasaka-kanako-perspective",
+    "yatadera-narumi-perspective",
+    "yomotsu-hisami-perspective"
+  ],
+  "tsuki-ni-yorisou-otome-no-sahou": [
+    "sakurakouji-runa-perspective"
   ],
   "vocaloid": [
     "hatsune-miku-perspective"
-  ],
-  "rokudenashi-majutsu-koushi": [
-    "sistine-fibel-perspective",
-    "rumia-tingel-perspective",
-    "riel-rayford-perspective",
-    "celica-arfonia-perspective",
-    "eve-ignite-perspective"
-  ],
-  "zero-no-tsukaima": [
-    "louise"
   ],
   "wuthering-waves": [
     "aemeath-perspective",
@@ -283,5 +533,8 @@
     "youhu-perspective",
     "zani-perspective",
     "zhezhi-perspective"
+  ],
+  "zero-no-tsukaima": [
+    "louise-perspective"
   ]
 }

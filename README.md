@@ -1,232 +1,884 @@
 # Character Perspective Skills
 
-Archive repository for character-oriented prompt skills gathered from local agent skill trees.
-
-## Overview
-
-- **444** character skills
-- **47** works
-- Portraits: `assets/portraits/<work>/<character>.webp`
-
-## Characters
-
-### 青色魔法少女  (`amairo-islenauts`)
-
-<a href="characters/amairo-islenauts/airi-perspective/"><img src="assets/portraits/amairo-islenauts/airi-perspective.webp" width="80" alt="Airi" title="Airi"></a> <a href="characters/amairo-islenauts/masaki-perspective/"><img src="assets/portraits/amairo-islenauts/masaki-perspective.webp" width="80" alt="Masaki" title="Masaki"></a> <a href="characters/amairo-islenauts/shirley-perspective/"><img src="assets/portraits/amairo-islenauts/shirley-perspective.webp" width="80" alt="Shirley" title="Shirley"></a> <a href="characters/amairo-islenauts/yune-perspective/"><img src="assets/portraits/amairo-islenauts/yune-perspective.webp" width="80" alt="Yune" title="Yune"></a>
-
-### Angel Beats!  (`angel-beats`)
-
-<a href="characters/angel-beats/tachibana-kanade-perspective/"><img src="assets/portraits/angel-beats/tachibana-kanade-perspective.webp" width="80" alt="Tachibana Kanade" title="Tachibana Kanade"></a>
-
-### 偶像梦幻乐团  (`ave-mujica`)
-
-<a href="characters/ave-mujica/misumi-uika-perspective/"><img src="assets/portraits/ave-mujica/misumi-uika-perspective.webp" width="80" alt="Misumi Uika" title="Misumi Uika"></a> <a href="characters/ave-mujica/togawa-sakiko-perspective/"><img src="assets/portraits/ave-mujica/togawa-sakiko-perspective.webp" width="80" alt="Togawa Sakiko" title="Togawa Sakiko"></a> <a href="characters/ave-mujica/wakaba-mutsumi-perspective/"><img src="assets/portraits/ave-mujica/wakaba-mutsumi-perspective.webp" width="80" alt="Wakaba Mutsumi" title="Wakaba Mutsumi"></a> <a href="characters/ave-mujica/yahata-umiri-perspective/"><img src="assets/portraits/ave-mujica/yahata-umiri-perspective.webp" width="80" alt="Yahata Umiri" title="Yahata Umiri"></a> <a href="characters/ave-mujica/yutenji-nyamu-perspective/"><img src="assets/portraits/ave-mujica/yutenji-nyamu-perspective.webp" width="80" alt="Yutenji Nyamu" title="Yutenji Nyamu"></a>
-
-### 孤独摇滚！  (`bocchi-the-rock`)
-
-<a href="characters/bocchi-the-rock/hitori-gotoh-perspective/"><img src="assets/portraits/bocchi-the-rock/hitori-gotoh-perspective.webp" width="80" alt="Hitori Gotoh" title="Hitori Gotoh"></a> <a href="characters/bocchi-the-rock/ikuyo-kita-perspective/"><img src="assets/portraits/bocchi-the-rock/ikuyo-kita-perspective.webp" width="80" alt="Ikuyo Kita" title="Ikuyo Kita"></a> <a href="characters/bocchi-the-rock/kikuri-hiroi-perspective/"><img src="assets/portraits/bocchi-the-rock/kikuri-hiroi-perspective.webp" width="80" alt="Kikuri Hiroi" title="Kikuri Hiroi"></a> <a href="characters/bocchi-the-rock/nijika-ijichi-perspective/"><img src="assets/portraits/bocchi-the-rock/nijika-ijichi-perspective.webp" width="80" alt="Nijika Ijichi" title="Nijika Ijichi"></a> <a href="characters/bocchi-the-rock/pa-san-perspective/"><img src="assets/portraits/bocchi-the-rock/pa-san-perspective.webp" width="80" alt="Pa San" title="Pa San"></a> <a href="characters/bocchi-the-rock/ryo-yamada-perspective/"><img src="assets/portraits/bocchi-the-rock/ryo-yamada-perspective.webp" width="80" alt="Ryo Yamada" title="Ryo Yamada"></a> <a href="characters/bocchi-the-rock/seika-ijichi-perspective/"><img src="assets/portraits/bocchi-the-rock/seika-ijichi-perspective.webp" width="80" alt="Seika Ijichi" title="Seika Ijichi"></a>
-
-### Charlotte  (`charlotte`)
-
-<a href="characters/charlotte/tomori-nao-perspective/"><img src="assets/portraits/charlotte/tomori-nao-perspective.webp" width="80" alt="Tomori Nao" title="Tomori Nao"></a>
-
-### 弹丸论破  (`danganronpa`)
-
-<a href="characters/danganronpa/kyoko-kirigiri-perspective/"><img src="assets/portraits/danganronpa/kyoko-kirigiri-perspective.webp" width="80" alt="Kyoko Kirigiri" title="Kyoko Kirigiri"></a>
-
-### 德古拉之怒  (`dracu-riot`)
-
-<a href="characters/dracu-riot/azusa-perspective/"><img src="assets/portraits/dracu-riot/azusa-perspective.webp" width="80" alt="Azusa" title="Azusa"></a> <a href="characters/dracu-riot/elina-perspective/"><img src="assets/portraits/dracu-riot/elina-perspective.webp" width="80" alt="Elina" title="Elina"></a> <a href="characters/dracu-riot/miu-perspective/"><img src="assets/portraits/dracu-riot/miu-perspective.webp" width="80" alt="Miu" title="Miu"></a> <a href="characters/dracu-riot/rio-perspective/"><img src="assets/portraits/dracu-riot/rio-perspective.webp" width="80" alt="Rio" title="Rio"></a>
-
-### FATE  (`fate`)
-
-<a href="characters/fate/artoria-pendragon-perspective/"><img src="assets/portraits/fate/artoria-pendragon-perspective.webp" width="80" alt="Artoria Pendragon" title="Artoria Pendragon"></a>
-
-### FGO  (`fate-grand-order`)
-
-<a href="characters/fate-grand-order/mash-kyrielight-perspective/"><img src="assets/portraits/fate-grand-order/mash-kyrielight-perspective.webp" width="80" alt="Mash Kyrielight" title="Mash Kyrielight"></a>
-
-### FS/N  (`fate-stay-night`)
-
-<a href="characters/fate-stay-night/emiya-shirou-perspective/"><img src="assets/portraits/fate-stay-night/emiya-shirou-perspective.webp" width="80" alt="Emiya Shirou" title="Emiya Shirou"></a> <a href="characters/fate-stay-night/illyasviel-von-einzbern-perspective/"><img src="assets/portraits/fate-stay-night/illyasviel-von-einzbern-perspective.webp" width="80" alt="Illyasviel Von Einzbern" title="Illyasviel Von Einzbern"></a> <a href="characters/fate-stay-night/kotomine-kirei-perspective/"><img src="assets/portraits/fate-stay-night/kotomine-kirei-perspective.webp" width="80" alt="Kotomine Kirei" title="Kotomine Kirei"></a> <a href="characters/fate-stay-night/rin-tohsaka-perspective/"><img src="assets/portraits/fate-stay-night/rin-tohsaka-perspective.webp" width="80" alt="Rin Tohsaka" title="Rin Tohsaka"></a> <a href="characters/fate-stay-night/sakura-matou-perspective/"><img src="assets/portraits/fate-stay-night/sakura-matou-perspective.webp" width="80" alt="Sakura Matou" title="Sakura Matou"></a>
-
-### 为美好的世界献上祝福  (`konosuba`)
-
-<a href="characters/konosuba/megumin-perspective/"><img src="assets/portraits/konosuba/megumin-perspective.webp" width="80" alt="Megumin" title="Megumin"></a>
-
-### 魔法少女小圆  (`madoka`)
-
-<a href="characters/madoka/homura-akemi-perspective/"><img src="assets/portraits/madoka/homura-akemi-perspective.webp" width="80" alt="Homura Akemi" title="Homura Akemi"></a> <a href="characters/madoka/kyoko-sakura-perspective/"><img src="assets/portraits/madoka/kyoko-sakura-perspective.webp" width="80" alt="Kyoko Sakura" title="Kyoko Sakura" style="opacity:0.2;border:1px dashed #666"></a> <a href="characters/madoka/kyubey-perspective/"><img src="assets/portraits/madoka/kyubey-perspective.webp" width="80" alt="Kyubey" title="Kyubey" style="opacity:0.2;border:1px dashed #666"></a> <a href="characters/madoka/madoka-kaname-perspective/"><img src="assets/portraits/madoka/madoka-kaname-perspective.webp" width="80" alt="Madoka Kaname" title="Madoka Kaname"></a> <a href="characters/madoka/mami-perspective/"><img src="assets/portraits/madoka/mami-perspective.webp" width="80" alt="Mami" title="Mami"></a> <a href="characters/madoka/sayaka-miki-perspective/"><img src="assets/portraits/madoka/sayaka-miki-perspective.webp" width="80" alt="Sayaka Miki" title="Sayaka Miki"></a>
-
-### 魔女之旅  (`majo-no-tabitabi`)
-
-<a href="characters/majo-no-tabitabi/elaina-perspective/"><img src="assets/portraits/majo-no-tabitabi/elaina-perspective.webp" width="80" alt="Elaina" title="Elaina"></a>
-
-### 无职转生  (`majono-yoru-en`)
-
-<a href="characters/majono-yoru-en/meguru-perspective/"><img src="assets/portraits/majono-yoru-en/meguru-perspective.webp" width="80" alt="Meguru" title="Meguru"></a> <a href="characters/majono-yoru-en/touko-perspective/"><img src="assets/portraits/majono-yoru-en/touko-perspective.webp" width="80" alt="Touko" title="Touko"></a> <a href="characters/majono-yoru-en/tsumugi-perspective/"><img src="assets/portraits/majono-yoru-en/tsumugi-perspective.webp" width="80" alt="Tsumugi" title="Tsumugi"></a> <a href="characters/majono-yoru-en/wakana-perspective/"><img src="assets/portraits/majono-yoru-en/wakana-perspective.webp" width="80" alt="Wakana" title="Wakana"></a>
-
-### MyGO!!!!!  (`mygo`)
-
-<a href="characters/mygo/chihaya-anon-perspective/"><img src="assets/portraits/mygo/chihaya-anon-perspective.webp" width="80" alt="Chihaya Anon" title="Chihaya Anon"></a> <a href="characters/mygo/kaname-rana-perspective/"><img src="assets/portraits/mygo/kaname-rana-perspective.webp" width="80" alt="Kaname Rana" title="Kaname Rana"></a> <a href="characters/mygo/nagasaki-soyo-perspective/"><img src="assets/portraits/mygo/nagasaki-soyo-perspective.webp" width="80" alt="Nagasaki Soyo" title="Nagasaki Soyo"></a> <a href="characters/mygo/shiina-taki-perspective/"><img src="assets/portraits/mygo/shiina-taki-perspective.webp" width="80" alt="Shiina Taki" title="Shiina Taki"></a> <a href="characters/mygo/takamatsu-tomori-perspective/"><img src="assets/portraits/mygo/takamatsu-tomori-perspective.webp" width="80" alt="Takamatsu Tomori" title="Takamatsu Tomori"></a>
-
-### 新世纪福音战士  (`neon-genesis-evangelion`)
-
-<a href="characters/neon-genesis-evangelion/asuka-langley-soryu-perspective/"><img src="assets/portraits/neon-genesis-evangelion/asuka-langley-soryu-perspective.webp" width="80" alt="Asuka Langley Soryu" title="Asuka Langley Soryu"></a> <a href="characters/neon-genesis-evangelion/gendo-ikari-perspective/"><img src="assets/portraits/neon-genesis-evangelion/gendo-ikari-perspective.webp" width="80" alt="Gendo Ikari" title="Gendo Ikari"></a> <a href="characters/neon-genesis-evangelion/kaworu-nagisa-perspective/"><img src="assets/portraits/neon-genesis-evangelion/kaworu-nagisa-perspective.webp" width="80" alt="Kaworu Nagisa" title="Kaworu Nagisa"></a> <a href="characters/neon-genesis-evangelion/misato-katsuragi-perspective/"><img src="assets/portraits/neon-genesis-evangelion/misato-katsuragi-perspective.webp" width="80" alt="Misato Katsuragi" title="Misato Katsuragi"></a> <a href="characters/neon-genesis-evangelion/rei-ayanami-perspective/"><img src="assets/portraits/neon-genesis-evangelion/rei-ayanami-perspective.webp" width="80" alt="Rei Ayanami" title="Rei Ayanami"></a> <a href="characters/neon-genesis-evangelion/shinji-ikari-perspective/"><img src="assets/portraits/neon-genesis-evangelion/shinji-ikari-perspective.webp" width="80" alt="Shinji Ikari" title="Shinji Ikari"></a>
-
-### NOBLE WORKS  (`noble-works`)
-
-<a href="characters/noble-works/akari-perspective/"><img src="assets/portraits/noble-works/akari-perspective.webp" width="80" alt="Akari" title="Akari"></a> <a href="characters/noble-works/hinata-perspective/"><img src="assets/portraits/noble-works/hinata-perspective.webp" width="80" alt="Hinata" title="Hinata"></a> <a href="characters/noble-works/maya-perspective/"><img src="assets/portraits/noble-works/maya-perspective.webp" width="80" alt="Maya" title="Maya"></a> <a href="characters/noble-works/sena-perspective/"><img src="assets/portraits/noble-works/sena-perspective.webp" width="80" alt="Sena" title="Sena"></a> <a href="characters/noble-works/shizuru-perspective/"><img src="assets/portraits/noble-works/shizuru-perspective.webp" width="80" alt="Shizuru" title="Shizuru"></a>
-
-### 乙女理論とその周辺  (`otome-riron`)
-
-<a href="characters/otome-riron/kokura-asahi-perspective/"><img src="assets/portraits/otome-riron/kokura-asahi-perspective.webp" width="80" alt="Kokura Asahi" title="Kokura Asahi"></a> <a href="characters/otome-riron/ookura-aeon-perspective/"><img src="assets/portraits/otome-riron/ookura-aeon-perspective.webp" width="80" alt="Ookura Aeon" title="Ookura Aeon"></a> <a href="characters/otome-riron/ookura-resona-perspective/"><img src="assets/portraits/otome-riron/ookura-resona-perspective.webp" width="80" alt="Ookura Resona" title="Ookura Resona"></a> <a href="characters/otome-riron/ookura-yusei-perspective/"><img src="assets/portraits/otome-riron/ookura-yusei-perspective.webp" width="80" alt="Ookura Yusei" title="Ookura Yusei"></a>
-
-### 关于邻家的天使大人  (`otonari-no-tenshi-sama`)
-
-<a href="characters/otonari-no-tenshi-sama/shiina-mahiru-perspective/"><img src="assets/portraits/otonari-no-tenshi-sama/shiina-mahiru-perspective.webp" width="80" alt="Shiina Mahiru" title="Shiina Mahiru"></a>
-
-### Overlord  (`overlord`)
-
-<a href="characters/overlord/ainz-ooal-gown-perspective/"><img src="assets/portraits/overlord/ainz-ooal-gown-perspective.webp" width="80" alt="Ainz Ooal Gown" title="Ainz Ooal Gown"></a> <a href="characters/overlord/albedo-perspective/"><img src="assets/portraits/overlord/albedo-perspective.webp" width="80" alt="Albedo" title="Albedo"></a> <a href="characters/overlord/aura-bella-fiora-perspective/"><img src="assets/portraits/overlord/aura-bella-fiora-perspective.webp" width="80" alt="Aura Bella Fiora" title="Aura Bella Fiora"></a> <a href="characters/overlord/demiurge-perspective/"><img src="assets/portraits/overlord/demiurge-perspective.webp" width="80" alt="Demiurge" title="Demiurge"></a> <a href="characters/overlord/evileye-perspective/"><img src="assets/portraits/overlord/evileye-perspective.webp" width="80" alt="Evileye" title="Evileye"></a> <a href="characters/overlord/lupusregina-beta-perspective/"><img src="assets/portraits/overlord/lupusregina-beta-perspective.webp" width="80" alt="Lupusregina Beta" title="Lupusregina Beta"></a> <a href="characters/overlord/mare-bello-fiore-perspective/"><img src="assets/portraits/overlord/mare-bello-fiore-perspective.webp" width="80" alt="Mare Bello Fiore" title="Mare Bello Fiore"></a> <a href="characters/overlord/narberal-gamma-perspective/"><img src="assets/portraits/overlord/narberal-gamma-perspective.webp" width="80" alt="Narberal Gamma" title="Narberal Gamma"></a> <a href="characters/overlord/pandoras-actor-perspective/"><img src="assets/portraits/overlord/pandoras-actor-perspective.webp" width="80" alt="Pandoras Actor" title="Pandoras Actor"></a> <a href="characters/overlord/renner-theiere-chardelon-ryle-vaiself-perspective/"><img src="assets/portraits/overlord/renner-theiere-chardelon-ryle-vaiself-perspective.webp" width="80" alt="Renner Theiere Chardelon Ryle Vaiself" title="Renner Theiere Chardelon Ryle Vaiself"></a> <a href="characters/overlord/shalltear-bloodfallen-perspective/"><img src="assets/portraits/overlord/shalltear-bloodfallen-perspective.webp" width="80" alt="Shalltear Bloodfallen" title="Shalltear Bloodfallen"></a> <a href="characters/overlord/solution-epsilon-perspective/"><img src="assets/portraits/overlord/solution-epsilon-perspective.webp" width="80" alt="Solution Epsilon" title="Solution Epsilon"></a> <a href="characters/overlord/zesshi-zetsumei-perspective/"><img src="assets/portraits/overlord/zesshi-zetsumei-perspective.webp" width="80" alt="Zesshi Zetsumei" title="Zesshi Zetsumei"></a>
-
-### 谜之屋  (`riddle-joker`)
-
-<a href="characters/riddle-joker/ayase-perspective/"><img src="assets/portraits/riddle-joker/ayase-perspective.webp" width="80" alt="Ayase" title="Ayase"></a> <a href="characters/riddle-joker/chisaki-perspective/"><img src="assets/portraits/riddle-joker/chisaki-perspective.webp" width="80" alt="Chisaki" title="Chisaki"></a> <a href="characters/riddle-joker/hazuki-perspective/"><img src="assets/portraits/riddle-joker/hazuki-perspective.webp" width="80" alt="Hazuki" title="Hazuki"></a> <a href="characters/riddle-joker/mayu-perspective/"><img src="assets/portraits/riddle-joker/mayu-perspective.webp" width="80" alt="Mayu" title="Mayu"></a> <a href="characters/riddle-joker/nanami-perspective/"><img src="assets/portraits/riddle-joker/nanami-perspective.webp" width="80" alt="Nanami" title="Nanami"></a>
-
-### 樱之刻  (`sakura-no-toki`)
-
-<a href="characters/sakura-no-toki/hikawa-ruriwo-perspective/"><img src="assets/portraits/sakura-no-toki/hikawa-ruriwo-perspective.webp" width="80" alt="Hikawa Ruriwo" title="Hikawa Ruriwo"></a> <a href="characters/sakura-no-toki/honma-misuzu-perspective/"><img src="assets/portraits/sakura-no-toki/honma-misuzu-perspective.webp" width="80" alt="Honma Misuzu" title="Honma Misuzu"></a> <a href="characters/sakura-no-toki/kawachino-suzuna-perspective/"><img src="assets/portraits/sakura-no-toki/kawachino-suzuna-perspective.webp" width="80" alt="Kawachino Suzuna" title="Kawachino Suzuna"></a> <a href="characters/sakura-no-toki/kuriyama-natsuko-perspective/"><img src="assets/portraits/sakura-no-toki/kuriyama-natsuko-perspective.webp" width="80" alt="Kuriyama Natsuko" title="Kuriyama Natsuko"></a> <a href="characters/sakura-no-toki/nakamura-reika-perspective/"><img src="assets/portraits/sakura-no-toki/nakamura-reika-perspective.webp" width="80" alt="Nakamura Reika" title="Nakamura Reika"></a> <a href="characters/sakura-no-toki/sakizaki-sakurako-perspective/"><img src="assets/portraits/sakura-no-toki/sakizaki-sakurako-perspective.webp" width="80" alt="Sakizaki Sakurako" title="Sakizaki Sakurako"></a> <a href="characters/sakura-no-toki/toritani-saki-perspective/"><img src="assets/portraits/sakura-no-toki/toritani-saki-perspective.webp" width="80" alt="Toritani Saki" title="Toritani Saki"></a> <a href="characters/sakura-no-toki/toritani-shizuru-perspective/"><img src="assets/portraits/sakura-no-toki/toritani-shizuru-perspective.webp" width="80" alt="Toritani Shizuru" title="Toritani Shizuru"></a>
-
-### 樱之诗  (`sakura-no-uta`)
-
-<a href="characters/sakura-no-uta/hikawa-rina-perspective/"><img src="assets/portraits/sakura-no-uta/hikawa-rina-perspective.webp" width="80" alt="Hikawa Rina" title="Hikawa Rina"></a> <a href="characters/sakura-no-uta/kawachino-yuumi-perspective/"><img src="assets/portraits/sakura-no-uta/kawachino-yuumi-perspective.webp" width="80" alt="Kawachino Yuumi" title="Kawachino Yuumi"></a> <a href="characters/sakura-no-uta/kusanagi-naoya-perspective/"><img src="assets/portraits/sakura-no-uta/kusanagi-naoya-perspective.webp" width="80" alt="Kusanagi Naoya" title="Kusanagi Naoya"></a> <a href="characters/sakura-no-uta/misakura-rin-perspective/"><img src="assets/portraits/sakura-no-uta/misakura-rin-perspective.webp" width="80" alt="Misakura Rin" title="Misakura Rin"></a> <a href="characters/sakura-no-uta/natsume-ai-perspective/"><img src="assets/portraits/sakura-no-uta/natsume-ai-perspective.webp" width="80" alt="Natsume Ai" title="Natsume Ai"></a> <a href="characters/sakura-no-uta/natsume-kei-perspective/"><img src="assets/portraits/sakura-no-uta/natsume-kei-perspective.webp" width="80" alt="Natsume Kei" title="Natsume Kei"></a> <a href="characters/sakura-no-uta/natsume-shizuku-perspective/"><img src="assets/portraits/sakura-no-uta/natsume-shizuku-perspective.webp" width="80" alt="Natsume Shizuku" title="Natsume Shizuku"></a> <a href="characters/sakura-no-uta/toritani-makoto-perspective/"><img src="assets/portraits/sakura-no-uta/toritani-makoto-perspective.webp" width="80" alt="Toritani Makoto" title="Toritani Makoto"></a>
-
-### 圣痕炼金术师  (`sanoba-witch`)
-
-<a href="characters/sanoba-witch/sakurai-nene-perspective/"><img src="assets/portraits/sanoba-witch/sakurai-nene-perspective.webp" width="80" alt="Sakurai Nene" title="Sakurai Nene"></a>
-
-### 千恋＊万花  (`senren-banka`)
-
-<a href="characters/senren-banka/koharu-perspective/"><img src="assets/portraits/senren-banka/koharu-perspective.webp" width="80" alt="Koharu" title="Koharu"></a> <a href="characters/senren-banka/lena-perspective/"><img src="assets/portraits/senren-banka/lena-perspective.webp" width="80" alt="Lena" title="Lena"></a> <a href="characters/senren-banka/mako-perspective/"><img src="assets/portraits/senren-banka/mako-perspective.webp" width="80" alt="Mako" title="Mako"></a> <a href="characters/senren-banka/murasame-perspective/"><img src="assets/portraits/senren-banka/murasame-perspective.webp" width="80" alt="Murasame" title="Murasame"></a> <a href="characters/senren-banka/roka-perspective/"><img src="assets/portraits/senren-banka/roka-perspective.webp" width="80" alt="Roka" title="Roka"></a> <a href="characters/senren-banka/yoshino-perspective/"><img src="assets/portraits/senren-banka/yoshino-perspective.webp" width="80" alt="Yoshino" title="Yoshino"></a>
-
-### 终结的炽天使  (`seraph-of-the-end`)
-
-<a href="characters/seraph-of-the-end/krul-tepes-perspective/"><img src="assets/portraits/seraph-of-the-end/krul-tepes-perspective.webp" width="80" alt="Krul Tepes" title="Krul Tepes"></a>
-
-### 名侦探光之美少女  (`star-detective-precure`)
-
-<a href="characters/star-detective-precure/luluka-perspective/"><img src="assets/portraits/star-detective-precure/luluka-perspective.webp" width="80" alt="Luluka" title="Luluka"></a>
-
-### 命运石之门  (`steins-gate`)
-
-<a href="characters/steins-gate/makise-kurisu-perspective/"><img src="assets/portraits/steins-gate/makise-kurisu-perspective.webp" width="80" alt="Makise Kurisu" title="Makise Kurisu"></a>
-
-### 龙与虎  (`toradora`)
-
-<a href="characters/toradora/aisaka-taiga-perspective/"><img src="assets/portraits/toradora/aisaka-taiga-perspective.webp" width="80" alt="Aisaka Taiga" title="Aisaka Taiga"></a>
-
-### 刀剑神域  (`sword-art-online`)
-
-<a href="characters/sword-art-online/alice-synthesis-thirty-perspective/"><img src="assets/portraits/sword-art-online/alice-synthesis-thirty-perspective.webp" width="80" alt="Alice Synthesis Thirty" title="Alice Synthesis Thirty"></a> <a href="characters/sword-art-online/andrew-gilbert-mills-perspective/"><img src="assets/portraits/sword-art-online/andrew-gilbert-mills-perspective.webp" width="80" alt="Andrew Gilbert Mills" title="Andrew Gilbert Mills"></a> <a href="characters/sword-art-online/argo-perspective/"><img src="assets/portraits/sword-art-online/argo-perspective.webp" width="80" alt="Argo" title="Argo"></a> <a href="characters/sword-art-online/asada-shino-perspective/"><img src="assets/portraits/sword-art-online/asada-shino-perspective.webp" width="80" alt="Asada Shino" title="Asada Shino"></a> <a href="characters/sword-art-online/asuna-yuuki-perspective/"><img src="assets/portraits/sword-art-online/asuna-yuuki-perspective.webp" width="80" alt="Asuna Yuuki" title="Asuna Yuuki"></a> <a href="characters/sword-art-online/bercouli-synthesis-one-perspective/"><img src="assets/portraits/sword-art-online/bercouli-synthesis-one-perspective.webp" width="80" alt="Bercouli Synthesis One" title="Bercouli Synthesis One"></a> <a href="characters/sword-art-online/cardinal-perspective/"><img src="assets/portraits/sword-art-online/cardinal-perspective.webp" width="80" alt="Cardinal" title="Cardinal"></a> <a href="characters/sword-art-online/eiji-nogata-perspective/"><img src="assets/portraits/sword-art-online/eiji-nogata-perspective.webp" width="80" alt="Eiji Nogata" title="Eiji Nogata"></a> <a href="characters/sword-art-online/eugeo-perspective/"><img src="assets/portraits/sword-art-online/eugeo-perspective.webp" width="80" alt="Eugeo" title="Eugeo"></a> <a href="characters/sword-art-online/gabriel-miller-perspective/"><img src="assets/portraits/sword-art-online/gabriel-miller-perspective.webp" width="80" alt="Gabriel Miller" title="Gabriel Miller"></a> <a href="characters/sword-art-online/kayaba-akihiko-perspective/"><img src="assets/portraits/sword-art-online/kayaba-akihiko-perspective.webp" width="80" alt="Kayaba Akihiko" title="Kayaba Akihiko"></a> <a href="characters/sword-art-online/kirigaya-kazuto-perspective/"><img src="assets/portraits/sword-art-online/kirigaya-kazuto-perspective.webp" width="80" alt="Kirigaya Kazuto" title="Kirigaya Kazuto"></a> <a href="characters/sword-art-online/kirigaya-suguha-perspective/"><img src="assets/portraits/sword-art-online/kirigaya-suguha-perspective.webp" width="80" alt="Kirigaya Suguha" title="Kirigaya Suguha"></a> <a href="characters/sword-art-online/lizbeth-rika-shinozaki-perspective/"><img src="assets/portraits/sword-art-online/lizbeth-rika-shinozaki-perspective.webp" width="80" alt="Lizbeth Rika Shinozaki" title="Lizbeth Rika Shinozaki"></a> <a href="characters/sword-art-online/quinella-perspective/"><img src="assets/portraits/sword-art-online/quinella-perspective.webp" width="80" alt="Quinella" title="Quinella"></a> <a href="characters/sword-art-online/renly-synthesis-twenty-seven-perspective/"><img src="assets/portraits/sword-art-online/renly-synthesis-twenty-seven-perspective.webp" width="80" alt="Renly Synthesis Twenty Seven" title="Renly Synthesis Twenty Seven"></a> <a href="characters/sword-art-online/rosalia-perspective/"><img src="assets/portraits/sword-art-online/rosalia-perspective.webp" width="80" alt="Rosalia" title="Rosalia"></a> <a href="characters/sword-art-online/sachi-perspective/"><img src="assets/portraits/sword-art-online/sachi-perspective.webp" width="80" alt="Sachi" title="Sachi"></a> <a href="characters/sword-art-online/selka-zuberg-perspective/"><img src="assets/portraits/sword-art-online/selka-zuberg-perspective.webp" width="80" alt="Selka Zuberg" title="Selka Zuberg"></a> <a href="characters/sword-art-online/sheyta-synthesis-twelve-perspective/"><img src="assets/portraits/sword-art-online/sheyta-synthesis-twelve-perspective.webp" width="80" alt="Sheyta Synthesis Twelve" title="Sheyta Synthesis Twelve"></a> <a href="characters/sword-art-online/silica-keiko-ayano-perspective/"><img src="assets/portraits/sword-art-online/silica-keiko-ayano-perspective.webp" width="80" alt="Silica Keiko Ayano" title="Silica Keiko Ayano"></a> <a href="characters/sword-art-online/tsuboi-ryoutarou-perspective/"><img src="assets/portraits/sword-art-online/tsuboi-ryoutarou-perspective.webp" width="80" alt="Tsuboi Ryoutarou" title="Tsuboi Ryoutarou"></a> <a href="characters/sword-art-online/vassago-casals-perspective/"><img src="assets/portraits/sword-art-online/vassago-casals-perspective.webp" width="80" alt="Vassago Casals" title="Vassago Casals"></a> <a href="characters/sword-art-online/yui-perspective/"><img src="assets/portraits/sword-art-online/yui-perspective.webp" width="80" alt="Yui" title="Yui"></a> <a href="characters/sword-art-online/yuna-perspective/"><img src="assets/portraits/sword-art-online/yuna-perspective.webp" width="80" alt="Yuna" title="Yuna"></a> <a href="characters/sword-art-online/yuuki-perspective/"><img src="assets/portraits/sword-art-online/yuuki-perspective.webp" width="80" alt="Yuuki" title="Yuuki"></a>
-
-### 转生史莱姆  (`tensei-shitara-slime-datta-ken`)
-
-<a href="characters/tensei-shitara-slime-datta-ken/rimuru-tempest-perspective/"><img src="assets/portraits/tensei-shitara-slime-datta-ken/rimuru-tempest-perspective.webp" width="80" alt="Rimuru Tempest" title="Rimuru Tempest"></a>
-
-### 东方Project  (`touhou-project`)
-
-<a href="characters/touhou-project/flandre-scarlet-perspective/"><img src="assets/portraits/touhou-project/flandre-scarlet-perspective.webp" width="80" alt="Flandre Scarlet" title="Flandre Scarlet"></a> <a href="characters/touhou-project/hakurei-reimu-perspective/"><img src="assets/portraits/touhou-project/hakurei-reimu-perspective.webp" width="80" alt="Hakurei Reimu" title="Hakurei Reimu"></a> <a href="characters/touhou-project/izayoi-sakuya-perspective/"><img src="assets/portraits/touhou-project/izayoi-sakuya-perspective.webp" width="80" alt="Izayoi Sakuya" title="Izayoi Sakuya"></a> <a href="characters/touhou-project/yakumo-yukari-perspective/"><img src="assets/portraits/touhou-project/yakumo-yukari-perspective.webp" width="80" alt="Yakumo Yukari" title="Yakumo Yukari"></a>
-
-### 月に寄りそう乙女の作法  (`tsuki-ni-yorisou-otome-no-sahou`)
-
-<a href="characters/tsuki-ni-yorisou-otome-no-sahou/sakurakouji-runa-perspective/"><img src="assets/portraits/tsuki-ni-yorisou-otome-no-sahou/sakurakouji-runa-perspective.webp" width="80" alt="Sakurakouji Runa" title="Sakurakouji Runa"></a>
-
-### 魔法禁书目录  (`toaru-project`)
-
-<a href="characters/toaru-project/kamijou-touma-perspective/"><img src="assets/portraits/toaru-project/kamijou-touma-perspective.webp" width="80" alt="Kamijou Touma" title="Kamijou Touma"></a>
-<a href="characters/toaru-project/index-perspective/"><img src="assets/portraits/toaru-project/index-perspective.webp" width="80" alt="Index" title="Index"></a>
-<a href="characters/toaru-project/accelerator-perspective/"><img src="assets/portraits/toaru-project/accelerator-perspective.webp" width="80" alt="Accelerator" title="Accelerator"></a>
-<a href="characters/toaru-project/misaka-mikoto-perspective/"><img src="assets/portraits/toaru-project/misaka-mikoto-perspective.webp" width="80" alt="Misaka Mikoto" title="Misaka Mikoto"></a>
-<a href="characters/toaru-project/shirai-kuroko-perspective/"><img src="assets/portraits/toaru-project/shirai-kuroko-perspective.webp" width="80" alt="Shirai Kuroko" title="Shirai Kuroko"></a>
-<a href="characters/toaru-project/shokuhou-misaki-perspective/"><img src="assets/portraits/toaru-project/shokuhou-misaki-perspective.webp" width="80" alt="Shokuhou Misaki" title="Shokuhou Misaki"></a>
-<a href="characters/toaru-project/kanzaki-kaori-perspective/"><img src="assets/portraits/toaru-project/kanzaki-kaori-perspective.webp" width="80" alt="Kanzaki Kaori" title="Kanzaki Kaori"></a>
-<a href="characters/toaru-project/stiyl-magnus-perspective/"><img src="assets/portraits/toaru-project/stiyl-magnus-perspective.webp" width="80" alt="Stiyl Magnus" title="Stiyl Magnus"></a>
-<a href="characters/toaru-project/tsuchimikado-motoharu-perspective/"><img src="assets/portraits/toaru-project/tsuchimikado-motoharu-perspective.webp" width="80" alt="Tsuchimikado Motoharu" title="Tsuchimikado Motoharu"></a>
-<a href="characters/toaru-project/last-order-perspective/"><img src="assets/portraits/toaru-project/last-order-perspective.webp" width="80" alt="Last Order" title="Last Order"></a>
-<a href="characters/toaru-project/uiharu-kazari-perspective/"><img src="assets/portraits/toaru-project/uiharu-kazari-perspective.webp" width="80" alt="Uiharu Kazari" title="Uiharu Kazari"></a>
-<a href="characters/toaru-project/saten-ruiko-perspective/"><img src="assets/portraits/toaru-project/saten-ruiko-perspective.webp" width="80" alt="Saten Ruiko" title="Saten Ruiko"></a>
-<a href="characters/toaru-project/oriana-thomson-perspective/"><img src="assets/portraits/toaru-project/oriana-thomson-perspective.webp" width="80" alt="Oriana Thomson" title="Oriana Thomson"></a>
-<a href="characters/toaru-project/vento-of-the-front-perspective/"><img src="assets/portraits/toaru-project/vento-of-the-front-perspective.webp" width="80" alt="Vento of the Front" title="Vento of the Front"></a>
-<a href="characters/toaru-project/mugino-shizuri-perspective/"><img src="assets/portraits/toaru-project/mugino-shizuri-perspective.webp" width="80" alt="Mugino Shizuri" title="Mugino Shizuri"></a>
-<a href="characters/toaru-project/frenda-perspective/"><img src="assets/portraits/toaru-project/frenda-perspective.webp" width="80" alt="Frenda" title="Frenda"></a>
-<a href="characters/toaru-project/kinuhata-saiai-perspective/"><img src="assets/portraits/toaru-project/kinuhata-saiai-perspective.webp" width="80" alt="Kinuhata Saiai" title="Kinuhata Saiai"></a>
-<a href="characters/toaru-project/takitsubo-rikou-perspective/"><img src="assets/portraits/toaru-project/takitsubo-rikou-perspective.webp" width="80" alt="Takitsubo Rikou" title="Takitsubo Rikou"></a>
-<a href="characters/toaru-project/hamazura-shiage-perspective/"><img src="assets/portraits/toaru-project/hamazura-shiage-perspective.webp" width="80" alt="Hamazura Shiage" title="Hamazura Shiage"></a>
-<a href="characters/toaru-project/kakine-teitoku-perspective/"><img src="assets/portraits/toaru-project/kakine-teitoku-perspective.webp" width="80" alt="Kakine Teitoku" title="Kakine Teitoku"></a>
-<a href="characters/toaru-project/awaki-musujime-perspective/"><img src="assets/portraits/toaru-project/awaki-musujime-perspective.webp" width="80" alt="Awaki Musujime" title="Awaki Musujime"></a>
-<a href="characters/toaru-project/fiamma-of-the-right-perspective/"><img src="assets/portraits/toaru-project/fiamma-of-the-right-perspective.webp" width="80" alt="Fiamma of the Right" title="Fiamma of the Right"></a>
-<a href="characters/toaru-project/acqua-of-the-back-perspective/"><img src="assets/portraits/toaru-project/acqua-of-the-back-perspective.webp" width="80" alt="Acqua of the Back" title="Acqua of the Back"></a>
-<a href="characters/toaru-project/itsuwa-perspective/"><img src="assets/portraits/toaru-project/itsuwa-perspective.webp" width="80" alt="Itsuwa" title="Itsuwa"></a>
-<a href="characters/toaru-project/lessar-perspective/"><img src="assets/portraits/toaru-project/lessar-perspective.webp" width="80" alt="Lessar" title="Lessar"></a>
-<a href="characters/toaru-project/terra-of-the-left-perspective/"><img src="assets/portraits/toaru-project/terra-of-the-left-perspective.webp" width="80" alt="Terra of the Left" title="Terra of the Left"></a>
-<a href="characters/toaru-project/heaven-canceller-perspective/"><img src="assets/portraits/toaru-project/heaven-canceller-perspective.webp" width="80" alt="Heaven Canceller" title="Heaven Canceller"></a>
-<a href="characters/toaru-project/komoe-tsukuyomi-perspective/"><img src="assets/portraits/toaru-project/komoe-tsukuyomi-perspective.webp" width="80" alt="Tsukuyomi Komoe" title="Tsukuyomi Komoe"></a>
-<a href="characters/toaru-project/misaka-worst-perspective/"><img src="assets/portraits/toaru-project/misaka-worst-perspective.webp" width="80" alt="Misaka Worst" title="Misaka Worst"></a>
-
-
-### 我想成为影之实力者！  (`kage-no-jitsuryokusha`)
-
-<a href="characters/kage-no-jitsuryokusha/alpha-perspective/"><img src="assets/portraits/kage-no-jitsuryokusha/alpha-perspective.webp" width="80" alt="Alpha" title="Alpha"></a>
-<a href="characters/kage-no-jitsuryokusha/beta-perspective/"><img src="assets/portraits/kage-no-jitsuryokusha/beta-perspective.webp" width="80" alt="Beta" title="Beta"></a>
-<a href="characters/kage-no-jitsuryokusha/gamma-perspective/"><img src="assets/portraits/kage-no-jitsuryokusha/gamma-perspective.webp" width="80" alt="Gamma" title="Gamma"></a>
-<a href="characters/kage-no-jitsuryokusha/delta-perspective/"><img src="assets/portraits/kage-no-jitsuryokusha/delta-perspective.webp" width="80" alt="Delta" title="Delta"></a>
-<a href="characters/kage-no-jitsuryokusha/epsilon-perspective/"><img src="assets/portraits/kage-no-jitsuryokusha/epsilon-perspective.webp" width="80" alt="Epsilon" title="Epsilon"></a>
-<a href="characters/kage-no-jitsuryokusha/zeta-perspective/"><img src="assets/portraits/kage-no-jitsuryokusha/zeta-perspective.webp" width="80" alt="Zeta" title="Zeta"></a>
-<a href="characters/kage-no-jitsuryokusha/eta-perspective/"><img src="assets/portraits/kage-no-jitsuryokusha/eta-perspective.webp" width="80" alt="Eta" title="Eta"></a>
-<a href="characters/kage-no-jitsuryokusha/alexia-midgar-perspective/"><img src="assets/portraits/kage-no-jitsuryokusha/alexia-midgar-perspective.webp" width="80" alt="Alexia Midgar" title="Alexia Midgar"></a>
-<a href="characters/kage-no-jitsuryokusha/claire-kagenou-perspective/"><img src="assets/portraits/kage-no-jitsuryokusha/claire-kagenou-perspective.webp" width="80" alt="Claire Kagenou" title="Claire Kagenou"></a>
-<a href="characters/kage-no-jitsuryokusha/rose-oriana-perspective/"><img src="assets/portraits/kage-no-jitsuryokusha/rose-oriana-perspective.webp" width="80" alt="Rose Oriana" title="Rose Oriana"></a>
-<a href="characters/kage-no-jitsuryokusha/nu-perspective/"><img src="assets/portraits/kage-no-jitsuryokusha/nu-perspective.webp" width="80" alt="Nu" title="Nu"></a>
-<a href="characters/kage-no-jitsuryokusha/annerose-notoire-perspective/"><img src="assets/portraits/kage-no-jitsuryokusha/annerose-notoire-perspective.webp" width="80" alt="Annerose" title="Annerose"></a>
-<a href="characters/kage-no-jitsuryokusha/mary-perspective/"><img src="assets/portraits/kage-no-jitsuryokusha/mary-perspective.webp" width="80" alt="Mary" title="Mary"></a>
-
-### 不正经的魔术讲师与禁忌教典  (`rokudenashi-majutsu-koushi`)
-
-<a href="characters/rokudenashi-majutsu-koushi/sistine-fibel-perspective/"><img src="assets/portraits/rokudenashi-majutsu-koushi/sistine-fibel-perspective.webp" width="80" alt="Sistine Fibel" title="Sistine Fibel"></a>
-<a href="characters/rokudenashi-majutsu-koushi/rumia-tingel-perspective/"><img src="assets/portraits/rokudenashi-majutsu-koushi/rumia-tingel-perspective.webp" width="80" alt="Rumia Tingel" title="Rumia Tingel"></a>
-<a href="characters/rokudenashi-majutsu-koushi/riel-rayford-perspective/"><img src="assets/portraits/rokudenashi-majutsu-koushi/riel-rayford-perspective.webp" width="80" alt="Riel Rayford" title="Riel Rayford"></a>
-<a href="characters/rokudenashi-majutsu-koushi/celica-arfonia-perspective/"><img src="assets/portraits/rokudenashi-majutsu-koushi/celica-arfonia-perspective.webp" width="80" alt="Celica Arfonia" title="Celica Arfonia"></a>
-<a href="characters/rokudenashi-majutsu-koushi/eve-ignite-perspective/"><img src="assets/portraits/rokudenashi-majutsu-koushi/eve-ignite-perspective.webp" width="80" alt="Eve Ignite" title="Eve Ignite"></a>
-
-### 初音未来  (`vocaloid`)
-
-<a href="characters/vocaloid/hatsune-miku-perspective/"><img src="assets/portraits/vocaloid/hatsune-miku-perspective.webp" width="80" alt="Hatsune Miku" title="Hatsune Miku"></a>
-
-### 零之使魔 / Zero no Tsukaima  (`zero-no-tsukaima`)
-
-<a href="characters/zero-no-tsukaima/louise-perspective/"><img src="assets/portraits/zero-no-tsukaima/louise-perspective.webp" width="80" alt="Louise" title="Louise"> Louise / 露易丝</a>
-
-### 鸣潮 (`wuthering-waves`)
-
-<a href="characters/wuthering-waves/baizhi-perspective/"><img src="assets/portraits/wuthering-waves/baizhi-perspective.webp" width="80" alt="白芷" title="白芷"></a> <a href="characters/wuthering-waves/camellya-perspective/"><img src="assets/portraits/wuthering-waves/camellya-perspective.webp" width="80" alt="椿" title="椿"></a> <a href="characters/wuthering-waves/cantarella-perspective/"><img src="assets/portraits/wuthering-waves/cantarella-perspective.webp" width="80" alt="坎特蕾拉" title="坎特蕾拉"></a> <a href="characters/wuthering-waves/carlotta-perspective/"><img src="assets/portraits/wuthering-waves/carlotta-perspective.webp" width="80" alt="珂莱塔" title="珂莱塔"></a> <a href="characters/wuthering-waves/cartethyia-perspective/"><img src="assets/portraits/wuthering-waves/cartethyia-perspective.webp" width="80" alt="卡提西亚" title="卡提西亚"></a>
-
-<a href="characters/wuthering-waves/changli-perspective/"><img src="assets/portraits/wuthering-waves/changli-perspective.webp" width="80" alt="长离" title="长离"></a> <a href="characters/wuthering-waves/chixia-perspective/"><img src="assets/portraits/wuthering-waves/chixia-perspective.webp" width="80" alt="炽霞" title="炽霞"></a> <a href="characters/wuthering-waves/ciaccona-perspective/"><img src="assets/portraits/wuthering-waves/ciaccona-perspective.webp" width="80" alt="夏空" title="夏空"></a> <a href="characters/wuthering-waves/danjin-perspective/"><img src="assets/portraits/wuthering-waves/danjin-perspective.webp" width="80" alt="丹瑾" title="丹瑾"></a> <a href="characters/wuthering-waves/encore-perspective/"><img src="assets/portraits/wuthering-waves/encore-perspective.webp" width="80" alt="安可" title="安可"></a>
-
-<a href="characters/wuthering-waves/iuno-perspective/"><img src="assets/portraits/wuthering-waves/iuno-perspective.webp" width="80" alt="伊诺" title="伊诺"></a> <a href="characters/wuthering-waves/jianxin-perspective/"><img src="assets/portraits/wuthering-waves/jianxin-perspective.webp" width="80" alt="鉴心" title="鉴心"></a> <a href="characters/wuthering-waves/jinshi-perspective/"><img src="assets/portraits/wuthering-waves/jinshi-perspective.webp" width="80" alt="今汐" title="今汐"></a> <a href="characters/wuthering-waves/lumi-perspective/"><img src="assets/portraits/wuthering-waves/lumi-perspective.webp" width="80" alt="露米" title="露米"></a> <a href="characters/wuthering-waves/lucy-perspective/"><img src="assets/portraits/wuthering-waves/lucy-perspective.webp" width="80" alt="露西" title="露西"></a>
-
-<a href="characters/wuthering-waves/lynae-perspective/"><img src="assets/portraits/wuthering-waves/lynae-perspective.webp" width="80" alt="莱娜" title="莱娜"></a> <a href="characters/wuthering-waves/phoebe-perspective/"><img src="assets/portraits/wuthering-waves/phoebe-perspective.webp" width="80" alt="菲比" title="菲比"></a> <a href="characters/wuthering-waves/phrolova-perspective/"><img src="assets/portraits/wuthering-waves/phrolova-perspective.webp" width="80" alt="费洛威" title="费洛威"></a> <a href="characters/wuthering-waves/roccia-perspective/"><img src="assets/portraits/wuthering-waves/roccia-perspective.webp" width="80" alt="洛可可" title="洛可可"></a> <a href="characters/wuthering-waves/sanhua-perspective/"><img src="assets/portraits/wuthering-waves/sanhua-perspective.webp" width="80" alt="散华" title="散华"></a>
-
-<a href="characters/wuthering-waves/shorekeeper-perspective/"><img src="assets/portraits/wuthering-waves/shorekeeper-perspective.webp" width="80" alt="守岸人" title="守岸人"></a> <a href="characters/wuthering-waves/taoqi-perspective/"><img src="assets/portraits/wuthering-waves/taoqi-perspective.webp" width="80" alt="桃祈" title="桃祈"></a> <a href="characters/wuthering-waves/verina-perspective/"><img src="assets/portraits/wuthering-waves/verina-perspective.webp" width="80" alt="维里奈" title="维里奈"></a> <a href="characters/wuthering-waves/yangyang-perspective/"><img src="assets/portraits/wuthering-waves/yangyang-perspective.webp" width="80" alt="秧秧" title="秧秧"></a> <a href="characters/wuthering-waves/yinlin-perspective/"><img src="assets/portraits/wuthering-waves/yinlin-perspective.webp" width="80" alt="吟霖" title="吟霖"></a>
-
-<a href="characters/wuthering-waves/youhu-perspective/"><img src="assets/portraits/wuthering-waves/youhu-perspective.webp" width="80" alt="悠游" title="悠游"></a> <a href="characters/wuthering-waves/zhezhi-perspective/"><img src="assets/portraits/wuthering-waves/zhezhi-perspective.webp" width="80" alt="折枝" title="折枝"></a> <a href="characters/wuthering-waves/zani-perspective/"><img src="assets/portraits/wuthering-waves/zani-perspective.webp" width="80" alt="赞妮" title="赞妮"></a> <a href="characters/wuthering-waves/augusta-perspective/"><img src="assets/portraits/wuthering-waves/augusta-perspective.webp" width="80" alt="奥古斯塔" title="奥古斯塔"></a> <a href="characters/wuthering-waves/hiyuki-perspective/"><img src="assets/portraits/wuthering-waves/hiyuki-perspective.webp" width="80" alt="日向" title="日向"></a>
-
-<a href="characters/wuthering-waves/lucilla-perspective/"><img src="assets/portraits/wuthering-waves/lucilla-perspective.webp" width="80" alt="露奇" title="露奇"></a> <a href="characters/wuthering-waves/sigrika-perspective/"><img src="assets/portraits/wuthering-waves/sigrika-perspective.webp" width="80" alt="希格莉卡" title="希格莉卡"></a> <a href="characters/wuthering-waves/suisui-perspective/"><img src="assets/portraits/wuthering-waves/suisui-perspective.webp" width="80" alt="绥绥" title="绥绥"></a> <a href="characters/wuthering-waves/buling-perspective/"><img src="assets/portraits/wuthering-waves/buling-perspective.webp" width="80" alt="布玲" title="布玲"></a> <a href="characters/wuthering-waves/rebecca-perspective/"><img src="assets/portraits/wuthering-waves/rebecca-perspective.webp" width="80" alt="丽贝卡" title="丽贝卡"></a>
-
-<a href="characters/wuthering-waves/galbrena-perspective/"><img src="assets/portraits/wuthering-waves/galbrena-perspective.webp" width="80" alt="加尔贝娜" title="加尔贝娜"></a> <a href="characters/wuthering-waves/lupa-perspective/"><img src="assets/portraits/wuthering-waves/lupa-perspective.webp" width="80" alt="露帕" title="露帕"></a> <a href="characters/wuthering-waves/chisa-perspective/"><img src="assets/portraits/wuthering-waves/chisa-perspective.webp" width="80" alt="琪莎" title="琪莎"></a> <a href="characters/wuthering-waves/aemeath-perspective/"><img src="assets/portraits/wuthering-waves/aemeath-perspective.webp" width="80" alt="艾梅丝" title="艾梅丝"></a> <a href="characters/wuthering-waves/denia-perspective/"><img src="assets/portraits/wuthering-waves/denia-perspective.webp" width="80" alt="德妮娅" title="德妮娅"></a>
-
-<a href="characters/wuthering-waves/mornye-perspective/"><img src="assets/portraits/wuthering-waves/mornye-perspective.webp" width="80" alt="莫宁" title="莫宁"></a>
-
-### 不/存在的你，和我 (`the-noexistencen-of-you-and-me`)
-
-- [莉莉丝 / Lilith](characters/the-noexistencen-of-you-and-me/lilith-perspective/SKILL.md) — 原作角色 Skill，含 6 维 research
+Character role-play skills, indexed by work and character.
+
+- **444** character directories · **47** works
+- Portrait identity and provenance: [source manifest](assets/portrait_sources.json)
+- Maintenance and verification: [portrait guide](assets/portraits/README.md)
+
+<!-- Generated by scripts/portraits.py render; edit the source manifest, not this index. -->
+
+## 天色＊アイルノーツ / Amairo Islenauts (`amairo-islenauts`)
+
+<table>
+<tr>
+<td align="center"><a href="characters/amairo-islenauts/airi-perspective/"><img src="assets/portraits/amairo-islenauts/airi-perspective.webp" width="90" height="120" alt="白鹿愛莉" title="白鹿愛莉"><br>白鹿愛莉</a></td>
+<td align="center"><a href="characters/amairo-islenauts/hinomiya-konoka-perspective/"><img src="assets/portraits/amairo-islenauts/hinomiya-konoka-perspective.webp" width="90" height="120" alt="火宮木乃香" title="火宮木乃香"><br>火宮木乃香</a></td>
+<td align="center"><a href="characters/amairo-islenauts/masaki-perspective/"><img src="assets/portraits/amairo-islenauts/masaki-perspective.webp" width="90" height="120" alt="真咲・ガイヤール" title="真咲・ガイヤール"><br>真咲・ガイヤール</a></td>
+<td align="center"><a href="characters/amairo-islenauts/shirley-perspective/"><img src="assets/portraits/amairo-islenauts/shirley-perspective.webp" width="90" height="120" alt="シャーリィ" title="シャーリィ"><br>シャーリィ</a></td>
+<td align="center"><a href="characters/amairo-islenauts/tia-hohenwerfen-perspective/"><img src="assets/portraits/amairo-islenauts/tia-hohenwerfen-perspective.webp" width="90" height="120" alt="ティア・ホーエンヴェルフェン" title="ティア・ホーエンヴェルフェン"><br>ティア・ホーエンヴェルフェン</a></td>
+<td align="center"><a href="characters/amairo-islenauts/yune-perspective/"><img src="assets/portraits/amairo-islenauts/yune-perspective.webp" width="90" height="120" alt="天霧夕音" title="天霧夕音"><br>天霧夕音</a></td>
+</tr>
+</table>
+
+## Angel Beats! (`angel-beats`)
+
+<table>
+<tr>
+<td align="center"><a href="characters/angel-beats/tachibana-kanade-perspective/"><img src="assets/portraits/angel-beats/tachibana-kanade-perspective.webp" width="90" height="120" alt="立华奏" title="立华奏"><br>立华奏</a></td>
+</tr>
+</table>
+
+## BanG Dream! Ave Mujica (`ave-mujica`)
+
+<table>
+<tr>
+<td align="center"><a href="characters/ave-mujica/misumi-uika-perspective/"><img src="assets/portraits/ave-mujica/misumi-uika-perspective.webp" width="90" height="120" alt="三角初华" title="三角初华"><br>三角初华</a></td>
+<td align="center"><a href="characters/ave-mujica/togawa-sakiko-perspective/"><img src="assets/portraits/ave-mujica/togawa-sakiko-perspective.webp" width="90" height="120" alt="丰川祥子" title="丰川祥子"><br>丰川祥子</a></td>
+<td align="center"><a href="characters/ave-mujica/wakaba-mutsumi-perspective/"><img src="assets/portraits/ave-mujica/wakaba-mutsumi-perspective.webp" width="90" height="120" alt="若叶睦" title="若叶睦"><br>若叶睦</a></td>
+<td align="center"><a href="characters/ave-mujica/yahata-umiri-perspective/"><img src="assets/portraits/ave-mujica/yahata-umiri-perspective.webp" width="90" height="120" alt="八幡海铃" title="八幡海铃"><br>八幡海铃</a></td>
+<td align="center"><a href="characters/ave-mujica/yutenji-nyamu-perspective/"><img src="assets/portraits/ave-mujica/yutenji-nyamu-perspective.webp" width="90" height="120" alt="祐天寺喵梦" title="祐天寺喵梦"><br>祐天寺喵梦</a></td>
+</tr>
+</table>
+
+## 孤独摇滚！ (`bocchi-the-rock`)
+
+<table>
+<tr>
+<td align="center"><a href="characters/bocchi-the-rock/hitori-gotoh-perspective/"><img src="assets/portraits/bocchi-the-rock/hitori-gotoh-perspective.webp" width="90" height="120" alt="后藤一里" title="后藤一里"><br>后藤一里</a></td>
+<td align="center"><a href="characters/bocchi-the-rock/ikuyo-kita-perspective/"><img src="assets/portraits/bocchi-the-rock/ikuyo-kita-perspective.webp" width="90" height="120" alt="喜多郁代" title="喜多郁代"><br>喜多郁代</a></td>
+<td align="center"><a href="characters/bocchi-the-rock/kikuri-hiroi-perspective/"><img src="assets/portraits/bocchi-the-rock/kikuri-hiroi-perspective.webp" width="90" height="120" alt="广井菊里" title="广井菊里"><br>广井菊里</a></td>
+<td align="center"><a href="characters/bocchi-the-rock/nijika-ijichi-perspective/"><img src="assets/portraits/bocchi-the-rock/nijika-ijichi-perspective.webp" width="90" height="120" alt="伊地知虹夏" title="伊地知虹夏"><br>伊地知虹夏</a></td>
+<td align="center"><a href="characters/bocchi-the-rock/pa-san-perspective/"><img src="assets/portraits/bocchi-the-rock/pa-san-perspective.webp" width="90" height="120" alt="PA小姐" title="PA小姐"><br>PA小姐</a></td>
+<td align="center"><a href="characters/bocchi-the-rock/ryo-yamada-perspective/"><img src="assets/portraits/bocchi-the-rock/ryo-yamada-perspective.webp" width="90" height="120" alt="山田凉" title="山田凉"><br>山田凉</a></td>
+</tr>
+<tr>
+<td align="center"><a href="characters/bocchi-the-rock/seika-ijichi-perspective/"><img src="assets/portraits/bocchi-the-rock/seika-ijichi-perspective.webp" width="90" height="120" alt="伊地知星歌" title="伊地知星歌"><br>伊地知星歌</a></td>
+</tr>
+</table>
+
+## 星光咖啡馆与死神之蝶 / 喫茶ステラと死神の蝶 / Café Stella and the Reaper's Butterflies (`cafe-stella`)
+
+<table>
+<tr>
+<td align="center"><a href="characters/cafe-stella/akatsuki-kanna-perspective/"><img src="assets/portraits/cafe-stella/akatsuki-kanna-perspective.webp" width="90" height="120" alt="明月栞那" title="明月栞那"><br>明月栞那</a></td>
+<td align="center"><a href="characters/cafe-stella/hiuchidani-ai-perspective/"><img src="assets/portraits/cafe-stella/hiuchidani-ai-perspective.webp" width="90" height="120" alt="火打谷愛衣" title="火打谷愛衣"><br>火打谷愛衣</a></td>
+<td align="center"><a href="characters/cafe-stella/shiki-natsume-perspective/"><img src="assets/portraits/cafe-stella/shiki-natsume-perspective.webp" width="90" height="120" alt="四季ナツメ" title="四季ナツメ"><br>四季ナツメ</a></td>
+<td align="center"><a href="characters/cafe-stella/shioyama-suzune-perspective/"><img src="assets/portraits/cafe-stella/shioyama-suzune-perspective.webp" width="90" height="120" alt="汐山涼音" title="汐山涼音"><br>汐山涼音</a></td>
+<td align="center"><a href="characters/cafe-stella/sumizome-nozomi-perspective/"><img src="assets/portraits/cafe-stella/sumizome-nozomi-perspective.webp" width="90" height="120" alt="墨染希" title="墨染希"><br>墨染希</a></td>
+</tr>
+</table>
+
+## Charlotte (`charlotte`)
+
+<table>
+<tr>
+<td align="center"><a href="characters/charlotte/tomori-nao-perspective/"><img src="assets/portraits/charlotte/tomori-nao-perspective.webp" width="90" height="120" alt="友利奈绪" title="友利奈绪"><br>友利奈绪</a></td>
+</tr>
+</table>
+
+## 弹丸论破 / Danganronpa (`danganronpa`)
+
+<table>
+<tr>
+<td align="center"><a href="characters/danganronpa/kyoko-kirigiri-perspective/"><img src="assets/portraits/danganronpa/kyoko-kirigiri-perspective.webp" width="90" height="120" alt="雾切响子" title="雾切响子"><br>雾切响子</a></td>
+</tr>
+</table>
+
+## 德古拉之怒 (`dracu-riot`)
+
+<table>
+<tr>
+<td align="center"><a href="characters/dracu-riot/azusa-perspective/"><img src="assets/portraits/dracu-riot/azusa-perspective.webp" width="90" height="120" alt="布良梓" title="布良梓"><br>布良梓</a></td>
+<td align="center"><a href="characters/dracu-riot/elina-perspective/"><img src="assets/portraits/dracu-riot/elina-perspective.webp" width="90" height="120" alt="エリナ" title="エリナ"><br>エリナ</a></td>
+<td align="center"><a href="characters/dracu-riot/miu-perspective/"><img src="assets/portraits/dracu-riot/miu-perspective.webp" width="90" height="120" alt="矢来美羽" title="矢来美羽"><br>矢来美羽</a></td>
+<td align="center"><a href="characters/dracu-riot/nicola-cepheus-perspective/"><img src="assets/portraits/dracu-riot/nicola-cepheus-perspective.webp" width="90" height="120" alt="ニコラ" title="ニコラ"><br>ニコラ</a></td>
+<td align="center"><a href="characters/dracu-riot/rio-perspective/"><img src="assets/portraits/dracu-riot/rio-perspective.webp" width="90" height="120" alt="稲叢莉音" title="稲叢莉音"><br>稲叢莉音</a></td>
+</tr>
+</table>
+
+## 契约之吻 / Engage Kiss (`engage-kiss`)
+
+<table>
+<tr>
+<td align="center"><a href="characters/engage-kiss/kisaragi-perspective/"><img src="assets/portraits/engage-kiss/kisaragi-perspective.webp" width="90" height="120" alt="木更" title="木更"><br>木更</a></td>
+<td align="center"><a href="characters/engage-kiss/ogata-shu-perspective/"><img src="assets/portraits/engage-kiss/ogata-shu-perspective.webp" width="90" height="120" alt="绪方修" title="绪方修"><br>绪方修</a></td>
+<td align="center"><a href="characters/engage-kiss/sharon-holygrail-perspective/"><img src="assets/portraits/engage-kiss/sharon-holygrail-perspective.webp" width="90" height="120" alt="莎朗·霍莉格雷尔" title="莎朗·霍莉格雷尔"><br>莎朗·霍莉格雷尔</a></td>
+<td align="center"><a href="characters/engage-kiss/yugiri-ayano-perspective/"><img src="assets/portraits/engage-kiss/yugiri-ayano-perspective.webp" width="90" height="120" alt="夕桐绫乃" title="夕桐绫乃"><br>夕桐绫乃</a></td>
+</tr>
+</table>
+
+## FGO (`fate-grand-order`)
+
+<table>
+<tr>
+<td align="center"><a href="characters/fate-grand-order/mash-kyrielight-perspective/"><img src="assets/portraits/fate-grand-order/mash-kyrielight-perspective.webp" width="90" height="120" alt="玛修" title="玛修"><br>玛修</a></td>
+</tr>
+</table>
+
+## FS/N (`fate-stay-night`)
+
+<table>
+<tr>
+<td align="center"><a href="characters/fate-stay-night/emiya-shirou-perspective/"><img src="assets/portraits/fate-stay-night/emiya-shirou-perspective.webp" width="90" height="120" alt="卫宫士郎" title="卫宫士郎"><br>卫宫士郎</a></td>
+<td align="center"><a href="characters/fate-stay-night/illyasviel-von-einzbern-perspective/"><img src="assets/portraits/fate-stay-night/illyasviel-von-einzbern-perspective.webp" width="90" height="120" alt="伊莉雅" title="伊莉雅"><br>伊莉雅</a></td>
+<td align="center"><a href="characters/fate-stay-night/kotomine-kirei-perspective/"><img src="assets/portraits/fate-stay-night/kotomine-kirei-perspective.webp" width="90" height="120" alt="言峰绮礼" title="言峰绮礼"><br>言峰绮礼</a></td>
+<td align="center"><a href="characters/fate-stay-night/rin-tohsaka-perspective/"><img src="assets/portraits/fate-stay-night/rin-tohsaka-perspective.webp" width="90" height="120" alt="远坂凛" title="远坂凛"><br>远坂凛</a></td>
+<td align="center"><a href="characters/fate-stay-night/sakura-matou-perspective/"><img src="assets/portraits/fate-stay-night/sakura-matou-perspective.webp" width="90" height="120" alt="间桐樱" title="间桐樱"><br>间桐樱</a></td>
+</tr>
+</table>
+
+## FATE (`fate`)
+
+<table>
+<tr>
+<td align="center"><a href="characters/fate/artoria-pendragon-perspective/"><img src="assets/portraits/fate/artoria-pendragon-perspective.webp" width="90" height="120" alt="阿尔托利亚" title="阿尔托利亚"><br>阿尔托利亚</a></td>
+</tr>
+</table>
+
+## 偶像大师（含765Pro、灰姑娘女孩/U149、Million Live!、Shiny Colors、Dearly Stars、学園アイドルマスター） (`idolmaster`)
+
+<table>
+<tr>
+<td align="center"><a href="characters/idolmaster/abe-nana-perspective/"><img src="assets/portraits/idolmaster/abe-nana-perspective.webp" width="90" height="120" alt="安部菜々" title="安部菜々"><br>安部菜々</a></td>
+<td align="center"><a href="characters/idolmaster/akagi-miria-perspective/"><img src="assets/portraits/idolmaster/akagi-miria-perspective.webp" width="90" height="120" alt="赤城みりあ" title="赤城みりあ"><br>赤城みりあ</a></td>
+<td align="center"><a href="characters/idolmaster/aketa-mikoto-perspective/"><img src="assets/portraits/idolmaster/aketa-mikoto-perspective.webp" width="90" height="120" alt="緋田美琴" title="緋田美琴"><br>緋田美琴</a></td>
+<td align="center"><a href="characters/idolmaster/akizuki-ritsuko-perspective/"><img src="assets/portraits/idolmaster/akizuki-ritsuko-perspective.webp" width="90" height="120" alt="秋月律子" title="秋月律子"><br>秋月律子</a></td>
+<td align="center"><a href="characters/idolmaster/akizuki-ryo-perspective/"><img src="assets/portraits/idolmaster/akizuki-ryo-perspective.webp" width="90" height="120" alt="秋月涼" title="秋月涼"><br>秋月涼</a></td>
+<td align="center"><a href="characters/idolmaster/amami-haruka-perspective/"><img src="assets/portraits/idolmaster/amami-haruka-perspective.webp" width="90" height="120" alt="天海春香" title="天海春香"><br>天海春香</a></td>
+</tr>
+<tr>
+<td align="center"><a href="characters/idolmaster/arima-rinse-perspective/"><img src="assets/portraits/idolmaster/arima-rinse-perspective.webp" width="90" height="120" alt="杜野凛世" title="杜野凛世"><br>杜野凛世</a></td>
+<td align="center"><a href="characters/idolmaster/asakura-toru-perspective/"><img src="assets/portraits/idolmaster/asakura-toru-perspective.webp" width="90" height="120" alt="浅倉透" title="浅倉透"><br>浅倉透</a></td>
+<td align="center"><a href="characters/idolmaster/baba-konomi-perspective/"><img src="assets/portraits/idolmaster/baba-konomi-perspective.webp" width="90" height="120" alt="馬場このみ" title="馬場このみ"><br>馬場このみ</a></td>
+<td align="center"><a href="characters/idolmaster/emily-stewart-perspective/"><img src="assets/portraits/idolmaster/emily-stewart-perspective.webp" width="90" height="120" alt="エミリースチュアート" title="エミリースチュアート"><br>エミリースチュアート</a></td>
+<td align="center"><a href="characters/idolmaster/fukuda-noriko-perspective/"><img src="assets/portraits/idolmaster/fukuda-noriko-perspective.webp" width="90" height="120" alt="福田のり子" title="福田のり子"><br>福田のり子</a></td>
+<td align="center"><a href="characters/idolmaster/fukumaru-koito-perspective/"><img src="assets/portraits/idolmaster/fukumaru-koito-perspective.webp" width="90" height="120" alt="福丸小糸" title="福丸小糸"><br>福丸小糸</a></td>
+</tr>
+<tr>
+<td align="center"><a href="characters/idolmaster/futami-ami-perspective/"><img src="assets/portraits/idolmaster/futami-ami-perspective.webp" width="90" height="120" alt="双海亜美" title="双海亜美"><br>双海亜美</a></td>
+<td align="center"><a href="characters/idolmaster/futami-mami-perspective/"><img src="assets/portraits/idolmaster/futami-mami-perspective.webp" width="90" height="120" alt="双海真美" title="双海真美"><br>双海真美</a></td>
+<td align="center"><a href="characters/idolmaster/ganaha-hibiki-perspective/"><img src="assets/portraits/idolmaster/ganaha-hibiki-perspective.webp" width="90" height="120" alt="我那覇響" title="我那覇響"><br>我那覇響</a></td>
+<td align="center"><a href="characters/idolmaster/hakozaki-serika-perspective/"><img src="assets/portraits/idolmaster/hakozaki-serika-perspective.webp" width="90" height="120" alt="箱崎星梨花" title="箱崎星梨花"><br>箱崎星梨花</a></td>
+<td align="center"><a href="characters/idolmaster/hidaka-ai-perspective/"><img src="assets/portraits/idolmaster/hidaka-ai-perspective.webp" width="90" height="120" alt="日高愛" title="日高愛"><br>日高愛</a></td>
+<td align="center"><a href="characters/idolmaster/higuchi-enoka-perspective/"><img src="assets/portraits/idolmaster/higuchi-enoka-perspective.webp" width="90" height="120" alt="樋口円香" title="樋口円香"><br>樋口円香</a></td>
+</tr>
+<tr>
+<td align="center"><a href="characters/idolmaster/hojo-karen-perspective/"><img src="assets/portraits/idolmaster/hojo-karen-perspective.webp" width="90" height="120" alt="北条加蓮" title="北条加蓮"><br>北条加蓮</a></td>
+<td align="center"><a href="characters/idolmaster/honda-mio-perspective/"><img src="assets/portraits/idolmaster/honda-mio-perspective.webp" width="90" height="120" alt="本田未央" title="本田未央"><br>本田未央</a></td>
+<td align="center"><a href="characters/idolmaster/hoshii-miki-perspective/"><img src="assets/portraits/idolmaster/hoshii-miki-perspective.webp" width="90" height="120" alt="星井美希" title="星井美希"><br>星井美希</a></td>
+<td align="center"><a href="characters/idolmaster/ibuki-tsubasa-perspective/"><img src="assets/portraits/idolmaster/ibuki-tsubasa-perspective.webp" width="90" height="120" alt="伊吹翼" title="伊吹翼"><br>伊吹翼</a></td>
+<td align="center"><a href="characters/idolmaster/ichihara-nina-perspective/"><img src="assets/portraits/idolmaster/ichihara-nina-perspective.webp" width="90" height="120" alt="市原仁奈" title="市原仁奈"><br>市原仁奈</a></td>
+<td align="center"><a href="characters/idolmaster/ichinose-shiki-perspective/"><img src="assets/portraits/idolmaster/ichinose-shiki-perspective.webp" width="90" height="120" alt="一ノ瀬志希" title="一ノ瀬志希"><br>一ノ瀬志希</a></td>
+</tr>
+<tr>
+<td align="center"><a href="characters/idolmaster/izumi-mei-perspective/"><img src="assets/portraits/idolmaster/izumi-mei-perspective.webp" width="90" height="120" alt="和泉愛依" title="和泉愛依"><br>和泉愛依</a></td>
+<td align="center"><a href="characters/idolmaster/julia-perspective/"><img src="assets/portraits/idolmaster/julia-perspective.webp" width="90" height="120" alt="ジュリア" title="ジュリア"><br>ジュリア</a></td>
+<td align="center"><a href="characters/idolmaster/kanzaki-ranko-perspective/"><img src="assets/portraits/idolmaster/kanzaki-ranko-perspective.webp" width="90" height="120" alt="神崎蘭子" title="神崎蘭子"><br>神崎蘭子</a></td>
+<td align="center"><a href="characters/idolmaster/kasuga-mirai-perspective/"><img src="assets/portraits/idolmaster/kasuga-mirai-perspective.webp" width="90" height="120" alt="春日未来" title="春日未来"><br>春日未来</a></td>
+<td align="center"><a href="characters/idolmaster/kikuchi-makoto-perspective/"><img src="assets/portraits/idolmaster/kikuchi-makoto-perspective.webp" width="90" height="120" alt="菊地真" title="菊地真"><br>菊地真</a></td>
+<td align="center"><a href="characters/idolmaster/kinoshita-hinata-perspective/"><img src="assets/portraits/idolmaster/kinoshita-hinata-perspective.webp" width="90" height="120" alt="木下ひなた" title="木下ひなた"><br>木下ひなた</a></td>
+</tr>
+<tr>
+<td align="center"><a href="characters/idolmaster/kisaragi-chihaya-perspective/"><img src="assets/portraits/idolmaster/kisaragi-chihaya-perspective.webp" width="90" height="120" alt="如月千早" title="如月千早"><br>如月千早</a></td>
+<td align="center"><a href="characters/idolmaster/kitakami-reika-perspective/"><img src="assets/portraits/idolmaster/kitakami-reika-perspective.webp" width="90" height="120" alt="北上麗花" title="北上麗花"><br>北上麗花</a></td>
+<td align="center"><a href="characters/idolmaster/kitazawa-shiho-perspective/"><img src="assets/portraits/idolmaster/kitazawa-shiho-perspective.webp" width="90" height="120" alt="北沢志保" title="北沢志保"><br>北沢志保</a></td>
+<td align="center"><a href="characters/idolmaster/koga-koharu-perspective/"><img src="assets/portraits/idolmaster/koga-koharu-perspective.webp" width="90" height="120" alt="古賀小春" title="古賀小春"><br>古賀小春</a></td>
+<td align="center"><a href="characters/idolmaster/komiya-kaho-perspective/"><img src="assets/portraits/idolmaster/komiya-kaho-perspective.webp" width="90" height="120" alt="小宮果穂" title="小宮果穂"><br>小宮果穂</a></td>
+<td align="center"><a href="characters/idolmaster/koshimizu-sachiko-perspective/"><img src="assets/portraits/idolmaster/koshimizu-sachiko-perspective.webp" width="90" height="120" alt="輿水幸子" title="輿水幸子"><br>輿水幸子</a></td>
+</tr>
+<tr>
+<td align="center"><a href="characters/idolmaster/kousaka-umi-perspective/"><img src="assets/portraits/idolmaster/kousaka-umi-perspective.webp" width="90" height="120" alt="高坂海美" title="高坂海美"><br>高坂海美</a></td>
+<td align="center"><a href="characters/idolmaster/kuwayama-chiyuki-perspective/"><img src="assets/portraits/idolmaster/kuwayama-chiyuki-perspective.webp" width="90" height="120" alt="桑山千雪" title="桑山千雪"><br>桑山千雪</a></td>
+<td align="center"><a href="characters/idolmaster/maihama-ayumu-perspective/"><img src="assets/portraits/idolmaster/maihama-ayumu-perspective.webp" width="90" height="120" alt="舞浜歩" title="舞浜歩"><br>舞浜歩</a></td>
+<td align="center"><a href="characters/idolmaster/makabe-mizuki-perspective/"><img src="assets/portraits/idolmaster/makabe-mizuki-perspective.webp" width="90" height="120" alt="真壁瑞希" title="真壁瑞希"><br>真壁瑞希</a></td>
+<td align="center"><a href="characters/idolmaster/matoba-risa-perspective/"><img src="assets/portraits/idolmaster/matoba-risa-perspective.webp" width="90" height="120" alt="的場梨沙" title="的場梨沙"><br>的場梨沙</a></td>
+<td align="center"><a href="characters/idolmaster/matsuda-arisa-perspective/"><img src="assets/portraits/idolmaster/matsuda-arisa-perspective.webp" width="90" height="120" alt="松田亜利沙" title="松田亜利沙"><br>松田亜利沙</a></td>
+</tr>
+<tr>
+<td align="center"><a href="characters/idolmaster/mayuzumi-fuyuko-perspective/"><img src="assets/portraits/idolmaster/mayuzumi-fuyuko-perspective.webp" width="90" height="120" alt="黛冬優子" title="黛冬優子"><br>黛冬優子</a></td>
+<td align="center"><a href="characters/idolmaster/minase-iori-perspective/"><img src="assets/portraits/idolmaster/minase-iori-perspective.webp" width="90" height="120" alt="水瀬伊織" title="水瀬伊織"><br>水瀬伊織</a></td>
+<td align="center"><a href="characters/idolmaster/mitsumine-yuika-perspective/"><img src="assets/portraits/idolmaster/mitsumine-yuika-perspective.webp" width="90" height="120" alt="三峰結華" title="三峰結華"><br>三峰結華</a></td>
+<td align="center"><a href="characters/idolmaster/miura-azusa-perspective/"><img src="assets/portraits/idolmaster/miura-azusa-perspective.webp" width="90" height="120" alt="三浦あずさ" title="三浦あずさ"><br>三浦あずさ</a></td>
+<td align="center"><a href="characters/idolmaster/miyao-miya-perspective/"><img src="assets/portraits/idolmaster/miyao-miya-perspective.webp" width="90" height="120" alt="宮尾美也" title="宮尾美也"><br>宮尾美也</a></td>
+<td align="center"><a href="characters/idolmaster/mizutani-eri-perspective/"><img src="assets/portraits/idolmaster/mizutani-eri-perspective.webp" width="90" height="120" alt="水谷絵理" title="水谷絵理"><br>水谷絵理</a></td>
+</tr>
+<tr>
+<td align="center"><a href="characters/idolmaster/mochizuki-anna-perspective/"><img src="assets/portraits/idolmaster/mochizuki-anna-perspective.webp" width="90" height="120" alt="望月杏奈" title="望月杏奈"><br>望月杏奈</a></td>
+<td align="center"><a href="characters/idolmaster/mogami-shizuka-perspective/"><img src="assets/portraits/idolmaster/mogami-shizuka-perspective.webp" width="90" height="120" alt="最上静香" title="最上静香"><br>最上静香</a></td>
+<td align="center"><a href="characters/idolmaster/momose-rio-perspective/"><img src="assets/portraits/idolmaster/momose-rio-perspective.webp" width="90" height="120" alt="百瀬莉緒" title="百瀬莉緒"><br>百瀬莉緒</a></td>
+<td align="center"><a href="characters/idolmaster/moroboshi-kirari-perspective/"><img src="assets/portraits/idolmaster/moroboshi-kirari-perspective.webp" width="90" height="120" alt="諸星きらり" title="諸星きらり"><br>諸星きらり</a></td>
+<td align="center"><a href="characters/idolmaster/nagayoshi-subaru-perspective/"><img src="assets/portraits/idolmaster/nagayoshi-subaru-perspective.webp" width="90" height="120" alt="永吉昴" title="永吉昴"><br>永吉昴</a></td>
+<td align="center"><a href="characters/idolmaster/nakatani-iku-perspective/"><img src="assets/portraits/idolmaster/nakatani-iku-perspective.webp" width="90" height="120" alt="中谷育" title="中谷育"><br>中谷育</a></td>
+</tr>
+<tr>
+<td align="center"><a href="characters/idolmaster/nanakusa-hazuki-perspective/"><img src="assets/portraits/idolmaster/nanakusa-hazuki-perspective.webp" width="90" height="120" alt="七草はづき" title="七草はづき"><br>七草はづき</a></td>
+<td align="center"><a href="characters/idolmaster/nanakusa-nichika-perspective/"><img src="assets/portraits/idolmaster/nanakusa-nichika-perspective.webp" width="90" height="120" alt="七草にちか" title="七草にちか"><br>七草にちか</a></td>
+<td align="center"><a href="characters/idolmaster/nanao-yuriko-perspective/"><img src="assets/portraits/idolmaster/nanao-yuriko-perspective.webp" width="90" height="120" alt="七尾百合子" title="七尾百合子"><br>七尾百合子</a></td>
+<td align="center"><a href="characters/idolmaster/nikaido-chizuru-perspective/"><img src="assets/portraits/idolmaster/nikaido-chizuru-perspective.webp" width="90" height="120" alt="二階堂千鶴" title="二階堂千鶴"><br>二階堂千鶴</a></td>
+<td align="center"><a href="characters/idolmaster/nitta-minami-perspective/"><img src="assets/portraits/idolmaster/nitta-minami-perspective.webp" width="90" height="120" alt="新田美波" title="新田美波"><br>新田美波</a></td>
+<td align="center"><a href="characters/idolmaster/nonohara-akane-perspective/"><img src="assets/portraits/idolmaster/nonohara-akane-perspective.webp" width="90" height="120" alt="野々原茜" title="野々原茜"><br>野々原茜</a></td>
+</tr>
+<tr>
+<td align="center"><a href="characters/idolmaster/ookami-tamaki-perspective/"><img src="assets/portraits/idolmaster/ookami-tamaki-perspective.webp" width="90" height="120" alt="大神環" title="大神環"><br>大神環</a></td>
+<td align="center"><a href="characters/idolmaster/osaki-anna-perspective/"><img src="assets/portraits/idolmaster/osaki-anna-perspective.webp" width="90" height="120" alt="大崎甘奈" title="大崎甘奈"><br>大崎甘奈</a></td>
+<td align="center"><a href="characters/idolmaster/osaki-tenka-perspective/"><img src="assets/portraits/idolmaster/osaki-tenka-perspective.webp" width="90" height="120" alt="大崎甜花" title="大崎甜花"><br>大崎甜花</a></td>
+<td align="center"><a href="characters/idolmaster/otonashi-kotori-perspective/"><img src="assets/portraits/idolmaster/otonashi-kotori-perspective.webp" width="90" height="120" alt="音无小鸟" title="音无小鸟"><br>音无小鸟</a></td>
+<td align="center"><a href="characters/idolmaster/ryuzaki-kaoru-perspective/"><img src="assets/portraits/idolmaster/ryuzaki-kaoru-perspective.webp" width="90" height="120" alt="龍崎薫" title="龍崎薫"><br>龍崎薫</a></td>
+<td align="center"><a href="characters/idolmaster/sagisawa-fumika-perspective/"><img src="assets/portraits/idolmaster/sagisawa-fumika-perspective.webp" width="90" height="120" alt="鷺沢文香" title="鷺沢文香"><br>鷺沢文香</a></td>
+</tr>
+<tr>
+<td align="center"><a href="characters/idolmaster/saijo-juri-perspective/"><img src="assets/portraits/idolmaster/saijo-juri-perspective.webp" width="90" height="120" alt="西城樹里" title="西城樹里"><br>西城樹里</a></td>
+<td align="center"><a href="characters/idolmaster/sakamori-kaori-perspective/"><img src="assets/portraits/idolmaster/sakamori-kaori-perspective.webp" width="90" height="120" alt="桜守歌織" title="桜守歌織"><br>桜守歌織</a></td>
+<td align="center"><a href="characters/idolmaster/sakurai-momoka-perspective/"><img src="assets/portraits/idolmaster/sakurai-momoka-perspective.webp" width="90" height="120" alt="櫻井桃華" title="櫻井桃華"><br>櫻井桃華</a></td>
+<td align="center"><a href="characters/idolmaster/sasaki-chie-perspective/"><img src="assets/portraits/idolmaster/sasaki-chie-perspective.webp" width="90" height="120" alt="佐々木千枝" title="佐々木千枝"><br>佐々木千枝</a></td>
+<td align="center"><a href="characters/idolmaster/satake-minako-perspective/"><img src="assets/portraits/idolmaster/satake-minako-perspective.webp" width="90" height="120" alt="佐竹美奈子" title="佐竹美奈子"><br>佐竹美奈子</a></td>
+<td align="center"><a href="characters/idolmaster/satou-shizuku-perspective/"><img src="assets/portraits/idolmaster/satou-shizuku-perspective.webp" width="90" height="120" alt="佐藤心" title="佐藤心"><br>佐藤心</a></td>
+</tr>
+<tr>
+<td align="center"><a href="characters/idolmaster/serizawa-asahi-perspective/"><img src="assets/portraits/idolmaster/serizawa-asahi-perspective.webp" width="90" height="120" alt="芹沢あさひ" title="芹沢あさひ"><br>芹沢あさひ</a></td>
+<td align="center"><a href="characters/idolmaster/shibuya-rin-perspective/"><img src="assets/portraits/idolmaster/shibuya-rin-perspective.webp" width="90" height="120" alt="渋谷凛" title="渋谷凛"><br>渋谷凛</a></td>
+<td align="center"><a href="characters/idolmaster/shijou-takane-perspective/"><img src="assets/portraits/idolmaster/shijou-takane-perspective.webp" width="90" height="120" alt="四条貴音" title="四条貴音"><br>四条貴音</a></td>
+<td align="center"><a href="characters/idolmaster/shimabara-elena-perspective/"><img src="assets/portraits/idolmaster/shimabara-elena-perspective.webp" width="90" height="120" alt="島原エレナ" title="島原エレナ"><br>島原エレナ</a></td>
+<td align="center"><a href="characters/idolmaster/shimamura-uzuki-perspective/"><img src="assets/portraits/idolmaster/shimamura-uzuki-perspective.webp" width="90" height="120" alt="島村卯月" title="島村卯月"><br>島村卯月</a></td>
+<td align="center"><a href="characters/idolmaster/shinomiya-karen-perspective/"><img src="assets/portraits/idolmaster/shinomiya-karen-perspective.webp" width="90" height="120" alt="篠宮可憐" title="篠宮可憐"><br>篠宮可憐</a></td>
+</tr>
+<tr>
+<td align="center"><a href="characters/idolmaster/shinozaki-hiro-perspective/"><img src="assets/portraits/idolmaster/shinozaki-hiro-perspective.webp" width="90" height="120" alt="篠澤広" title="篠澤広"><br>篠澤広</a></td>
+<td align="center"><a href="characters/idolmaster/shiragiku-hotaru-perspective/"><img src="assets/portraits/idolmaster/shiragiku-hotaru-perspective.webp" width="90" height="120" alt="白菊ほたる" title="白菊ほたる"><br>白菊ほたる</a></td>
+<td align="center"><a href="characters/idolmaster/shiraishi-tsumugi-perspective/"><img src="assets/portraits/idolmaster/shiraishi-tsumugi-perspective.webp" width="90" height="120" alt="白石紬" title="白石紬"><br>白石紬</a></td>
+<td align="center"><a href="characters/idolmaster/shirose-sakuya-perspective/"><img src="assets/portraits/idolmaster/shirose-sakuya-perspective.webp" width="90" height="120" alt="白瀬咲耶" title="白瀬咲耶"><br>白瀬咲耶</a></td>
+<td align="center"><a href="characters/idolmaster/sonoda-chiyoko-perspective/"><img src="assets/portraits/idolmaster/sonoda-chiyoko-perspective.webp" width="90" height="120" alt="園田智代子" title="園田智代子"><br>園田智代子</a></td>
+<td align="center"><a href="characters/idolmaster/suo-momoko-perspective/"><img src="assets/portraits/idolmaster/suo-momoko-perspective.webp" width="90" height="120" alt="周防桃子" title="周防桃子"><br>周防桃子</a></td>
+</tr>
+<tr>
+<td align="center"><a href="characters/idolmaster/tachibana-arisu-perspective/"><img src="assets/portraits/idolmaster/tachibana-arisu-perspective.webp" width="90" height="120" alt="橘ありす" title="橘ありす"><br>橘ありす</a></td>
+<td align="center"><a href="characters/idolmaster/takagaki-kaede-perspective/"><img src="assets/portraits/idolmaster/takagaki-kaede-perspective.webp" width="90" height="120" alt="高垣楓" title="高垣楓"><br>高垣楓</a></td>
+<td align="center"><a href="characters/idolmaster/takagi-producer-perspective/"><img src="assets/portraits/idolmaster/takagi-producer-perspective.webp" width="90" height="120" alt="765 Pro 制作人" title="765 Pro 制作人"><br>765 Pro 制作人</a></td>
+<td align="center"><a href="characters/idolmaster/takayama-sayoko-perspective/"><img src="assets/portraits/idolmaster/takayama-sayoko-perspective.webp" width="90" height="120" alt="高山紗代子" title="高山紗代子"><br>高山紗代子</a></td>
+<td align="center"><a href="characters/idolmaster/tanaka-kotoha-perspective/"><img src="assets/portraits/idolmaster/tanaka-kotoha-perspective.webp" width="90" height="120" alt="田中琴葉" title="田中琴葉"><br>田中琴葉</a></td>
+<td align="center"><a href="characters/idolmaster/tenkubashi-tomoka-perspective/"><img src="assets/portraits/idolmaster/tenkubashi-tomoka-perspective.webp" width="90" height="120" alt="天空橋朋花" title="天空橋朋花"><br>天空橋朋花</a></td>
+</tr>
+<tr>
+<td align="center"><a href="characters/idolmaster/tokoro-emi-perspective/"><img src="assets/portraits/idolmaster/tokoro-emi-perspective.webp" width="90" height="120" alt="所恵美" title="所恵美"><br>所恵美</a></td>
+<td align="center"><a href="characters/idolmaster/tokugawa-matsuri-perspective/"><img src="assets/portraits/idolmaster/tokugawa-matsuri-perspective.webp" width="90" height="120" alt="徳川まつり" title="徳川まつり"><br>徳川まつり</a></td>
+<td align="center"><a href="characters/idolmaster/toyokawa-fuka-perspective/"><img src="assets/portraits/idolmaster/toyokawa-fuka-perspective.webp" width="90" height="120" alt="豊川風花" title="豊川風花"><br>豊川風花</a></td>
+<td align="center"><a href="characters/idolmaster/tsukioka-kanade-perspective/"><img src="assets/portraits/idolmaster/tsukioka-kanade-perspective.webp" width="90" height="120" alt="月岡恋鐘" title="月岡恋鐘"><br>月岡恋鐘</a></td>
+<td align="center"><a href="characters/idolmaster/yabuki-kana-perspective/"><img src="assets/portraits/idolmaster/yabuki-kana-perspective.webp" width="90" height="120" alt="矢吹可奈" title="矢吹可奈"><br>矢吹可奈</a></td>
+<td align="center"><a href="characters/idolmaster/yatsumiya-meguru-perspective/"><img src="assets/portraits/idolmaster/yatsumiya-meguru-perspective.webp" width="90" height="120" alt="八宮めぐる" title="八宮めぐる"><br>八宮めぐる</a></td>
+</tr>
+<tr>
+<td align="center"><a href="characters/idolmaster/yokoyama-nao-perspective/"><img src="assets/portraits/idolmaster/yokoyama-nao-perspective.webp" width="90" height="120" alt="横山奈緒" title="横山奈緒"><br>横山奈緒</a></td>
+<td align="center"><a href="characters/idolmaster/yuki-haru-perspective/"><img src="assets/portraits/idolmaster/yuki-haru-perspective.webp" width="90" height="120" alt="結城晴" title="結城晴"><br>結城晴</a></td>
+<td align="center"><a href="characters/idolmaster/yukoku-kiriko-perspective/"><img src="assets/portraits/idolmaster/yukoku-kiriko-perspective.webp" width="90" height="120" alt="幽谷霧子" title="幽谷霧子"><br>幽谷霧子</a></td>
+<td align="center"><a href="characters/idolmaster/yusa-kozue-perspective/"><img src="assets/portraits/idolmaster/yusa-kozue-perspective.webp" width="90" height="120" alt="遊佐こずえ" title="遊佐こずえ"><br>遊佐こずえ</a></td>
+</tr>
+</table>
+
+## 我想成为影之实力者！ / The Eminence in Shadow / 陰の実力者になりたくて！ (`kage-no-jitsuryokusha`)
+
+<table>
+<tr>
+<td align="center"><a href="characters/kage-no-jitsuryokusha/alexia-midgar-perspective/"><img src="assets/portraits/kage-no-jitsuryokusha/alexia-midgar-perspective.webp" width="90" height="120" alt="阿蕾克希亚" title="阿蕾克希亚"><br>阿蕾克希亚</a></td>
+<td align="center"><a href="characters/kage-no-jitsuryokusha/alpha-perspective/"><img src="assets/portraits/kage-no-jitsuryokusha/alpha-perspective.webp" width="90" height="120" alt="阿尔法" title="阿尔法"><br>阿尔法</a></td>
+<td align="center"><a href="characters/kage-no-jitsuryokusha/annerose-notoire-perspective/"><img src="assets/portraits/kage-no-jitsuryokusha/annerose-notoire-perspective.webp" width="90" height="120" alt="安妮萝洁" title="安妮萝洁"><br>安妮萝洁</a></td>
+<td align="center"><a href="characters/kage-no-jitsuryokusha/beta-perspective/"><img src="assets/portraits/kage-no-jitsuryokusha/beta-perspective.webp" width="90" height="120" alt="贝塔" title="贝塔"><br>贝塔</a></td>
+<td align="center"><a href="characters/kage-no-jitsuryokusha/claire-kagenou-perspective/"><img src="assets/portraits/kage-no-jitsuryokusha/claire-kagenou-perspective.webp" width="90" height="120" alt="克莱尔·卡盖诺" title="克莱尔·卡盖诺"><br>克莱尔·卡盖诺</a></td>
+<td align="center"><a href="characters/kage-no-jitsuryokusha/delta-perspective/"><img src="assets/portraits/kage-no-jitsuryokusha/delta-perspective.webp" width="90" height="120" alt="德尔塔" title="德尔塔"><br>德尔塔</a></td>
+</tr>
+<tr>
+<td align="center"><a href="characters/kage-no-jitsuryokusha/epsilon-perspective/"><img src="assets/portraits/kage-no-jitsuryokusha/epsilon-perspective.webp" width="90" height="120" alt="艾普西隆" title="艾普西隆"><br>艾普西隆</a></td>
+<td align="center"><a href="characters/kage-no-jitsuryokusha/eta-perspective/"><img src="assets/portraits/kage-no-jitsuryokusha/eta-perspective.webp" width="90" height="120" alt="希妲" title="希妲"><br>希妲</a></td>
+<td align="center"><a href="characters/kage-no-jitsuryokusha/gamma-perspective/"><img src="assets/portraits/kage-no-jitsuryokusha/gamma-perspective.webp" width="90" height="120" alt="伽玛" title="伽玛"><br>伽玛</a></td>
+<td align="center"><a href="characters/kage-no-jitsuryokusha/mary-perspective/"><img src="assets/portraits/kage-no-jitsuryokusha/mary-perspective.webp" width="90" height="120" alt="玛丽" title="玛丽"><br>玛丽</a></td>
+<td align="center"><a href="characters/kage-no-jitsuryokusha/nu-perspective/"><img src="assets/portraits/kage-no-jitsuryokusha/nu-perspective.webp" width="90" height="120" alt="纽" title="纽"><br>纽</a></td>
+<td align="center"><a href="characters/kage-no-jitsuryokusha/rose-oriana-perspective/"><img src="assets/portraits/kage-no-jitsuryokusha/rose-oriana-perspective.webp" width="90" height="120" alt="罗兹·奥莉亚娜" title="罗兹·奥莉亚娜"><br>罗兹·奥莉亚娜</a></td>
+</tr>
+<tr>
+<td align="center"><a href="characters/kage-no-jitsuryokusha/zeta-perspective/"><img src="assets/portraits/kage-no-jitsuryokusha/zeta-perspective.webp" width="90" height="120" alt="洁塔" title="洁塔"><br>洁塔</a></td>
+</tr>
+</table>
+
+## 为美好的世界献上祝福 (`konosuba`)
+
+<table>
+<tr>
+<td align="center"><a href="characters/konosuba/megumin-perspective/"><img src="assets/portraits/konosuba/megumin-perspective.webp" width="90" height="120" alt="惠惠" title="惠惠"><br>惠惠</a></td>
+</tr>
+</table>
+
+## 虚构推理 / In/Spectre (`kyokou-suiri`)
+
+<table>
+<tr>
+<td align="center"><a href="characters/kyokou-suiri/iwanaga-kotoko-perspective/"><img src="assets/portraits/kyokou-suiri/iwanaga-kotoko-perspective.webp" width="90" height="120" alt="岩永琴子" title="岩永琴子"><br>岩永琴子</a></td>
+</tr>
+</table>
+
+## 魔法少女小圆 (`madoka`)
+
+<table>
+<tr>
+<td align="center"><a href="characters/madoka/homura-akemi-perspective/"><img src="assets/portraits/madoka/homura-akemi-perspective.webp" width="90" height="120" alt="晓美焰" title="晓美焰"><br>晓美焰</a></td>
+<td align="center"><a href="characters/madoka/kyoko-sakura-perspective/"><img src="assets/portraits/madoka/kyoko-sakura-perspective.webp" width="90" height="120" alt="佐仓杏子" title="佐仓杏子"><br>佐仓杏子</a><br><small>仅 research</small></td>
+<td align="center"><a href="characters/madoka/kyubey-perspective/"><img src="assets/portraits/madoka/kyubey-perspective.webp" width="90" height="120" alt="丘比" title="丘比"><br>丘比</a><br><small>仅 research</small></td>
+<td align="center"><a href="characters/madoka/madoka-kaname-perspective/"><img src="assets/portraits/madoka/madoka-kaname-perspective.webp" width="90" height="120" alt="鹿目圆" title="鹿目圆"><br>鹿目圆</a></td>
+<td align="center"><a href="characters/madoka/mami-perspective/"><img src="assets/portraits/madoka/mami-perspective.webp" width="90" height="120" alt="巴麻美" title="巴麻美"><br>巴麻美</a><br><small>仅 research</small></td>
+<td align="center"><a href="characters/madoka/sayaka-miki-perspective/"><img src="assets/portraits/madoka/sayaka-miki-perspective.webp" width="90" height="120" alt="美树沙耶香" title="美树沙耶香"><br>美树沙耶香</a><br><small>仅 research</small></td>
+</tr>
+</table>
+
+## 魔女之旅 (`majo-no-tabitabi`)
+
+<table>
+<tr>
+<td align="center"><a href="characters/majo-no-tabitabi/elaina-perspective/"><img src="assets/portraits/majo-no-tabitabi/elaina-perspective.webp" width="90" height="120" alt="伊蕾娜" title="伊蕾娜"><br>伊蕾娜</a><br><small>仅 research</small></td>
+</tr>
+</table>
+
+## 魔女的夜宴 / Sanoba Witch (`majono-yoru-en`)
+
+<table>
+<tr>
+<td align="center"><a href="characters/majono-yoru-en/meguru-perspective/"><img src="assets/portraits/majono-yoru-en/meguru-perspective.webp" width="90" height="120" alt="因幡めぐる" title="因幡めぐる"><br>因幡めぐる</a><br><small>同一角色的历史归档</small></td>
+<td align="center"><a href="characters/majono-yoru-en/touko-perspective/"><img src="assets/portraits/majono-yoru-en/touko-perspective.webp" width="90" height="120" alt="戸隠憧子" title="戸隠憧子"><br>戸隠憧子</a><br><small>同一角色的历史归档</small></td>
+<td align="center"><a href="characters/majono-yoru-en/tsumugi-perspective/"><img src="assets/portraits/majono-yoru-en/tsumugi-perspective.webp" width="90" height="120" alt="椎葉紬" title="椎葉紬"><br>椎葉紬</a><br><small>同一角色的历史归档</small></td>
+<td align="center"><a href="characters/majono-yoru-en/wakana-perspective/"><img src="assets/portraits/majono-yoru-en/wakana-perspective.webp" width="90" height="120" alt="仮屋和奏" title="仮屋和奏"><br>仮屋和奏</a><br><small>同一角色的历史归档</small></td>
+</tr>
+</table>
+
+## 无职转生 / Mushoku Tensei (`mushoku-tensei`)
+
+<table>
+<tr>
+<td align="center"><a href="characters/mushoku-tensei/eris-boreas-greyrat-perspective/"><img src="assets/portraits/mushoku-tensei/eris-boreas-greyrat-perspective.webp" width="90" height="120" alt="艾莉丝" title="艾莉丝"><br>艾莉丝</a></td>
+<td align="center"><a href="characters/mushoku-tensei/roxy-migurdia-perspective/"><img src="assets/portraits/mushoku-tensei/roxy-migurdia-perspective.webp" width="90" height="120" alt="洛琪希" title="洛琪希"><br>洛琪希</a></td>
+<td align="center"><a href="characters/mushoku-tensei/sylphiette-perspective/"><img src="assets/portraits/mushoku-tensei/sylphiette-perspective.webp" width="90" height="120" alt="希露菲叶特" title="希露菲叶特"><br>希露菲叶特</a></td>
+</tr>
+</table>
+
+## MyGO!!!!! (`mygo`)
+
+<table>
+<tr>
+<td align="center"><a href="characters/mygo/chihaya-anon-perspective/"><img src="assets/portraits/mygo/chihaya-anon-perspective.webp" width="90" height="120" alt="千早爱音" title="千早爱音"><br>千早爱音</a></td>
+<td align="center"><a href="characters/mygo/kaname-rana-perspective/"><img src="assets/portraits/mygo/kaname-rana-perspective.webp" width="90" height="120" alt="要乐奈" title="要乐奈"><br>要乐奈</a></td>
+<td align="center"><a href="characters/mygo/nagasaki-soyo-perspective/"><img src="assets/portraits/mygo/nagasaki-soyo-perspective.webp" width="90" height="120" alt="长崎爽世" title="长崎爽世"><br>长崎爽世</a></td>
+<td align="center"><a href="characters/mygo/shiina-taki-perspective/"><img src="assets/portraits/mygo/shiina-taki-perspective.webp" width="90" height="120" alt="椎名立希" title="椎名立希"><br>椎名立希</a></td>
+<td align="center"><a href="characters/mygo/takamatsu-tomori-perspective/"><img src="assets/portraits/mygo/takamatsu-tomori-perspective.webp" width="90" height="120" alt="高松灯" title="高松灯"><br>高松灯</a></td>
+</tr>
+</table>
+
+## 新世纪福音战士 / EVA (`neon-genesis-evangelion`)
+
+<table>
+<tr>
+<td align="center"><a href="characters/neon-genesis-evangelion/asuka-langley-soryu-perspective/"><img src="assets/portraits/neon-genesis-evangelion/asuka-langley-soryu-perspective.webp" width="90" height="120" alt="惣流·明日香·兰格雷" title="惣流·明日香·兰格雷"><br>惣流·明日香·兰格雷</a></td>
+<td align="center"><a href="characters/neon-genesis-evangelion/gendo-ikari-perspective/"><img src="assets/portraits/neon-genesis-evangelion/gendo-ikari-perspective.webp" width="90" height="120" alt="碇源堂" title="碇源堂"><br>碇源堂</a></td>
+<td align="center"><a href="characters/neon-genesis-evangelion/kaworu-nagisa-perspective/"><img src="assets/portraits/neon-genesis-evangelion/kaworu-nagisa-perspective.webp" width="90" height="120" alt="渚薰" title="渚薰"><br>渚薰</a></td>
+<td align="center"><a href="characters/neon-genesis-evangelion/misato-katsuragi-perspective/"><img src="assets/portraits/neon-genesis-evangelion/misato-katsuragi-perspective.webp" width="90" height="120" alt="葛城美里" title="葛城美里"><br>葛城美里</a></td>
+<td align="center"><a href="characters/neon-genesis-evangelion/rei-ayanami-perspective/"><img src="assets/portraits/neon-genesis-evangelion/rei-ayanami-perspective.webp" width="90" height="120" alt="绫波丽" title="绫波丽"><br>绫波丽</a></td>
+<td align="center"><a href="characters/neon-genesis-evangelion/shinji-ikari-perspective/"><img src="assets/portraits/neon-genesis-evangelion/shinji-ikari-perspective.webp" width="90" height="120" alt="碇真嗣" title="碇真嗣"><br>碇真嗣</a></td>
+</tr>
+</table>
+
+## NOBLE WORKS (`noble-works`)
+
+<table>
+<tr>
+<td align="center"><a href="characters/noble-works/akari-perspective/"><img src="assets/portraits/noble-works/akari-perspective.webp" width="90" height="120" alt="兼元灯里" title="兼元灯里"><br>兼元灯里</a></td>
+<td align="center"><a href="characters/noble-works/hinata-perspective/"><img src="assets/portraits/noble-works/hinata-perspective.webp" width="90" height="120" alt="国広ひなた" title="国広ひなた"><br>国広ひなた</a></td>
+<td align="center"><a href="characters/noble-works/maya-perspective/"><img src="assets/portraits/noble-works/maya-perspective.webp" width="90" height="120" alt="長光麻夜" title="長光麻夜"><br>長光麻夜</a></td>
+<td align="center"><a href="characters/noble-works/sena-perspective/"><img src="assets/portraits/noble-works/sena-perspective.webp" width="90" height="120" alt="月山瀬奈" title="月山瀬奈"><br>月山瀬奈</a></td>
+<td align="center"><a href="characters/noble-works/shizuru-perspective/"><img src="assets/portraits/noble-works/shizuru-perspective.webp" width="90" height="120" alt="正宗静流" title="正宗静流"><br>正宗静流</a></td>
+</tr>
+</table>
+
+## 乙女理論とその周辺 / 月に寄りそう乙女の作法 (`otome-riron`)
+
+<table>
+<tr>
+<td align="center"><a href="characters/otome-riron/kokura-asahi-perspective/"><img src="assets/portraits/otome-riron/kokura-asahi-perspective.webp" width="90" height="120" alt="小倉朝日" title="小倉朝日"><br>小倉朝日</a><br><small>遊星／朝日为同一人物</small></td>
+<td align="center"><a href="characters/otome-riron/ookura-aeon-perspective/"><img src="assets/portraits/otome-riron/ookura-aeon-perspective.webp" width="90" height="120" alt="大蔵衣遠" title="大蔵衣遠"><br>大蔵衣遠</a></td>
+<td align="center"><a href="characters/otome-riron/ookura-resona-perspective/"><img src="assets/portraits/otome-riron/ookura-resona-perspective.webp" width="90" height="120" alt="大蔵りそな" title="大蔵りそな"><br>大蔵りそな</a></td>
+<td align="center"><a href="characters/otome-riron/ookura-yusei-perspective/"><img src="assets/portraits/otome-riron/ookura-yusei-perspective.webp" width="90" height="120" alt="大蔵遊星" title="大蔵遊星"><br>大蔵遊星</a><br><small>遊星／朝日为同一人物</small></td>
+</tr>
+</table>
+
+## 关于邻家的天使大人不知不觉把我惯成了废人这档子事 (`otonari-no-tenshi-sama`)
+
+<table>
+<tr>
+<td align="center"><a href="characters/otonari-no-tenshi-sama/shiina-mahiru-perspective/"><img src="assets/portraits/otonari-no-tenshi-sama/shiina-mahiru-perspective.webp" width="90" height="120" alt="椎名真昼" title="椎名真昼"><br>椎名真昼</a></td>
+</tr>
+</table>
+
+## Overlord (`overlord`)
+
+<table>
+<tr>
+<td align="center"><a href="characters/overlord/ainz-ooal-gown-perspective/"><img src="assets/portraits/overlord/ainz-ooal-gown-perspective.webp" width="90" height="120" alt="安兹" title="安兹"><br>安兹</a></td>
+<td align="center"><a href="characters/overlord/albedo-perspective/"><img src="assets/portraits/overlord/albedo-perspective.webp" width="90" height="120" alt="雅儿贝德" title="雅儿贝德"><br>雅儿贝德</a></td>
+<td align="center"><a href="characters/overlord/aura-bella-fiora-perspective/"><img src="assets/portraits/overlord/aura-bella-fiora-perspective.webp" width="90" height="120" alt="亚乌菈" title="亚乌菈"><br>亚乌菈</a></td>
+<td align="center"><a href="characters/overlord/demiurge-perspective/"><img src="assets/portraits/overlord/demiurge-perspective.webp" width="90" height="120" alt="迪米乌哥斯" title="迪米乌哥斯"><br>迪米乌哥斯</a></td>
+<td align="center"><a href="characters/overlord/evileye-perspective/"><img src="assets/portraits/overlord/evileye-perspective.webp" width="90" height="120" alt="伊维尔哀" title="伊维尔哀"><br>伊维尔哀</a></td>
+<td align="center"><a href="characters/overlord/lupusregina-beta-perspective/"><img src="assets/portraits/overlord/lupusregina-beta-perspective.webp" width="90" height="120" alt="卢普丝蕾琪娜" title="卢普丝蕾琪娜"><br>卢普丝蕾琪娜</a></td>
+</tr>
+<tr>
+<td align="center"><a href="characters/overlord/mare-bello-fiore-perspective/"><img src="assets/portraits/overlord/mare-bello-fiore-perspective.webp" width="90" height="120" alt="马雷" title="马雷"><br>马雷</a></td>
+<td align="center"><a href="characters/overlord/narberal-gamma-perspective/"><img src="assets/portraits/overlord/narberal-gamma-perspective.webp" width="90" height="120" alt="娜贝拉尔" title="娜贝拉尔"><br>娜贝拉尔</a></td>
+<td align="center"><a href="characters/overlord/pandoras-actor-perspective/"><img src="assets/portraits/overlord/pandoras-actor-perspective.webp" width="90" height="120" alt="潘多拉·亚克特" title="潘多拉·亚克特"><br>潘多拉·亚克特</a></td>
+<td align="center"><a href="characters/overlord/renner-theiere-chardelon-ryle-vaiself-perspective/"><img src="assets/portraits/overlord/renner-theiere-chardelon-ryle-vaiself-perspective.webp" width="90" height="120" alt="拉娜公主" title="拉娜公主"><br>拉娜公主</a></td>
+<td align="center"><a href="characters/overlord/shalltear-bloodfallen-perspective/"><img src="assets/portraits/overlord/shalltear-bloodfallen-perspective.webp" width="90" height="120" alt="夏提雅" title="夏提雅"><br>夏提雅</a></td>
+<td align="center"><a href="characters/overlord/solution-epsilon-perspective/"><img src="assets/portraits/overlord/solution-epsilon-perspective.webp" width="90" height="120" alt="索留香" title="索留香"><br>索留香</a></td>
+</tr>
+<tr>
+<td align="center"><a href="characters/overlord/zesshi-zetsumei-perspective/"><img src="assets/portraits/overlord/zesshi-zetsumei-perspective.webp" width="90" height="120" alt="绝死绝命" title="绝死绝命"><br>绝死绝命</a></td>
+</tr>
+</table>
+
+## PARQUET (`parquet`)
+
+<table>
+<tr>
+<td align="center"><a href="characters/parquet/ibaraki-rino-perspective/"><img src="assets/portraits/parquet/ibaraki-rino-perspective.webp" width="90" height="120" alt="茨木リノ" title="茨木リノ"><br>茨木リノ</a></td>
+<td align="center"><a href="characters/parquet/jomon-tsubasa-perspective/"><img src="assets/portraits/parquet/jomon-tsubasa-perspective.webp" width="90" height="120" alt="城門ツバサ" title="城門ツバサ"><br>城門ツバサ</a></td>
+</tr>
+</table>
+
+## 谜之屋 (`riddle-joker`)
+
+<table>
+<tr>
+<td align="center"><a href="characters/riddle-joker/ayase-perspective/"><img src="assets/portraits/riddle-joker/ayase-perspective.webp" width="90" height="120" alt="三司あやせ" title="三司あやせ"><br>三司あやせ</a></td>
+<td align="center"><a href="characters/riddle-joker/chisaki-perspective/"><img src="assets/portraits/riddle-joker/chisaki-perspective.webp" width="90" height="120" alt="壬生千咲" title="壬生千咲"><br>壬生千咲</a></td>
+<td align="center"><a href="characters/riddle-joker/hazuki-perspective/"><img src="assets/portraits/riddle-joker/hazuki-perspective.webp" width="90" height="120" alt="二条院羽月" title="二条院羽月"><br>二条院羽月</a></td>
+<td align="center"><a href="characters/riddle-joker/mayu-perspective/"><img src="assets/portraits/riddle-joker/mayu-perspective.webp" width="90" height="120" alt="式部茉優" title="式部茉優"><br>式部茉優</a></td>
+<td align="center"><a href="characters/riddle-joker/nanami-perspective/"><img src="assets/portraits/riddle-joker/nanami-perspective.webp" width="90" height="120" alt="在原七海" title="在原七海"><br>在原七海</a></td>
+</tr>
+</table>
+
+## 不正经的魔术讲师与禁忌教典 / ロクでなし魔術講師と禁忌教典 / Akashic Records of Bastard Magic Instructor (`rokudenashi-majutsu-koushi`)
+
+<table>
+<tr>
+<td align="center"><a href="characters/rokudenashi-majutsu-koushi/celica-arfonia-perspective/"><img src="assets/portraits/rokudenashi-majutsu-koushi/celica-arfonia-perspective.webp" width="90" height="120" alt="塞莉卡·阿尔佛诺亚" title="塞莉卡·阿尔佛诺亚"><br>塞莉卡·阿尔佛诺亚</a></td>
+<td align="center"><a href="characters/rokudenashi-majutsu-koushi/eve-ignite-perspective/"><img src="assets/portraits/rokudenashi-majutsu-koushi/eve-ignite-perspective.webp" width="90" height="120" alt="伊芙·伊格尼特" title="伊芙·伊格尼特"><br>伊芙·伊格尼特</a></td>
+<td align="center"><a href="characters/rokudenashi-majutsu-koushi/riel-rayford-perspective/"><img src="assets/portraits/rokudenashi-majutsu-koushi/riel-rayford-perspective.webp" width="90" height="120" alt="莉艾尔·雷福德" title="莉艾尔·雷福德"><br>莉艾尔·雷福德</a></td>
+<td align="center"><a href="characters/rokudenashi-majutsu-koushi/rumia-tingel-perspective/"><img src="assets/portraits/rokudenashi-majutsu-koushi/rumia-tingel-perspective.webp" width="90" height="120" alt="露米娅·汀洁尔" title="露米娅·汀洁尔"><br>露米娅·汀洁尔</a></td>
+<td align="center"><a href="characters/rokudenashi-majutsu-koushi/sistine-fibel-perspective/"><img src="assets/portraits/rokudenashi-majutsu-koushi/sistine-fibel-perspective.webp" width="90" height="120" alt="希丝缇娜·菲伊贝尔" title="希丝缇娜·菲伊贝尔"><br>希丝缇娜·菲伊贝尔</a></td>
+</tr>
+</table>
+
+## 樱之刻 (`sakura-no-toki`)
+
+<table>
+<tr>
+<td align="center"><a href="characters/sakura-no-toki/hikawa-ruriwo-perspective/"><img src="assets/portraits/sakura-no-toki/hikawa-ruriwo-perspective.webp" width="90" height="120" alt="冰川琉璃男" title="冰川琉璃男"><br>冰川琉璃男</a></td>
+<td align="center"><a href="characters/sakura-no-toki/honma-misuzu-perspective/"><img src="assets/portraits/sakura-no-toki/honma-misuzu-perspective.webp" width="90" height="120" alt="本间心铃" title="本间心铃"><br>本间心铃</a></td>
+<td align="center"><a href="characters/sakura-no-toki/kawachino-suzuna-perspective/"><img src="assets/portraits/sakura-no-toki/kawachino-suzuna-perspective.webp" width="90" height="120" alt="川内野铃菜" title="川内野铃菜"><br>川内野铃菜</a></td>
+<td align="center"><a href="characters/sakura-no-toki/kuriyama-natsuko-perspective/"><img src="assets/portraits/sakura-no-toki/kuriyama-natsuko-perspective.webp" width="90" height="120" alt="栗山奈津子" title="栗山奈津子"><br>栗山奈津子</a></td>
+<td align="center"><a href="characters/sakura-no-toki/nakamura-reika-perspective/"><img src="assets/portraits/sakura-no-toki/nakamura-reika-perspective.webp" width="90" height="120" alt="中村丽华" title="中村丽华"><br>中村丽华</a></td>
+<td align="center"><a href="characters/sakura-no-toki/sakizaki-sakurako-perspective/"><img src="assets/portraits/sakura-no-toki/sakizaki-sakurako-perspective.webp" width="90" height="120" alt="咲崎樱子" title="咲崎樱子"><br>咲崎樱子</a></td>
+</tr>
+<tr>
+<td align="center"><a href="characters/sakura-no-toki/toritani-saki-perspective/"><img src="assets/portraits/sakura-no-toki/toritani-saki-perspective.webp" width="90" height="120" alt="鸟谷纱希" title="鸟谷纱希"><br>鸟谷纱希</a></td>
+<td align="center"><a href="characters/sakura-no-toki/toritani-shizuru-perspective/"><img src="assets/portraits/sakura-no-toki/toritani-shizuru-perspective.webp" width="90" height="120" alt="鸟谷静流" title="鸟谷静流"><br>鸟谷静流</a></td>
+</tr>
+</table>
+
+## 樱之诗 (`sakura-no-uta`)
+
+<table>
+<tr>
+<td align="center"><a href="characters/sakura-no-uta/hikawa-rina-perspective/"><img src="assets/portraits/sakura-no-uta/hikawa-rina-perspective.webp" width="90" height="120" alt="冰川里奈" title="冰川里奈"><br>冰川里奈</a></td>
+<td align="center"><a href="characters/sakura-no-uta/kawachino-yuumi-perspective/"><img src="assets/portraits/sakura-no-uta/kawachino-yuumi-perspective.webp" width="90" height="120" alt="川内野优美" title="川内野优美"><br>川内野优美</a></td>
+<td align="center"><a href="characters/sakura-no-uta/kusanagi-naoya-perspective/"><img src="assets/portraits/sakura-no-uta/kusanagi-naoya-perspective.webp" width="90" height="120" alt="草薙直哉" title="草薙直哉"><br>草薙直哉</a></td>
+<td align="center"><a href="characters/sakura-no-uta/misakura-rin-perspective/"><img src="assets/portraits/sakura-no-uta/misakura-rin-perspective.webp" width="90" height="120" alt="御樱稟" title="御樱稟"><br>御樱稟</a></td>
+<td align="center"><a href="characters/sakura-no-uta/natsume-ai-perspective/"><img src="assets/portraits/sakura-no-uta/natsume-ai-perspective.webp" width="90" height="120" alt="夏目蓝" title="夏目蓝"><br>夏目蓝</a></td>
+<td align="center"><a href="characters/sakura-no-uta/natsume-kei-perspective/"><img src="assets/portraits/sakura-no-uta/natsume-kei-perspective.webp" width="90" height="120" alt="夏目圭" title="夏目圭"><br>夏目圭</a></td>
+</tr>
+<tr>
+<td align="center"><a href="characters/sakura-no-uta/natsume-shizuku-perspective/"><img src="assets/portraits/sakura-no-uta/natsume-shizuku-perspective.webp" width="90" height="120" alt="夏目雫" title="夏目雫"><br>夏目雫</a></td>
+<td align="center"><a href="characters/sakura-no-uta/toritani-makoto-perspective/"><img src="assets/portraits/sakura-no-uta/toritani-makoto-perspective.webp" width="90" height="120" alt="鸟谷真琴" title="鸟谷真琴"><br>鸟谷真琴</a></td>
+</tr>
+</table>
+
+## 魔女的夜宴 / Sanoba Witch (`sanoba-witch`)
+
+<table>
+<tr>
+<td align="center"><a href="characters/sanoba-witch/inaba-meguru-perspective/"><img src="assets/portraits/sanoba-witch/inaba-meguru-perspective.webp" width="90" height="120" alt="因幡めぐる" title="因幡めぐる"><br>因幡めぐる</a><br><small>同一角色的历史归档</small></td>
+<td align="center"><a href="characters/sanoba-witch/kariya-wakana-perspective/"><img src="assets/portraits/sanoba-witch/kariya-wakana-perspective.webp" width="90" height="120" alt="仮屋和奏" title="仮屋和奏"><br>仮屋和奏</a><br><small>同一角色的历史归档</small></td>
+<td align="center"><a href="characters/sanoba-witch/sakurai-nene-perspective/"><img src="assets/portraits/sanoba-witch/sakurai-nene-perspective.webp" width="90" height="120" alt="綾地寧々" title="綾地寧々"><br>綾地寧々</a></td>
+<td align="center"><a href="characters/sanoba-witch/shiiba-tsumugi-perspective/"><img src="assets/portraits/sanoba-witch/shiiba-tsumugi-perspective.webp" width="90" height="120" alt="椎葉紬" title="椎葉紬"><br>椎葉紬</a><br><small>同一角色的历史归档</small></td>
+<td align="center"><a href="characters/sanoba-witch/togakushi-touko-perspective/"><img src="assets/portraits/sanoba-witch/togakushi-touko-perspective.webp" width="90" height="120" alt="戸隠憧子" title="戸隠憧子"><br>戸隠憧子</a><br><small>同一角色的历史归档</small></td>
+</tr>
+</table>
+
+## 千恋＊万花 / Senren＊Banka (`senren-banka`)
+
+<table>
+<tr>
+<td align="center"><a href="characters/senren-banka/koharu-perspective/"><img src="assets/portraits/senren-banka/koharu-perspective.webp" width="90" height="120" alt="鞍馬小春" title="鞍馬小春"><br>鞍馬小春</a></td>
+<td align="center"><a href="characters/senren-banka/lena-perspective/"><img src="assets/portraits/senren-banka/lena-perspective.webp" width="90" height="120" alt="蕾娜" title="蕾娜"><br>蕾娜</a></td>
+<td align="center"><a href="characters/senren-banka/mako-perspective/"><img src="assets/portraits/senren-banka/mako-perspective.webp" width="90" height="120" alt="常陸茉子" title="常陸茉子"><br>常陸茉子</a></td>
+<td align="center"><a href="characters/senren-banka/murasame-perspective/"><img src="assets/portraits/senren-banka/murasame-perspective.webp" width="90" height="120" alt="丛雨" title="丛雨"><br>丛雨</a></td>
+<td align="center"><a href="characters/senren-banka/roka-perspective/"><img src="assets/portraits/senren-banka/roka-perspective.webp" width="90" height="120" alt="馬庭芦花" title="馬庭芦花"><br>馬庭芦花</a></td>
+<td align="center"><a href="characters/senren-banka/yoshino-perspective/"><img src="assets/portraits/senren-banka/yoshino-perspective.webp" width="90" height="120" alt="朝武芳乃" title="朝武芳乃"><br>朝武芳乃</a></td>
+</tr>
+</table>
+
+## 终结的炽天使 (`seraph-of-the-end`)
+
+<table>
+<tr>
+<td align="center"><a href="characters/seraph-of-the-end/krul-tepes-perspective/"><img src="assets/portraits/seraph-of-the-end/krul-tepes-perspective.webp" width="90" height="120" alt="Krul Tepes" title="Krul Tepes"><br>Krul Tepes</a></td>
+</tr>
+</table>
+
+## 名侦探光之美少女 (`star-detective-precure`)
+
+<table>
+<tr>
+<td align="center"><a href="characters/star-detective-precure/luluka-perspective/"><img src="assets/portraits/star-detective-precure/luluka-perspective.webp" width="90" height="120" alt="露露卡" title="露露卡"><br>露露卡</a></td>
+</tr>
+</table>
+
+## 命运石之门 (`steins-gate`)
+
+<table>
+<tr>
+<td align="center"><a href="characters/steins-gate/makise-kurisu-perspective/"><img src="assets/portraits/steins-gate/makise-kurisu-perspective.webp" width="90" height="120" alt="牧濑红莉栖" title="牧濑红莉栖"><br>牧濑红莉栖</a></td>
+</tr>
+</table>
+
+## Sword Art Online / 刀剑神域 (`sword-art-online`)
+
+<table>
+<tr>
+<td align="center"><a href="characters/sword-art-online/alice-synthesis-thirty-perspective/"><img src="assets/portraits/sword-art-online/alice-synthesis-thirty-perspective.webp" width="90" height="120" alt="爱丽丝" title="爱丽丝"><br>爱丽丝</a></td>
+<td align="center"><a href="characters/sword-art-online/andrew-gilbert-mills-perspective/"><img src="assets/portraits/sword-art-online/andrew-gilbert-mills-perspective.webp" width="90" height="120" alt="艾基尔" title="艾基尔"><br>艾基尔</a></td>
+<td align="center"><a href="characters/sword-art-online/argo-perspective/"><img src="assets/portraits/sword-art-online/argo-perspective.webp" width="90" height="120" alt="阿尔戈" title="阿尔戈"><br>阿尔戈</a></td>
+<td align="center"><a href="characters/sword-art-online/asada-shino-perspective/"><img src="assets/portraits/sword-art-online/asada-shino-perspective.webp" width="90" height="120" alt="诗乃" title="诗乃"><br>诗乃</a></td>
+<td align="center"><a href="characters/sword-art-online/asuna-yuuki-perspective/"><img src="assets/portraits/sword-art-online/asuna-yuuki-perspective.webp" width="90" height="120" alt="亚丝娜" title="亚丝娜"><br>亚丝娜</a></td>
+<td align="center"><a href="characters/sword-art-online/bercouli-synthesis-one-perspective/"><img src="assets/portraits/sword-art-online/bercouli-synthesis-one-perspective.webp" width="90" height="120" alt="贝尔库利" title="贝尔库利"><br>贝尔库利</a></td>
+</tr>
+<tr>
+<td align="center"><a href="characters/sword-art-online/cardinal-perspective/"><img src="assets/portraits/sword-art-online/cardinal-perspective.webp" width="90" height="120" alt="卡迪纳尔" title="卡迪纳尔"><br>卡迪纳尔</a></td>
+<td align="center"><a href="characters/sword-art-online/eiji-nogata-perspective/"><img src="assets/portraits/sword-art-online/eiji-nogata-perspective.webp" width="90" height="120" alt="Eiji" title="Eiji"><br>Eiji</a></td>
+<td align="center"><a href="characters/sword-art-online/eugeo-perspective/"><img src="assets/portraits/sword-art-online/eugeo-perspective.webp" width="90" height="120" alt="尤吉欧" title="尤吉欧"><br>尤吉欧</a></td>
+<td align="center"><a href="characters/sword-art-online/gabriel-miller-perspective/"><img src="assets/portraits/sword-art-online/gabriel-miller-perspective.webp" width="90" height="120" alt="加百列" title="加百列"><br>加百列</a></td>
+<td align="center"><a href="characters/sword-art-online/kayaba-akihiko-perspective/"><img src="assets/portraits/sword-art-online/kayaba-akihiko-perspective.webp" width="90" height="120" alt="茅场晶彦" title="茅场晶彦"><br>茅场晶彦</a></td>
+<td align="center"><a href="characters/sword-art-online/kirigaya-kazuto-perspective/"><img src="assets/portraits/sword-art-online/kirigaya-kazuto-perspective.webp" width="90" height="120" alt="桐人" title="桐人"><br>桐人</a></td>
+</tr>
+<tr>
+<td align="center"><a href="characters/sword-art-online/kirigaya-suguha-perspective/"><img src="assets/portraits/sword-art-online/kirigaya-suguha-perspective.webp" width="90" height="120" alt="直叶" title="直叶"><br>直叶</a></td>
+<td align="center"><a href="characters/sword-art-online/lizbeth-rika-shinozaki-perspective/"><img src="assets/portraits/sword-art-online/lizbeth-rika-shinozaki-perspective.webp" width="90" height="120" alt="莉兹贝特" title="莉兹贝特"><br>莉兹贝特</a></td>
+<td align="center"><a href="characters/sword-art-online/quinella-perspective/"><img src="assets/portraits/sword-art-online/quinella-perspective.webp" width="90" height="120" alt="奎涅拉" title="奎涅拉"><br>奎涅拉</a></td>
+<td align="center"><a href="characters/sword-art-online/renly-synthesis-twenty-seven-perspective/"><img src="assets/portraits/sword-art-online/renly-synthesis-twenty-seven-perspective.webp" width="90" height="120" alt="伦利" title="伦利"><br>伦利</a></td>
+<td align="center"><a href="characters/sword-art-online/rosalia-perspective/"><img src="assets/portraits/sword-art-online/rosalia-perspective.webp" width="90" height="120" alt="罗莎莉雅" title="罗莎莉雅"><br>罗莎莉雅</a></td>
+<td align="center"><a href="characters/sword-art-online/sachi-perspective/"><img src="assets/portraits/sword-art-online/sachi-perspective.webp" width="90" height="120" alt="幸" title="幸"><br>幸</a></td>
+</tr>
+<tr>
+<td align="center"><a href="characters/sword-art-online/selka-zuberg-perspective/"><img src="assets/portraits/sword-art-online/selka-zuberg-perspective.webp" width="90" height="120" alt="瑟鲁卡" title="瑟鲁卡"><br>瑟鲁卡</a></td>
+<td align="center"><a href="characters/sword-art-online/sheyta-synthesis-twelve-perspective/"><img src="assets/portraits/sword-art-online/sheyta-synthesis-twelve-perspective.webp" width="90" height="120" alt="谢塔" title="谢塔"><br>谢塔</a></td>
+<td align="center"><a href="characters/sword-art-online/silica-keiko-ayano-perspective/"><img src="assets/portraits/sword-art-online/silica-keiko-ayano-perspective.webp" width="90" height="120" alt="西莉卡" title="西莉卡"><br>西莉卡</a></td>
+<td align="center"><a href="characters/sword-art-online/tsuboi-ryoutarou-perspective/"><img src="assets/portraits/sword-art-online/tsuboi-ryoutarou-perspective.webp" width="90" height="120" alt="克莱因" title="克莱因"><br>克莱因</a></td>
+<td align="center"><a href="characters/sword-art-online/vassago-casals-perspective/"><img src="assets/portraits/sword-art-online/vassago-casals-perspective.webp" width="90" height="120" alt="瓦沙克" title="瓦沙克"><br>瓦沙克</a></td>
+<td align="center"><a href="characters/sword-art-online/yui-perspective/"><img src="assets/portraits/sword-art-online/yui-perspective.webp" width="90" height="120" alt="结衣" title="结衣"><br>结衣</a></td>
+</tr>
+<tr>
+<td align="center"><a href="characters/sword-art-online/yuna-perspective/"><img src="assets/portraits/sword-art-online/yuna-perspective.webp" width="90" height="120" alt="尤娜" title="尤娜"><br>尤娜</a></td>
+<td align="center"><a href="characters/sword-art-online/yuuki-perspective/"><img src="assets/portraits/sword-art-online/yuuki-perspective.webp" width="90" height="120" alt="优纪" title="优纪"><br>优纪</a></td>
+</tr>
+</table>
+
+## 转生史莱姆 / 关于我转生变成史莱姆这档事 (`tensei-shitara-slime-datta-ken`)
+
+<table>
+<tr>
+<td align="center"><a href="characters/tensei-shitara-slime-datta-ken/rimuru-tempest-perspective/"><img src="assets/portraits/tensei-shitara-slime-datta-ken/rimuru-tempest-perspective.webp" width="90" height="120" alt="利姆露" title="利姆露"><br>利姆露</a></td>
+</tr>
+</table>
+
+## 天使☆騒々 RE-BOOT! / 天使☆嚣嚣 RE-BOOT!（天使骚骚/天使纷扰） (`tenshi-souzou-re-boot`)
+
+<table>
+<tr>
+<td align="center"><a href="characters/tenshi-souzou-re-boot/hoshikawa-kaguya-perspective/"><img src="assets/portraits/tenshi-souzou-re-boot/hoshikawa-kaguya-perspective.webp" width="90" height="120" alt="星河かぐ耶" title="星河かぐ耶"><br>星河かぐ耶</a></td>
+<td align="center"><a href="characters/tenshi-souzou-re-boot/kohibari-kurumi-perspective/"><img src="assets/portraits/tenshi-souzou-re-boot/kohibari-kurumi-perspective.webp" width="90" height="120" alt="小雲雀来海" title="小雲雀来海"><br>小雲雀来海</a></td>
+<td align="center"><a href="characters/tenshi-souzou-re-boot/ozato-fumika-perspective/"><img src="assets/portraits/tenshi-souzou-re-boot/ozato-fumika-perspective.webp" width="90" height="120" alt="百里風実花" title="百里風実花"><br>百里風実花</a></td>
+<td align="center"><a href="characters/tenshi-souzou-re-boot/shirayuki-noa-perspective/"><img src="assets/portraits/tenshi-souzou-re-boot/shirayuki-noa-perspective.webp" width="90" height="120" alt="白雪乃愛" title="白雪乃愛"><br>白雪乃愛</a></td>
+<td align="center"><a href="characters/tenshi-souzou-re-boot/takatate-orie-perspective/"><img src="assets/portraits/tenshi-souzou-re-boot/takatate-orie-perspective.webp" width="90" height="120" alt="高楯オリエ" title="高楯オリエ"><br>高楯オリエ</a></td>
+<td align="center"><a href="characters/tenshi-souzou-re-boot/tanikaze-amane-perspective/"><img src="assets/portraits/tenshi-souzou-re-boot/tanikaze-amane-perspective.webp" width="90" height="120" alt="谷風天音" title="谷風天音"><br>谷風天音</a></td>
+</tr>
+</table>
+
+## 不/存在的你，和我 / The NOexistenceN of you AND me (`the-noexistencen-of-you-and-me`)
+
+<table>
+<tr>
+<td align="center"><a href="characters/the-noexistencen-of-you-and-me/lilith-perspective/"><img src="assets/portraits/the-noexistencen-of-you-and-me/lilith-perspective.webp" width="90" height="120" alt="莉莉丝" title="莉莉丝"><br>莉莉丝</a></td>
+</tr>
+</table>
+
+## 魔法禁书目录（含超电磁炮、科学一方通行） (`toaru-project`)
+
+<table>
+<tr>
+<td align="center"><a href="characters/toaru-project/accelerator-perspective/"><img src="assets/portraits/toaru-project/accelerator-perspective.webp" width="90" height="120" alt="一方通行" title="一方通行"><br>一方通行</a></td>
+<td align="center"><a href="characters/toaru-project/acqua-of-the-back-perspective/"><img src="assets/portraits/toaru-project/acqua-of-the-back-perspective.webp" width="90" height="120" alt="后方之水" title="后方之水"><br>后方之水</a></td>
+<td align="center"><a href="characters/toaru-project/awaki-musujime-perspective/"><img src="assets/portraits/toaru-project/awaki-musujime-perspective.webp" width="90" height="120" alt="结标淡希" title="结标淡希"><br>结标淡希</a></td>
+<td align="center"><a href="characters/toaru-project/fiamma-of-the-right-perspective/"><img src="assets/portraits/toaru-project/fiamma-of-the-right-perspective.webp" width="90" height="120" alt="右方のフィアンマ" title="右方のフィアンマ"><br>右方のフィアンマ</a></td>
+<td align="center"><a href="characters/toaru-project/frenda-perspective/"><img src="assets/portraits/toaru-project/frenda-perspective.webp" width="90" height="120" alt="芙兰达·塞维伦" title="芙兰达·塞维伦"><br>芙兰达·塞维伦</a></td>
+<td align="center"><a href="characters/toaru-project/hamazura-shiage-perspective/"><img src="assets/portraits/toaru-project/hamazura-shiage-perspective.webp" width="90" height="120" alt="浜面仕上" title="浜面仕上"><br>浜面仕上</a></td>
+</tr>
+<tr>
+<td align="center"><a href="characters/toaru-project/heaven-canceller-perspective/"><img src="assets/portraits/toaru-project/heaven-canceller-perspective.webp" width="90" height="120" alt="冥土追魂" title="冥土追魂"><br>冥土追魂</a></td>
+<td align="center"><a href="characters/toaru-project/index-perspective/"><img src="assets/portraits/toaru-project/index-perspective.webp" width="90" height="120" alt="茵蒂克丝" title="茵蒂克丝"><br>茵蒂克丝</a></td>
+<td align="center"><a href="characters/toaru-project/itsuwa-perspective/"><img src="assets/portraits/toaru-project/itsuwa-perspective.webp" width="90" height="120" alt="五和" title="五和"><br>五和</a></td>
+<td align="center"><a href="characters/toaru-project/kakine-teitoku-perspective/"><img src="assets/portraits/toaru-project/kakine-teitoku-perspective.webp" width="90" height="120" alt="垣根帝督" title="垣根帝督"><br>垣根帝督</a></td>
+<td align="center"><a href="characters/toaru-project/kamijou-touma-perspective/"><img src="assets/portraits/toaru-project/kamijou-touma-perspective.webp" width="90" height="120" alt="上条当麻" title="上条当麻"><br>上条当麻</a></td>
+<td align="center"><a href="characters/toaru-project/kanzaki-kaori-perspective/"><img src="assets/portraits/toaru-project/kanzaki-kaori-perspective.webp" width="90" height="120" alt="神裂火织" title="神裂火织"><br>神裂火织</a></td>
+</tr>
+<tr>
+<td align="center"><a href="characters/toaru-project/kinuhata-saiai-perspective/"><img src="assets/portraits/toaru-project/kinuhata-saiai-perspective.webp" width="90" height="120" alt="绢旗最爱" title="绢旗最爱"><br>绢旗最爱</a></td>
+<td align="center"><a href="characters/toaru-project/komoe-tsukuyomi-perspective/"><img src="assets/portraits/toaru-project/komoe-tsukuyomi-perspective.webp" width="90" height="120" alt="月詠小萌" title="月詠小萌"><br>月詠小萌</a></td>
+<td align="center"><a href="characters/toaru-project/last-order-perspective/"><img src="assets/portraits/toaru-project/last-order-perspective.webp" width="90" height="120" alt="最后之作" title="最后之作"><br>最后之作</a></td>
+<td align="center"><a href="characters/toaru-project/lessar-perspective/"><img src="assets/portraits/toaru-project/lessar-perspective.webp" width="90" height="120" alt="レッサー" title="レッサー"><br>レッサー</a></td>
+<td align="center"><a href="characters/toaru-project/misaka-mikoto-perspective/"><img src="assets/portraits/toaru-project/misaka-mikoto-perspective.webp" width="90" height="120" alt="御坂美琴" title="御坂美琴"><br>御坂美琴</a></td>
+<td align="center"><a href="characters/toaru-project/misaka-worst-perspective/"><img src="assets/portraits/toaru-project/misaka-worst-perspective.webp" width="90" height="120" alt="番外個体" title="番外個体"><br>番外個体</a></td>
+</tr>
+<tr>
+<td align="center"><a href="characters/toaru-project/mugino-shizuri-perspective/"><img src="assets/portraits/toaru-project/mugino-shizuri-perspective.webp" width="90" height="120" alt="麦野沈利" title="麦野沈利"><br>麦野沈利</a></td>
+<td align="center"><a href="characters/toaru-project/oriana-thomson-perspective/"><img src="assets/portraits/toaru-project/oriana-thomson-perspective.webp" width="90" height="120" alt="欧莉安娜·汤姆森" title="欧莉安娜·汤姆森"><br>欧莉安娜·汤姆森</a></td>
+<td align="center"><a href="characters/toaru-project/saten-ruiko-perspective/"><img src="assets/portraits/toaru-project/saten-ruiko-perspective.webp" width="90" height="120" alt="佐天泪子" title="佐天泪子"><br>佐天泪子</a></td>
+<td align="center"><a href="characters/toaru-project/shirai-kuroko-perspective/"><img src="assets/portraits/toaru-project/shirai-kuroko-perspective.webp" width="90" height="120" alt="白井黑子" title="白井黑子"><br>白井黑子</a></td>
+<td align="center"><a href="characters/toaru-project/shokuhou-misaki-perspective/"><img src="assets/portraits/toaru-project/shokuhou-misaki-perspective.webp" width="90" height="120" alt="食蜂操祈" title="食蜂操祈"><br>食蜂操祈</a></td>
+<td align="center"><a href="characters/toaru-project/stiyl-magnus-perspective/"><img src="assets/portraits/toaru-project/stiyl-magnus-perspective.webp" width="90" height="120" alt="史提尔·马格努斯" title="史提尔·马格努斯"><br>史提尔·马格努斯</a></td>
+</tr>
+<tr>
+<td align="center"><a href="characters/toaru-project/takitsubo-rikou-perspective/"><img src="assets/portraits/toaru-project/takitsubo-rikou-perspective.webp" width="90" height="120" alt="泷壶理后" title="泷壶理后"><br>泷壶理后</a></td>
+<td align="center"><a href="characters/toaru-project/terra-of-the-left-perspective/"><img src="assets/portraits/toaru-project/terra-of-the-left-perspective.webp" width="90" height="120" alt="左方之地" title="左方之地"><br>左方之地</a></td>
+<td align="center"><a href="characters/toaru-project/tsuchimikado-motoharu-perspective/"><img src="assets/portraits/toaru-project/tsuchimikado-motoharu-perspective.webp" width="90" height="120" alt="土御门元春" title="土御门元春"><br>土御门元春</a></td>
+<td align="center"><a href="characters/toaru-project/uiharu-kazari-perspective/"><img src="assets/portraits/toaru-project/uiharu-kazari-perspective.webp" width="90" height="120" alt="初春饰利" title="初春饰利"><br>初春饰利</a></td>
+<td align="center"><a href="characters/toaru-project/vento-of-the-front-perspective/"><img src="assets/portraits/toaru-project/vento-of-the-front-perspective.webp" width="90" height="120" alt="前方之风" title="前方之风"><br>前方之风</a></td>
+</tr>
+</table>
+
+## 龙与虎 / Toradora! (`toradora`)
+
+<table>
+<tr>
+<td align="center"><a href="characters/toradora/aisaka-taiga-perspective/"><img src="assets/portraits/toradora/aisaka-taiga-perspective.webp" width="90" height="120" alt="逢坂大河" title="逢坂大河"><br>逢坂大河</a></td>
+</tr>
+</table>
+
+## 东方Project (`touhou-project`)
+
+<table>
+<tr>
+<td align="center"><a href="characters/touhou-project/aki-minoriko-perspective/"><img src="assets/portraits/touhou-project/aki-minoriko-perspective.webp" width="90" height="120" alt="秋穰子" title="秋穰子"><br>秋穰子</a></td>
+<td align="center"><a href="characters/touhou-project/aki-shizuha-perspective/"><img src="assets/portraits/touhou-project/aki-shizuha-perspective.webp" width="90" height="120" alt="秋静叶" title="秋静叶"><br>秋静叶</a></td>
+<td align="center"><a href="characters/touhou-project/alice-margatroid-perspective/"><img src="assets/portraits/touhou-project/alice-margatroid-perspective.webp" width="90" height="120" alt="爱丽丝·玛格特罗伊德" title="爱丽丝·玛格特罗伊德"><br>爱丽丝·玛格特罗伊德</a></td>
+<td align="center"><a href="characters/touhou-project/aunn-komano-perspective/"><img src="assets/portraits/touhou-project/aunn-komano-perspective.webp" width="90" height="120" alt="高丽野阿吽" title="高丽野阿吽"><br>高丽野阿吽</a></td>
+<td align="center"><a href="characters/touhou-project/aya-shameimaru-perspective/"><img src="assets/portraits/touhou-project/aya-shameimaru-perspective.webp" width="90" height="120" alt="射命丸文" title="射命丸文"><br>射命丸文</a></td>
+<td align="center"><a href="characters/touhou-project/byakuren-hijiri-perspective/"><img src="assets/portraits/touhou-project/byakuren-hijiri-perspective.webp" width="90" height="120" alt="圣白莲" title="圣白莲"><br>圣白莲</a></td>
+</tr>
+<tr>
+<td align="center"><a href="characters/touhou-project/chen-perspective/"><img src="assets/portraits/touhou-project/chen-perspective.webp" width="90" height="120" alt="橙" title="橙"><br>橙</a></td>
+<td align="center"><a href="characters/touhou-project/cirno-perspective/"><img src="assets/portraits/touhou-project/cirno-perspective.webp" width="90" height="120" alt="琪露诺" title="琪露诺"><br>琪露诺</a></td>
+<td align="center"><a href="characters/touhou-project/clownpiece-perspective/"><img src="assets/portraits/touhou-project/clownpiece-perspective.webp" width="90" height="120" alt="克劳恩皮丝" title="克劳恩皮丝"><br>克劳恩皮丝</a></td>
+<td align="center"><a href="characters/touhou-project/doremy-sweet-perspective/"><img src="assets/portraits/touhou-project/doremy-sweet-perspective.webp" width="90" height="120" alt="哆来咪·苏伊特" title="哆来咪·苏伊特"><br>哆来咪·苏伊特</a></td>
+<td align="center"><a href="characters/touhou-project/ebisu-eika-perspective/"><img src="assets/portraits/touhou-project/ebisu-eika-perspective.webp" width="90" height="120" alt="戎瓔花" title="戎瓔花"><br>戎瓔花</a></td>
+<td align="center"><a href="characters/touhou-project/eternity-larva-perspective/"><img src="assets/portraits/touhou-project/eternity-larva-perspective.webp" width="90" height="120" alt="爱塔妮缇拉尔瓦" title="爱塔妮缇拉尔瓦"><br>爱塔妮缇拉尔瓦</a></td>
+</tr>
+<tr>
+<td align="center"><a href="characters/touhou-project/flandre-scarlet-perspective/"><img src="assets/portraits/touhou-project/flandre-scarlet-perspective.webp" width="90" height="120" alt="芙兰朵露·斯卡雷特" title="芙兰朵露·斯卡雷特"><br>芙兰朵露·斯卡雷特</a></td>
+<td align="center"><a href="characters/touhou-project/fujiwara-no-mokou-perspective/"><img src="assets/portraits/touhou-project/fujiwara-no-mokou-perspective.webp" width="90" height="120" alt="藤原妹红" title="藤原妹红"><br>藤原妹红</a></td>
+<td align="center"><a href="characters/touhou-project/hakurei-reimu-perspective/"><img src="assets/portraits/touhou-project/hakurei-reimu-perspective.webp" width="90" height="120" alt="博丽灵梦" title="博丽灵梦"><br>博丽灵梦</a></td>
+<td align="center"><a href="characters/touhou-project/haniyasushin-keiki-perspective/"><img src="assets/portraits/touhou-project/haniyasushin-keiki-perspective.webp" width="90" height="120" alt="埴安神袿姫" title="埴安神袿姫"><br>埴安神袿姫</a></td>
+<td align="center"><a href="characters/touhou-project/hecatia-lapislazuli-perspective/"><img src="assets/portraits/touhou-project/hecatia-lapislazuli-perspective.webp" width="90" height="120" alt="赫卡提亚·拉碧斯拉祖利" title="赫卡提亚·拉碧斯拉祖利"><br>赫卡提亚·拉碧斯拉祖利</a></td>
+<td align="center"><a href="characters/touhou-project/hieda-no-akyuu-perspective/"><img src="assets/portraits/touhou-project/hieda-no-akyuu-perspective.webp" width="90" height="120" alt="稗田阿求" title="稗田阿求"><br>稗田阿求</a></td>
+</tr>
+<tr>
+<td align="center"><a href="characters/touhou-project/himekaidou-hatate-perspective/"><img src="assets/portraits/touhou-project/himekaidou-hatate-perspective.webp" width="90" height="120" alt="姬海棠果" title="姬海棠果"><br>姬海棠果</a></td>
+<td align="center"><a href="characters/touhou-project/himemushi-momoyo-perspective/"><img src="assets/portraits/touhou-project/himemushi-momoyo-perspective.webp" width="90" height="120" alt="姬虫百百世" title="姬虫百百世"><br>姬虫百百世</a></td>
+<td align="center"><a href="characters/touhou-project/hinanawi-tenshi-perspective/"><img src="assets/portraits/touhou-project/hinanawi-tenshi-perspective.webp" width="90" height="120" alt="比那名居天子" title="比那名居天子"><br>比那名居天子</a></td>
+<td align="center"><a href="characters/touhou-project/hong-meiling-perspective/"><img src="assets/portraits/touhou-project/hong-meiling-perspective.webp" width="90" height="120" alt="红美铃" title="红美铃"><br>红美铃</a></td>
+<td align="center"><a href="characters/touhou-project/houraisan-kaguya-perspective/"><img src="assets/portraits/touhou-project/houraisan-kaguya-perspective.webp" width="90" height="120" alt="蓬莱山辉夜" title="蓬莱山辉夜"><br>蓬莱山辉夜</a></td>
+<td align="center"><a href="characters/touhou-project/ibaraki-kasen-perspective/"><img src="assets/portraits/touhou-project/ibaraki-kasen-perspective.webp" width="90" height="120" alt="茨木华扇" title="茨木华扇"><br>茨木华扇</a></td>
+</tr>
+<tr>
+<td align="center"><a href="characters/touhou-project/iizunamaru-megumu-perspective/"><img src="assets/portraits/touhou-project/iizunamaru-megumu-perspective.webp" width="90" height="120" alt="饭纲丸龙" title="饭纲丸龙"><br>饭纲丸龙</a></td>
+<td align="center"><a href="characters/touhou-project/inaba-tewi-perspective/"><img src="assets/portraits/touhou-project/inaba-tewi-perspective.webp" width="90" height="120" alt="因幡帝" title="因幡帝"><br>因幡帝</a></td>
+<td align="center"><a href="characters/touhou-project/inubashiri-momiji-perspective/"><img src="assets/portraits/touhou-project/inubashiri-momiji-perspective.webp" width="90" height="120" alt="犬走椛" title="犬走椛"><br>犬走椛</a></td>
+<td align="center"><a href="characters/touhou-project/izayoi-sakuya-perspective/"><img src="assets/portraits/touhou-project/izayoi-sakuya-perspective.webp" width="90" height="120" alt="十六夜咲夜" title="十六夜咲夜"><br>十六夜咲夜</a></td>
+<td align="center"><a href="characters/touhou-project/joutouguu-mayumi-perspective/"><img src="assets/portraits/touhou-project/joutouguu-mayumi-perspective.webp" width="90" height="120" alt="杖刀偶磨弓" title="杖刀偶磨弓"><br>杖刀偶磨弓</a></td>
+<td align="center"><a href="characters/touhou-project/junko-perspective/"><img src="assets/portraits/touhou-project/junko-perspective.webp" width="90" height="120" alt="纯狐" title="纯狐"><br>纯狐</a></td>
+</tr>
+<tr>
+<td align="center"><a href="characters/touhou-project/kaenbyou-rin-perspective/"><img src="assets/portraits/touhou-project/kaenbyou-rin-perspective.webp" width="90" height="120" alt="火焰猫燐" title="火焰猫燐"><br>火焰猫燐</a></td>
+<td align="center"><a href="characters/touhou-project/kagiyama-hina-perspective/"><img src="assets/portraits/touhou-project/kagiyama-hina-perspective.webp" width="90" height="120" alt="键山雏" title="键山雏"><br>键山雏</a></td>
+<td align="center"><a href="characters/touhou-project/kaku-seiga-perspective/"><img src="assets/portraits/touhou-project/kaku-seiga-perspective.webp" width="90" height="120" alt="霍青娥" title="霍青娥"><br>霍青娥</a></td>
+<td align="center"><a href="characters/touhou-project/kasodani-kyouko-perspective/"><img src="assets/portraits/touhou-project/kasodani-kyouko-perspective.webp" width="90" height="120" alt="幽谷响子" title="幽谷响子"><br>幽谷响子</a></td>
+<td align="center"><a href="characters/touhou-project/kawashiro-nitori-perspective/"><img src="assets/portraits/touhou-project/kawashiro-nitori-perspective.webp" width="90" height="120" alt="河城荷取" title="河城荷取"><br>河城荷取</a></td>
+<td align="center"><a href="characters/touhou-project/kicchou-yachie-perspective/"><img src="assets/portraits/touhou-project/kicchou-yachie-perspective.webp" width="90" height="120" alt="吉弔八千慧" title="吉弔八千慧"><br>吉弔八千慧</a></td>
+</tr>
+<tr>
+<td align="center"><a href="characters/touhou-project/kijin-seija-perspective/"><img src="assets/portraits/touhou-project/kijin-seija-perspective.webp" width="90" height="120" alt="鬼人正邪" title="鬼人正邪"><br>鬼人正邪</a></td>
+<td align="center"><a href="characters/touhou-project/kirisame-marisa-perspective/"><img src="assets/portraits/touhou-project/kirisame-marisa-perspective.webp" width="90" height="120" alt="雾雨魔理沙" title="雾雨魔理沙"><br>雾雨魔理沙</a></td>
+<td align="center"><a href="characters/touhou-project/kishin-sagume-perspective/"><img src="assets/portraits/touhou-project/kishin-sagume-perspective.webp" width="90" height="120" alt="稀神探女" title="稀神探女"><br>稀神探女</a></td>
+<td align="center"><a href="characters/touhou-project/koakuma-perspective/"><img src="assets/portraits/touhou-project/koakuma-perspective.webp" width="90" height="120" alt="小恶魔" title="小恶魔"><br>小恶魔</a></td>
+<td align="center"><a href="characters/touhou-project/kochiya-sanae-perspective/"><img src="assets/portraits/touhou-project/kochiya-sanae-perspective.webp" width="90" height="120" alt="东风谷早苗" title="东风谷早苗"><br>东风谷早苗</a></td>
+<td align="center"><a href="characters/touhou-project/komakusa-sannyo-perspective/"><img src="assets/portraits/touhou-project/komakusa-sannyo-perspective.webp" width="90" height="120" alt="驹草山如" title="驹草山如"><br>驹草山如</a></td>
+</tr>
+<tr>
+<td align="center"><a href="characters/touhou-project/komeiji-koishi-perspective/"><img src="assets/portraits/touhou-project/komeiji-koishi-perspective.webp" width="90" height="120" alt="古明地恋" title="古明地恋"><br>古明地恋</a></td>
+<td align="center"><a href="characters/touhou-project/komeiji-satori-perspective/"><img src="assets/portraits/touhou-project/komeiji-satori-perspective.webp" width="90" height="120" alt="古明地觉" title="古明地觉"><br>古明地觉</a></td>
+<td align="center"><a href="characters/touhou-project/konpaku-youmu-perspective/"><img src="assets/portraits/touhou-project/konpaku-youmu-perspective.webp" width="90" height="120" alt="魂魄妖梦" title="魂魄妖梦"><br>魂魄妖梦</a></td>
+<td align="center"><a href="characters/touhou-project/kudamaki-tsukasa-perspective/"><img src="assets/portraits/touhou-project/kudamaki-tsukasa-perspective.webp" width="90" height="120" alt="菅牧典" title="菅牧典"><br>菅牧典</a></td>
+<td align="center"><a href="characters/touhou-project/kumoi-ichirin-perspective/"><img src="assets/portraits/touhou-project/kumoi-ichirin-perspective.webp" width="90" height="120" alt="云居一轮 &amp; 云山" title="云居一轮 &amp; 云山"><br>云居一轮 &amp; 云山</a></td>
+<td align="center"><a href="characters/touhou-project/kurokoma-saki-perspective/"><img src="assets/portraits/touhou-project/kurokoma-saki-perspective.webp" width="90" height="120" alt="黒駒早鬼" title="黒駒早鬼"><br>黒駒早鬼</a></td>
+</tr>
+<tr>
+<td align="center"><a href="characters/touhou-project/matara-okina-perspective/"><img src="assets/portraits/touhou-project/matara-okina-perspective.webp" width="90" height="120" alt="摩多罗隐岐奈" title="摩多罗隐岐奈"><br>摩多罗隐岐奈</a></td>
+<td align="center"><a href="characters/touhou-project/minamitsu-murasa-perspective/"><img src="assets/portraits/touhou-project/minamitsu-murasa-perspective.webp" width="90" height="120" alt="村纱水蜜" title="村纱水蜜"><br>村纱水蜜</a></td>
+<td align="center"><a href="characters/touhou-project/mitsugashira-enoko-perspective/"><img src="assets/portraits/touhou-project/mitsugashira-enoko-perspective.webp" width="90" height="120" alt="三头慧之子" title="三头慧之子"><br>三头慧之子</a></td>
+<td align="center"><a href="characters/touhou-project/miyako-yoshika-perspective/"><img src="assets/portraits/touhou-project/miyako-yoshika-perspective.webp" width="90" height="120" alt="宫古芳香" title="宫古芳香"><br>宫古芳香</a></td>
+<td align="center"><a href="characters/touhou-project/mononobe-no-futo-perspective/"><img src="assets/portraits/touhou-project/mononobe-no-futo-perspective.webp" width="90" height="120" alt="物部布都" title="物部布都"><br>物部布都</a></td>
+<td align="center"><a href="characters/touhou-project/morichika-rinnosuke-perspective/"><img src="assets/portraits/touhou-project/morichika-rinnosuke-perspective.webp" width="90" height="120" alt="森近霖之助" title="森近霖之助"><br>森近霖之助</a></td>
+</tr>
+<tr>
+<td align="center"><a href="characters/touhou-project/moriya-suwako-perspective/"><img src="assets/portraits/touhou-project/moriya-suwako-perspective.webp" width="90" height="120" alt="洩矢诹访子" title="洩矢诹访子"><br>洩矢诹访子</a></td>
+<td align="center"><a href="characters/touhou-project/motoori-kosuzu-perspective/"><img src="assets/portraits/touhou-project/motoori-kosuzu-perspective.webp" width="90" height="120" alt="本居小铃" title="本居小铃"><br>本居小铃</a></td>
+<td align="center"><a href="characters/touhou-project/nagae-iku-perspective/"><img src="assets/portraits/touhou-project/nagae-iku-perspective.webp" width="90" height="120" alt="永江衣玖" title="永江衣玖"><br>永江衣玖</a></td>
+<td align="center"><a href="characters/touhou-project/nazrin-perspective/"><img src="assets/portraits/touhou-project/nazrin-perspective.webp" width="90" height="120" alt="娜兹玲" title="娜兹玲"><br>娜兹玲</a></td>
+<td align="center"><a href="characters/touhou-project/nippaku-zanmu-perspective/"><img src="assets/portraits/touhou-project/nippaku-zanmu-perspective.webp" width="90" height="120" alt="日白残无" title="日白残无"><br>日白残无</a></td>
+<td align="center"><a href="characters/touhou-project/nishida-satono-perspective/"><img src="assets/portraits/touhou-project/nishida-satono-perspective.webp" width="90" height="120" alt="尔子田里乃" title="尔子田里乃"><br>尔子田里乃</a></td>
+</tr>
+<tr>
+<td align="center"><a href="characters/touhou-project/niwatari-kutaka-perspective/"><img src="assets/portraits/touhou-project/niwatari-kutaka-perspective.webp" width="90" height="120" alt="庭渡久侘歌" title="庭渡久侘歌"><br>庭渡久侘歌</a></td>
+<td align="center"><a href="characters/touhou-project/onozuka-komachi-perspective/"><img src="assets/portraits/touhou-project/onozuka-komachi-perspective.webp" width="90" height="120" alt="小野塚小町" title="小野塚小町"><br>小野塚小町</a></td>
+<td align="center"><a href="characters/touhou-project/patchouli-knowledge-perspective/"><img src="assets/portraits/touhou-project/patchouli-knowledge-perspective.webp" width="90" height="120" alt="帕秋莉·诺蕾姬" title="帕秋莉·诺蕾姬"><br>帕秋莉·诺蕾姬</a></td>
+<td align="center"><a href="characters/touhou-project/reisen-udongein-inaba-perspective/"><img src="assets/portraits/touhou-project/reisen-udongein-inaba-perspective.webp" width="90" height="120" alt="铃仙·优昙华院·因幡" title="铃仙·优昙华院·因幡"><br>铃仙·优昙华院·因幡</a></td>
+<td align="center"><a href="characters/touhou-project/reiuji-utsuho-perspective/"><img src="assets/portraits/touhou-project/reiuji-utsuho-perspective.webp" width="90" height="120" alt="灵乌路空" title="灵乌路空"><br>灵乌路空</a></td>
+<td align="center"><a href="characters/touhou-project/remilia-scarlet-perspective/"><img src="assets/portraits/touhou-project/remilia-scarlet-perspective.webp" width="90" height="120" alt="蕾米莉亚·斯卡蕾特" title="蕾米莉亚·斯卡蕾特"><br>蕾米莉亚·斯卡蕾特</a></td>
+</tr>
+<tr>
+<td align="center"><a href="characters/touhou-project/ringoo-perspective/"><img src="assets/portraits/touhou-project/ringoo-perspective.webp" width="90" height="120" alt="铃瑚" title="铃瑚"><br>铃瑚</a></td>
+<td align="center"><a href="characters/touhou-project/saigyouji-yuyuko-perspective/"><img src="assets/portraits/touhou-project/saigyouji-yuyuko-perspective.webp" width="90" height="120" alt="西行寺幽幽子" title="西行寺幽幽子"><br>西行寺幽幽子</a></td>
+<td align="center"><a href="characters/touhou-project/sakata-nemuno-perspective/"><img src="assets/portraits/touhou-project/sakata-nemuno-perspective.webp" width="90" height="120" alt="坂田合欢" title="坂田合欢"><br>坂田合欢</a></td>
+<td align="center"><a href="characters/touhou-project/seiran-perspective/"><img src="assets/portraits/touhou-project/seiran-perspective.webp" width="90" height="120" alt="清兰" title="清兰"><br>清兰</a></td>
+<td align="center"><a href="characters/touhou-project/shikieiki-yamaxanadu-perspective/"><img src="assets/portraits/touhou-project/shikieiki-yamaxanadu-perspective.webp" width="90" height="120" alt="四季映姬" title="四季映姬"><br>四季映姬</a></td>
+<td align="center"><a href="characters/touhou-project/soga-no-tojiko-perspective/"><img src="assets/portraits/touhou-project/soga-no-tojiko-perspective.webp" width="90" height="120" alt="苏我屠自古" title="苏我屠自古"><br>苏我屠自古</a></td>
+</tr>
+<tr>
+<td align="center"><a href="characters/touhou-project/son-biten-perspective/"><img src="assets/portraits/touhou-project/son-biten-perspective.webp" width="90" height="120" alt="孙美天" title="孙美天"><br>孙美天</a></td>
+<td align="center"><a href="characters/touhou-project/suika-ibuki-perspective/"><img src="assets/portraits/touhou-project/suika-ibuki-perspective.webp" width="90" height="120" alt="伊吹萃香" title="伊吹萃香"><br>伊吹萃香</a></td>
+<td align="center"><a href="characters/touhou-project/sukuna-shinmyoumaru-perspective/"><img src="assets/portraits/touhou-project/sukuna-shinmyoumaru-perspective.webp" width="90" height="120" alt="少名针妙丸" title="少名针妙丸"><br>少名针妙丸</a></td>
+<td align="center"><a href="characters/touhou-project/tamatsukuri-misumaru-perspective/"><img src="assets/portraits/touhou-project/tamatsukuri-misumaru-perspective.webp" width="90" height="120" alt="玉造魅须丸" title="玉造魅须丸"><br>玉造魅须丸</a></td>
+<td align="center"><a href="characters/touhou-project/teireida-mai-perspective/"><img src="assets/portraits/touhou-project/teireida-mai-perspective.webp" width="90" height="120" alt="丁礼田舞" title="丁礼田舞"><br>丁礼田舞</a></td>
+<td align="center"><a href="characters/touhou-project/tenkajin-chiyari-perspective/"><img src="assets/portraits/touhou-project/tenkajin-chiyari-perspective.webp" width="90" height="120" alt="天火人血枪" title="天火人血枪"><br>天火人血枪</a></td>
+</tr>
+<tr>
+<td align="center"><a href="characters/touhou-project/tenkyuu-chimata-perspective/"><img src="assets/portraits/touhou-project/tenkyuu-chimata-perspective.webp" width="90" height="120" alt="天弓千亦" title="天弓千亦"><br>天弓千亦</a></td>
+<td align="center"><a href="characters/touhou-project/toramaru-shou-perspective/"><img src="assets/portraits/touhou-project/toramaru-shou-perspective.webp" width="90" height="120" alt="寅丸星" title="寅丸星"><br>寅丸星</a></td>
+<td align="center"><a href="characters/touhou-project/toyosatomimi-no-miko-perspective/"><img src="assets/portraits/touhou-project/toyosatomimi-no-miko-perspective.webp" width="90" height="120" alt="丰聪耳神子" title="丰聪耳神子"><br>丰聪耳神子</a></td>
+<td align="center"><a href="characters/touhou-project/usami-sumireko-perspective/"><img src="assets/portraits/touhou-project/usami-sumireko-perspective.webp" width="90" height="120" alt="宇佐见堇子" title="宇佐见堇子"><br>宇佐见堇子</a></td>
+<td align="center"><a href="characters/touhou-project/ushizaki-urumi-perspective/"><img src="assets/portraits/touhou-project/ushizaki-urumi-perspective.webp" width="90" height="120" alt="牛崎潤美" title="牛崎潤美"><br>牛崎潤美</a></td>
+<td align="center"><a href="characters/touhou-project/yagokoro-eirin-perspective/"><img src="assets/portraits/touhou-project/yagokoro-eirin-perspective.webp" width="90" height="120" alt="八意永琳" title="八意永琳"><br>八意永琳</a></td>
+</tr>
+<tr>
+<td align="center"><a href="characters/touhou-project/yakumo-ran-perspective/"><img src="assets/portraits/touhou-project/yakumo-ran-perspective.webp" width="90" height="120" alt="八云蓝" title="八云蓝"><br>八云蓝</a></td>
+<td align="center"><a href="characters/touhou-project/yakumo-yukari-perspective/"><img src="assets/portraits/touhou-project/yakumo-yukari-perspective.webp" width="90" height="120" alt="八云紫" title="八云紫"><br>八云紫</a></td>
+<td align="center"><a href="characters/touhou-project/yasaka-kanako-perspective/"><img src="assets/portraits/touhou-project/yasaka-kanako-perspective.webp" width="90" height="120" alt="八坂神奈子" title="八坂神奈子"><br>八坂神奈子</a></td>
+<td align="center"><a href="characters/touhou-project/yatadera-narumi-perspective/"><img src="assets/portraits/touhou-project/yatadera-narumi-perspective.webp" width="90" height="120" alt="矢田寺成美" title="矢田寺成美"><br>矢田寺成美</a></td>
+<td align="center"><a href="characters/touhou-project/yomotsu-hisami-perspective/"><img src="assets/portraits/touhou-project/yomotsu-hisami-perspective.webp" width="90" height="120" alt="豫母都日狭美" title="豫母都日狭美"><br>豫母都日狭美</a></td>
+</tr>
+</table>
+
+## 月依 (`tsuki-ni-yorisou-otome-no-sahou`)
+
+<table>
+<tr>
+<td align="center"><a href="characters/tsuki-ni-yorisou-otome-no-sahou/sakurakouji-runa-perspective/"><img src="assets/portraits/tsuki-ni-yorisou-otome-no-sahou/sakurakouji-runa-perspective.webp" width="90" height="120" alt="樱小路露娜" title="樱小路露娜"><br>樱小路露娜</a></td>
+</tr>
+</table>
+
+## 初音未来 (`vocaloid`)
+
+<table>
+<tr>
+<td align="center"><a href="characters/vocaloid/hatsune-miku-perspective/"><img src="assets/portraits/vocaloid/hatsune-miku-perspective.webp" width="90" height="120" alt="初音未来" title="初音未来"><br>初音未来</a></td>
+</tr>
+</table>
+
+## 鸣潮 / Wuthering Waves (`wuthering-waves`)
+
+<table>
+<tr>
+<td align="center"><a href="characters/wuthering-waves/aemeath-perspective/"><img src="assets/portraits/wuthering-waves/aemeath-perspective.webp" width="90" height="120" alt="艾梅丝" title="艾梅丝"><br>艾梅丝</a></td>
+<td align="center"><a href="characters/wuthering-waves/augusta-perspective/"><img src="assets/portraits/wuthering-waves/augusta-perspective.webp" width="90" height="120" alt="奥古斯塔" title="奥古斯塔"><br>奥古斯塔</a></td>
+<td align="center"><a href="characters/wuthering-waves/baizhi-perspective/"><img src="assets/portraits/wuthering-waves/baizhi-perspective.webp" width="90" height="120" alt="白芷" title="白芷"><br>白芷</a></td>
+<td align="center"><a href="characters/wuthering-waves/buling-perspective/"><img src="assets/portraits/wuthering-waves/buling-perspective.webp" width="90" height="120" alt="布玲" title="布玲"><br>布玲</a></td>
+<td align="center"><a href="characters/wuthering-waves/camellya-perspective/"><img src="assets/portraits/wuthering-waves/camellya-perspective.webp" width="90" height="120" alt="椿" title="椿"><br>椿</a></td>
+<td align="center"><a href="characters/wuthering-waves/cantarella-perspective/"><img src="assets/portraits/wuthering-waves/cantarella-perspective.webp" width="90" height="120" alt="坎特蕾拉" title="坎特蕾拉"><br>坎特蕾拉</a></td>
+</tr>
+<tr>
+<td align="center"><a href="characters/wuthering-waves/carlotta-perspective/"><img src="assets/portraits/wuthering-waves/carlotta-perspective.webp" width="90" height="120" alt="珂莱塔" title="珂莱塔"><br>珂莱塔</a></td>
+<td align="center"><a href="characters/wuthering-waves/cartethyia-perspective/"><img src="assets/portraits/wuthering-waves/cartethyia-perspective.webp" width="90" height="120" alt="卡提西亚" title="卡提西亚"><br>卡提西亚</a></td>
+<td align="center"><a href="characters/wuthering-waves/changli-perspective/"><img src="assets/portraits/wuthering-waves/changli-perspective.webp" width="90" height="120" alt="长离" title="长离"><br>长离</a></td>
+<td align="center"><a href="characters/wuthering-waves/chisa-perspective/"><img src="assets/portraits/wuthering-waves/chisa-perspective.webp" width="90" height="120" alt="琪莎" title="琪莎"><br>琪莎</a></td>
+<td align="center"><a href="characters/wuthering-waves/chixia-perspective/"><img src="assets/portraits/wuthering-waves/chixia-perspective.webp" width="90" height="120" alt="炽霞" title="炽霞"><br>炽霞</a></td>
+<td align="center"><a href="characters/wuthering-waves/ciaccona-perspective/"><img src="assets/portraits/wuthering-waves/ciaccona-perspective.webp" width="90" height="120" alt="夏空" title="夏空"><br>夏空</a></td>
+</tr>
+<tr>
+<td align="center"><a href="characters/wuthering-waves/danjin-perspective/"><img src="assets/portraits/wuthering-waves/danjin-perspective.webp" width="90" height="120" alt="丹瑾" title="丹瑾"><br>丹瑾</a></td>
+<td align="center"><a href="characters/wuthering-waves/denia-perspective/"><img src="assets/portraits/wuthering-waves/denia-perspective.webp" width="90" height="120" alt="德妮娅" title="德妮娅"><br>德妮娅</a></td>
+<td align="center"><a href="characters/wuthering-waves/encore-perspective/"><img src="assets/portraits/wuthering-waves/encore-perspective.webp" width="90" height="120" alt="安可" title="安可"><br>安可</a></td>
+<td align="center"><a href="characters/wuthering-waves/galbrena-perspective/"><img src="assets/portraits/wuthering-waves/galbrena-perspective.webp" width="90" height="120" alt="加尔贝娜" title="加尔贝娜"><br>加尔贝娜</a></td>
+<td align="center"><a href="characters/wuthering-waves/hiyuki-perspective/"><img src="assets/portraits/wuthering-waves/hiyuki-perspective.webp" width="90" height="120" alt="日向" title="日向"><br>日向</a></td>
+<td align="center"><a href="characters/wuthering-waves/iuno-perspective/"><img src="assets/portraits/wuthering-waves/iuno-perspective.webp" width="90" height="120" alt="伊诺" title="伊诺"><br>伊诺</a></td>
+</tr>
+<tr>
+<td align="center"><a href="characters/wuthering-waves/jianxin-perspective/"><img src="assets/portraits/wuthering-waves/jianxin-perspective.webp" width="90" height="120" alt="鉴心" title="鉴心"><br>鉴心</a></td>
+<td align="center"><a href="characters/wuthering-waves/jinshi-perspective/"><img src="assets/portraits/wuthering-waves/jinshi-perspective.webp" width="90" height="120" alt="今汐" title="今汐"><br>今汐</a></td>
+<td align="center"><a href="characters/wuthering-waves/lucilla-perspective/"><img src="assets/portraits/wuthering-waves/lucilla-perspective.webp" width="90" height="120" alt="露奇" title="露奇"><br>露奇</a></td>
+<td align="center"><a href="characters/wuthering-waves/lucy-perspective/"><img src="assets/portraits/wuthering-waves/lucy-perspective.webp" width="90" height="120" alt="露西" title="露西"><br>露西</a></td>
+<td align="center"><a href="characters/wuthering-waves/lumi-perspective/"><img src="assets/portraits/wuthering-waves/lumi-perspective.webp" width="90" height="120" alt="露米" title="露米"><br>露米</a></td>
+<td align="center"><a href="characters/wuthering-waves/lupa-perspective/"><img src="assets/portraits/wuthering-waves/lupa-perspective.webp" width="90" height="120" alt="露帕" title="露帕"><br>露帕</a></td>
+</tr>
+<tr>
+<td align="center"><a href="characters/wuthering-waves/lynae-perspective/"><img src="assets/portraits/wuthering-waves/lynae-perspective.webp" width="90" height="120" alt="莱娜" title="莱娜"><br>莱娜</a></td>
+<td align="center"><a href="characters/wuthering-waves/mornye-perspective/"><img src="assets/portraits/wuthering-waves/mornye-perspective.webp" width="90" height="120" alt="莫宁" title="莫宁"><br>莫宁</a></td>
+<td align="center"><a href="characters/wuthering-waves/phoebe-perspective/"><img src="assets/portraits/wuthering-waves/phoebe-perspective.webp" width="90" height="120" alt="菲比" title="菲比"><br>菲比</a></td>
+<td align="center"><a href="characters/wuthering-waves/phrolova-perspective/"><img src="assets/portraits/wuthering-waves/phrolova-perspective.webp" width="90" height="120" alt="费洛威" title="费洛威"><br>费洛威</a></td>
+<td align="center"><a href="characters/wuthering-waves/rebecca-perspective/"><img src="assets/portraits/wuthering-waves/rebecca-perspective.webp" width="90" height="120" alt="丽贝卡" title="丽贝卡"><br>丽贝卡</a></td>
+<td align="center"><a href="characters/wuthering-waves/roccia-perspective/"><img src="assets/portraits/wuthering-waves/roccia-perspective.webp" width="90" height="120" alt="洛可可" title="洛可可"><br>洛可可</a></td>
+</tr>
+<tr>
+<td align="center"><a href="characters/wuthering-waves/sanhua-perspective/"><img src="assets/portraits/wuthering-waves/sanhua-perspective.webp" width="90" height="120" alt="散华" title="散华"><br>散华</a></td>
+<td align="center"><a href="characters/wuthering-waves/shorekeeper-perspective/"><img src="assets/portraits/wuthering-waves/shorekeeper-perspective.webp" width="90" height="120" alt="守岸人" title="守岸人"><br>守岸人</a></td>
+<td align="center"><a href="characters/wuthering-waves/sigrika-perspective/"><img src="assets/portraits/wuthering-waves/sigrika-perspective.webp" width="90" height="120" alt="希格莉卡" title="希格莉卡"><br>希格莉卡</a></td>
+<td align="center"><a href="characters/wuthering-waves/suisui-perspective/"><img src="assets/portraits/wuthering-waves/suisui-perspective.webp" width="90" height="120" alt="绥绥" title="绥绥"><br>绥绥</a></td>
+<td align="center"><a href="characters/wuthering-waves/taoqi-perspective/"><img src="assets/portraits/wuthering-waves/taoqi-perspective.webp" width="90" height="120" alt="桃祈" title="桃祈"><br>桃祈</a></td>
+<td align="center"><a href="characters/wuthering-waves/verina-perspective/"><img src="assets/portraits/wuthering-waves/verina-perspective.webp" width="90" height="120" alt="维里奈" title="维里奈"><br>维里奈</a></td>
+</tr>
+<tr>
+<td align="center"><a href="characters/wuthering-waves/yangyang-perspective/"><img src="assets/portraits/wuthering-waves/yangyang-perspective.webp" width="90" height="120" alt="秧秧" title="秧秧"><br>秧秧</a></td>
+<td align="center"><a href="characters/wuthering-waves/yinlin-perspective/"><img src="assets/portraits/wuthering-waves/yinlin-perspective.webp" width="90" height="120" alt="吟霖" title="吟霖"><br>吟霖</a></td>
+<td align="center"><a href="characters/wuthering-waves/youhu-perspective/"><img src="assets/portraits/wuthering-waves/youhu-perspective.webp" width="90" height="120" alt="悠游" title="悠游"><br>悠游</a></td>
+<td align="center"><a href="characters/wuthering-waves/zani-perspective/"><img src="assets/portraits/wuthering-waves/zani-perspective.webp" width="90" height="120" alt="赞妮" title="赞妮"><br>赞妮</a></td>
+<td align="center"><a href="characters/wuthering-waves/zhezhi-perspective/"><img src="assets/portraits/wuthering-waves/zhezhi-perspective.webp" width="90" height="120" alt="折枝" title="折枝"><br>折枝</a></td>
+</tr>
+</table>
+
+## 零之使魔 / The Familiar of Zero (`zero-no-tsukaima`)
+
+<table>
+<tr>
+<td align="center"><a href="characters/zero-no-tsukaima/louise-perspective/"><img src="assets/portraits/zero-no-tsukaima/louise-perspective.webp" width="90" height="120" alt="露易丝" title="露易丝"><br>露易丝</a></td>
+</tr>
+</table>
